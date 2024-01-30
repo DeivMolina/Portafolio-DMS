@@ -16,27 +16,27 @@ import IMG13 from '../../assets/portfolio13.png'
 import IMG14 from '../../assets/portafolio14.gif'
 
 const data = [
-  {
-    id: 1,
-    image: IMG14,
-    tittle: 'ECHE <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://eche.com.mx'
-  },
-  {
-    id: 2,
-    image: IMG13,
-    tittle: 'BeFocused <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://befocused.panduitlatam.com'
-  },
-  {
-    id: 3,
-    image: IMG12,
-    tittle: 'Caña de Oro <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://canadeoro.com.mx'
-  },
+  // {
+  //   id: 1,
+  //   image: IMG14,
+  //   tittle: 'ECHE <Web-Site />',
+  //   github: 'https://github.com/DeivMolina',
+  //   demo: 'https://eche.com.mx'
+  // },
+  // {
+  //   id: 2,
+  //   image: IMG13,
+  //   tittle: 'BeFocused <Web-Site />',
+  //   github: 'https://github.com/DeivMolina',
+  //   demo: 'https://befocused.panduitlatam.com'
+  // },
+  // {
+  //   id: 3,
+  //   image: IMG12,
+  //   tittle: 'Caña de Oro <Web-Site />',
+  //   github: 'https://github.com/DeivMolina',
+  //   demo: 'https://canadeoro.com.mx'
+  // },
   {
     id: 4,
     image: IMG1,
