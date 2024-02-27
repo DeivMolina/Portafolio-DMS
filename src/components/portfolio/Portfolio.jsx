@@ -77,8 +77,8 @@ const data = [
     id: 9,
     image: IMG11,
     tittle: 'Hydra Consultores <Web-site />',
-    github: 'https://hydraconsultores.com.mx',
-    demo: 'https://inders.com.mx'
+    github: 'https://github.com/DeivMolina',
+    demo: 'https://hydraconsultores.com.mx'
    
   },
   {
