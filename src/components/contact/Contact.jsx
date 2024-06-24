@@ -3,6 +3,8 @@ import './contact.css'
 import {MdOutlineMarkEmailRead} from 'react-icons/md'
 import {FaWhatsapp} from 'react-icons/fa'
 import { useRef } from 'react';
+
+
 import emailjs from 'emailjs-com';
 
 const Contact = () => {
@@ -11,10 +13,19 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_dw2iep9', 'template_00bsoer', form.current, 'PLVe2mPiaHGqH25Tp')
+    emailjs.sendForm('service_yyijq4m', 'template_iwf1uwt', form.current, 
+      'wdVXdRYvSwb8wlJ61').then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text)
+        }
+      )
      
     e.target.reset()
   };
+
 
   return (
     <section id='contact'>
