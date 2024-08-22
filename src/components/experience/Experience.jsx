@@ -40,7 +40,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
               <h4>JavaScript</h4>
-              <small className='text-light'>Experto</small>
+              <small className='text-light'>Intermedio</small>
               </div>
             </article>
 
@@ -64,7 +64,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
               <h4>Angular</h4>
-              <small className='text-light'>Intermedio</small>
+              <small className='text-light'>Basico</small>
               </div>
             </article>
           </div>
@@ -85,7 +85,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
               <h4>PHP</h4>
-                <small className='text-light'>Experto</small>
+                <small className='text-light'>Intermedio</small>
               </div>
             </article>
 
@@ -101,7 +101,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
               <h4>Mongo DB</h4>
-              <small className='text-light'>Intermedio</small>
+              <small className='text-light'>Basico</small>
               </div>
             </article>
 
@@ -109,7 +109,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
               <h4>Python</h4>
-              <small className='text-light'>Intermedio</small>
+              <small className='text-light'>Basico</small>
               </div>
             </article>
           </div>

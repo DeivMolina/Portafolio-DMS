@@ -14,84 +14,67 @@ import IMG11 from '../../assets/portfolio11.png'
 import IMG12 from '../../assets/portfolio12.png'
 import IMG13 from '../../assets/portfolio13.png'
 import IMG14 from '../../assets/portafolio14.gif'
-import IMG15 from '../../assets/portfolio15.png'
-import IMG16 from '../../assets/portfolio16.png'
-
 
 const data = [
-  {
-    id: 1,
-    image: IMG16,
-    tittle: 'AirPlane DMS',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://dm-series.com/threejs/'
-  },
-  {
-    id: 2,
-    image: IMG15,
-    tittle: 'Techcomp <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://rkcreativo.com.mx/techcomp-promociones/'
-  },
-  {
-    id: 3,
-    image: IMG14,
-    tittle: 'ECHE <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://eche.com.mx'
-  },
+  // {
+  //   id: 1,
+  //   image: IMG14,
+  //   tittle: 'ECHE <Web-Site />',
+  //   github: 'https://github.com/DeivMolina',
+  //   demo: 'https://eche.com.mx'
+  // },
+  // {
+  //   id: 2,
+  //   image: IMG13,
+  //   tittle: 'BeFocused <Web-Site />',
+  //   github: 'https://github.com/DeivMolina',
+  //   demo: 'https://befocused.panduitlatam.com'
+  // },
+  // {
+  //   id: 3,
+  //   image: IMG12,
+  //   tittle: 'Caña de Oro <Web-Site />',
+  //   github: 'https://github.com/DeivMolina',
+  //   demo: 'https://canadeoro.com.mx'
+  // },
   {
     id: 4,
-    image: IMG13,
-    tittle: 'BeFocused <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://befocused.panduitlatam.com'
-  },
-  {
-    id: 5,
-    image: IMG12,
-    tittle: 'Caña de Oro <Web-Site />',
-    github: 'https://github.com/DeivMolina',
-    demo: 'https://canadeoro.com.mx'
-  },
-  {
-    id: 6,
     image: IMG1,
     tittle: 'ASGL & ASOC <Web-Site />',
     github: 'https://github.com/DeivMolina',
     demo: 'https://asglasociados.com.mx'
   },
   {
-    id: 7,
+    id: 5,
     image: IMG2,
     tittle: 'INAP <Web-Site />',
     github: 'https://github.com/DeivMolina',
     demo: 'https://inap.mx'
   },
   {
-    id: 8,
+    id: 6,
     image: IMG3,
     tittle: 'DESPACHO ATM <Web-Site & CRM />',
     github: 'https://github.com/DeivMolina',
     demo: 'https://despachoatm.com'
   },
   {
-    id: 9,
+    id: 7,
     image: IMG4,
     tittle: 'Molina Consultores <Web-site />',
     github: 'https://github.com/DeivMolina',
-    // demo: 'https://molina-consultores.com'
+    demo: 'https://molina-consultores.com'
   },
   {
-    id: 10,
+    id: 8,
     image: IMG8,
     tittle: 'Grupo Inders <E-commerce />',
     github: 'https://github.com/DeivMolina',
-    demo: 'https://inders.com.mx/tienda'
+    demo: 'https://inders.com.mx'
    
   },
   {
-    id: 11,
+    id: 9,
     image: IMG11,
     tittle: 'Hydra Consultores <Web-site />',
     github: 'https://github.com/DeivMolina',
@@ -99,35 +82,35 @@ const data = [
    
   },
   {
-    id: 12,
+    id: 10,
     image: IMG6,
     tittle: 'Planilla Dorada <Web-Site />',
     github: 'https://github.com/DeivMolina',
     // demo: 'http://planilla-dorada.com'
   },
   {
-    id: 13,
+    id: 11,
     image: IMG7,
     tittle: 'Alearth <E-Commerce />',
     github: 'https://github.com/DeivMolina',
     // demo: 'https://www.dm-series.online'
   },
   {
-    id: 14,
+    id: 12,
     image: IMG5,
     tittle: 'Law Soluciones Legales <Web-Site />',
     github: 'https://github.com/DeivMolina',
     // demo: 'https://www.lawsolucioneslegales.com'
   },
   {
-    id: 15,
+    id: 13,
     image: IMG9,
     tittle: 'Bliblioteca UTN <Sistema de Inventario />',
     github: 'https://github.com/DeivMolina',
     // demo: 'https://www.dm-series.online'
   },
   {
-    id: 16,
+    id: 14,
     image: IMG10,
     tittle: 'Reach QR <Sistema In:Out />',
     github: 'https://github.com/DeivMolina',
@@ -150,16 +133,15 @@ const Portfolio = () => {
               <div className="portfolio__item-image">
                 <img src={image} alt={tittle} />
               </div>
-              <h3>{tittle}</h3>
-              <div className="portfolio__item-cta">
-                <a href={github} className='btn' target='_blank'>GitHub</a>
-                {demo && <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>}
-              </div>
-            </article>
+                <h3>{tittle}</h3>
+                <div className="portfolio__item-cta">
+                  <a href={github} className='btn'target='_blank'>GitHub</a>
+                  <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                </div>
+          </article>
           )
         })
       }
-
       </div>
     </section>
   )
