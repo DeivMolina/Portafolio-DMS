@@ -1,13 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap');
+
 header{
-    height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
 }
 
 .header__container{
-    text-align: center;
-    height: 100%;
+    min-height: calc(100vh - 7rem); /* Asegura que no cambie su tamaño */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-family: 'Geologica', sans-serif;
+    display: inline-block;
+    border-right: 2px solid #4b59fb;
+    padding-right: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    height: 3rem; 
+    line-height: 3rem; 
+}
+
+.description{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h5, h6 {
     position: relative;
+    top: 0; /* Asegura que se queden en su lugar */
+    margin-top: 1rem; /* Ajusta según sea necesario */
 }
 
 .cta{
@@ -34,17 +59,73 @@ header{
     background: var(--color-primary);
 }
 
-.me{
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
-    position: absolute;
-    left: calc(50% - 11rem);
-    margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
-    overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
-}
+.me {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1rem 0;
+  }
+  
+  .me img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 1rem;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 50px;
+    border: 1px solid #51e4b8;
+    background-color: transparent;
+    color: #fff;
+    animation: scaleBadge 2s infinite ease-in-out;
+    font-size: 12px;
+  }
+
+  .badge-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    width: auto; /* Asegura que el ancho se ajuste al contenido */
+  }
+  
+  .badge-btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
+  }
+  
+  .badge-btn span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+  }
+  
+  .badges {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los badges se ajusten y no se extiendan en una sola línea */
+    gap: 1rem;
+    padding: 1rem 0;
+  }
+  
+  
+  @keyframes scaleBadge {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1); /* Aumenta ligeramente el tamaño */
+    }
+  }
 
 .scroll__down{
     position: absolute;
@@ -57,19 +138,32 @@ header{
 
 /*MEDIA QUERYS*/
 
-@media screen and (max-width: 1024px) {
-    header{
+    @media screen and (max-width: 1024px) {
+        header {
         height: 68vh;
-
+        }
+        .badge-btn {
+            padding: 0.4rem 0.8rem; /* Reduce el padding en pantallas medianas */
+            font-size: 0.9rem; /* Reduce el tamaño de la fuente */
+        }
     }
-}
-
-@media screen and (max-width: 600px) {
-    header{
-        height: 100vh;
-    }
-
-    .header__socials, .scroll__down{
+    
+    @media screen and (max-width: 600px) {
+        header {
+        height: 85vh;
+        }
+    
+        .header__socials, .scroll__down {
         display: none;
+        }
+
+        .badge-btn {
+            padding: 0.3rem 0.6rem; /* Aún más pequeño en pantallas pequeñas */
+            font-size: 0.8rem; /* Reduce más el tamaño de la fuente */
+        }
+        
+        .badges {
+            flex-direction: column; /* Los badges se apilan verticalmente en pantallas pequeñas */
+            gap: 0.5rem; /* Reduce el espacio entre badges */
+        }
     }
-}
