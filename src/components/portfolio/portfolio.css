@@ -32,14 +32,231 @@
     margin-bottom: 1rem;
 }
 
+/* Contenedor principal */
+.portfolio__features-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  /* Cada elemento del portafolio */
+  .portfolio__feature-item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    border-color: var(--color-primary-variant);
+    background: transparent;
+    border: 0.5px solid;
+    border-radius: 1rem;
+    overflow: hidden;
+    transition: var(--transition);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem; 
+    margin-bottom: 2rem; 
+  }
+  
+  .portfolio__feature-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Imagen del proyecto */
+  .portfolio__feature-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    object-fit: cover;
+  }
+  
+  /* Contenido del proyecto */
+  .portfolio__feature-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .portfolio__feature-title {
+    font-family: 'Geologica', sans-serif;
+    font-size: 2rem;
+    color: var(--color-white);
+    line-height: 32px;
+  }
+  
+  .portfolio__feature-description {
+    font-size: 1rem;
+    color: var(--color-text);
+  }
+  
+  .portfolio__feature-subdescription {
+    font-size: 0.7rem;
+    font-style: italic;
+    color: var(--color-text-light);
+    margin-bottom: 1rem;
+  }
+  
+  /* Tags */
+  .portfolio__feature-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  
+  .portfolio__feature-tag {
+    background: var(--color-primary-variant);
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    color: white;
+  }
+  
+  /* Botones de llamada a la acción */
+  .portfolio__feature-cta {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .btn__feature {
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
+    text-decoration: none;
+    color: white;
+    background-color: var(--color-primary);
+    border: 1px solid transparent;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn__feature:hover {
+    background-color: transparent;
+    border-color:  var(--color-primary) ;
+  }
+  
+  .btn-primary {
+    background-color: var(--color-secondary);
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--color-secondary-variant);
+  }
+
+
+
+  .tag-nodejs {
+    background-color: #58a6457a;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-react {
+    background-color: #00d9ff7a;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-laravel {
+    background-color: #ff2b2085;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-firebase {
+    background-color: #ff910079;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-mysql {
+    background-color: #00546b78;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-tailwind {
+    background-color: #15bfb981;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-python {
+    background-color: #ffd34294;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-meta {
+    background-color: #0065e171;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-threejs {
+    background-color: #ffffff61;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .tag-nextjs {
+    background-color: #1d1d1dbc;
+    color: white;
+    padding: 0 0.5rem;
+    border-radius: 5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  
+
 /*MEDIA QUERYS*/
 
 @media screen and (max-width: 1024px) {
    .portfolio__container{
        grid-template-columns: 1fr 1fr;
        gap: 1.2rem;
-
    }
+
+   .portfolio__features-container {
+    gap: 1.5rem;
+  }
+
+  .portfolio__feature-item {
+    grid-template-columns: 1fr;
+  }
  }
  
  @media screen and (max-width: 600px) {
@@ -47,4 +264,26 @@
         grid-template-columns: 1fr;
         gap: 1rem;
     }
+
+    .portfolio__feature-title {
+        font-size: 1.2rem;
+      }
+    
+      .portfolio__feature-description {
+        font-size: 0.9rem;
+      }
+    
+      .portfolio__feature-subdescription {
+        font-size: 0.8rem;
+      }
+    
+      .portfolio__feature-cta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    
+      .btn {
+        width: 100%;
+        text-align: center;
+      }
  }

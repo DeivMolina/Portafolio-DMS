@@ -7,6 +7,7 @@ import ME from '../../assets/me.webp'
 import { CiLinkedin } from "react-icons/ci";
 import {BsGithub} from 'react-icons/bs'
 import {BsWhatsapp} from 'react-icons/bs'
+import { FiGithub } from "react-icons/fi";
 import { IoDocumentTextOutline } from "react-icons/io5";
 
 
@@ -42,8 +43,8 @@ const Header = () => {
         </p>
 
         <div className="badges mt-4 flex justify-center gap-4">
-          <a href="https://api.whatsapp.com//send?phone=5540613200" target="_blank" className="badge-btn">
-            <span><BsWhatsapp/> Contáctame</span>
+          <a href="https://github.com/DeivMolina" target="_blank" className="badge-btn">
+            <span><FiGithub/> GitHub</span>
           </a>
           <a href="https://www.linkedin.com/in/david-m-35957712a/" target="_blank" rel="noopener noreferrer" className="badge-btn">
             <span><CiLinkedin/> LinkedIn</span>

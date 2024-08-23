@@ -42,7 +42,7 @@ const data = [
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Opinión de los clientes</h5>
+      <h5 style={{color:'white'}}>Opinión de los clientes</h5>
       <h2>Testimonios</h2>
 
       <Swiper className="container testimonials__container"
@@ -61,7 +61,7 @@ const Testimonials = () => {
                 <img src={avatar} alt="" />
               </div>
               <h5 className='client__name'>{nome}</h5>
-                <small className="client__review">
+                <small className="client__review" style={{color:'white'}}>
                   {review}
                 </small>
           </SwiperSlide>

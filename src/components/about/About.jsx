@@ -8,7 +8,7 @@ import {AiOutlineFolderOpen} from 'react-icons/ai'
 const About = () => {
   return (
     <section id='about'>
-      <h5>Conoceme</h5>
+      <h5 style={{color:'white'}}>Conoceme</h5>
       <h2>Sobre Mi</h2>
       
       <div className="container about__container">
@@ -23,23 +23,23 @@ const About = () => {
             <article className="about__card">
               <FaAward/>
               <h5>Mi Experiencia</h5>
-              <small>+5 Años de Experiencia</small>
+              <small style={{color:'white'}}>+4 Años de Experiencia</small>
             </article>
 
             <article className="about__card">
               <TbUsers/>
               <h5>Mis Clientes</h5>
-              <small>+20 Clientes Satisfechos</small>
+              <small style={{color:'white'}}>+20 Clientes Satisfechos</small>
             </article>
 
             <article className="about__card">
               <AiOutlineFolderOpen/>
               <h5>Mis Proyectos</h5>
-              <small>+20 Proyectos en progreso</small>
+              <small style={{color:'white'}}>+20 Proyectos desarrollados</small>
             </article>
           </div>
 
-          <p>Soy un desarrollador con amplia experiencia en Desarrollo Front-End, que se esfuerza por garantizar la satisfacción del cliente en todo momento. Tengo habilidades para trabajar en equipo o de forma independiente, según las necesidades del proyecto. Busco una oportunidad para demostrar mi valía en una empresa de futuro y contribuir al éxito del equipo con mi dedicación, creatividad y compromiso.</p>
+          <p style={{color:'white'}}>Soy un desarrollador con amplia experiencia en Desarrollo Front-End, que se esfuerza por garantizar la satisfacción del cliente en todo momento. Tengo habilidades para trabajar en equipo o de forma independiente, según las necesidades del proyecto. Busco una oportunidad para demostrar mi valía en una empresa de futuro y contribuir al éxito del equipo con mi dedicación, creatividad y compromiso.</p>
 
           <a href="#contact" className='btn btn-primary'>Contactame!</a>
 
