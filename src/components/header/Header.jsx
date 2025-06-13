@@ -46,7 +46,7 @@ const Header = () => {
           <a href="https://github.com/DeivMolina" target="_blank" className="badge-btn">
             <span><FiGithub/> GitHub</span>
           </a>
-          <a href="https://www.linkedin.com/in/david-m-35957712a/" target="_blank" rel="noopener noreferrer" className="badge-btn">
+          <a href="https://www.linkedin.com/in/deivid-molina-917797326/" target="_blank" rel="noopener noreferrer" className="badge-btn">
             <span><CiLinkedin/> LinkedIn</span>
           </a>
           <a href={CV} download target="_blank" rel="noopener noreferrer" className="badge-btn">

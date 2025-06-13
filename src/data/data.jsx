@@ -28,7 +28,7 @@ export const dataFeatures = [
         title: "App Techcomp",
         imgSrc: "/assets/portfolio14.png",
         description: "Aplicación personalizada para importar reportes tecnicos mediante QR y manejar un control administrativo en diferentes regiones.",
-        subdescription: "* Proyecto confidencial, no disponible para presentación pública. ",
+        subdescription: "* Este proyecto es confidencial y no está disponible para presentación pública. Si deseas conocer más detalles o solicitar una demostración personalizada, por favor completa el formulario de contacto. ",
         tags: [
         { name: "Node js", class: "tag-nodejs ", icon: <Nodejs /> },
         { name: "React", class: "tag-react", icon: <ReactIcon /> },
@@ -44,7 +44,7 @@ export const dataFeatures = [
         title: "Plataformas P-learning",
         imgSrc: "/assets/portfolio16.png",
         description: "Plataformas de imparticion de talleres, para capacitar a los usuarios a nivel tecnico los requerimientos de sus productos para incentivar ventas en la compañia.",
-        subdescription: "* Proyecto confidencial, no disponible para presentación pública. ",
+        subdescription: "* Este proyecto es confidencial y no está disponible para presentación pública. Si deseas conocer más detalles o solicitar una demostración personalizada, por favor completa el formulario de contacto. ",
         tags: [
         { name: "Laravel", class: "tag-laravel ", icon: <Laravel /> },
         { name: "React", class: "tag-react", icon: <ReactIcon /> },
@@ -59,7 +59,7 @@ export const dataFeatures = [
         title: "App Multiplataforma CRM",
         imgSrc: "/assets/portfolio15.png",
         description: "Aplicación personalizada para gestionar diferentes procesos en el area de cobranza, evaluar resultados, y optimizar procesos con la propuesta de diferentes modulos (SMS, WhatsApp, Email)",
-        subdescription: "* Proyecto confidencial, no disponible para presentación pública. ",
+        subdescription: "* Este proyecto es confidencial y no está disponible para presentación pública. Si deseas conocer más detalles o solicitar una demostración personalizada, por favor completa el formulario de contacto. ",
         tags: [
         { name: "Laravel", class: "tag-laravel ", icon: <Laravel /> },
         { name: "React", class: "tag-react", icon: <ReactIcon /> },
@@ -76,7 +76,7 @@ export const dataFeatures = [
         title: "Proyecto Airplane 3D",
         imgSrc: "/assets/portfolio17.jpg",
         description: "Sitio Web en desarrollo para una agencia de Marketing, donde buscamos llevar la experencia de usuario a otro nivel, dejando una historia de por medio, easter-eggs y mucho mas",
-        subdescription: "* Proyecto en desarrollo previsto para 2025.",
+        subdescription: "* Proyecto en desarrollo previsto para 2026.",
         tags: [
         { name: "Three js", class: "tag-threejs ", icon: <Threejs /> },
         { name: "Next js", class: "tag-nextjs ", icon: <Nextjs /> },

@@ -1,52 +1,74 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>DMS | Desarrollo de Software a la Medida</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="En DMS transformamos tus ideas en software a la medida. Innovación, eficiencia y tecnología para impulsar tu negocio.">
+    <meta name="keywords" content="DMS, desarrollo de software, software a la medida, aplicaciones web, soluciones digitales, sistemas personalizados, agencia de software, transformación digital">
+    <meta name="author" content="DMS - Agencia de Desarrollo de Software">
+
+    <!-- Open Graph (Facebook, LinkedIn, etc.) -->
+    <meta property="og:title" content="DMS | Desarrollo de Software a la Medida">
+    <meta property="og:description" content="Transformamos ideas en soluciones digitales impactantes. Solicita una demo de nuestros desarrollos a medida.">
+    <meta property="og:image" content="https://dm-series.com/assets/logo_dms_azul.png">
+    <meta property="og:url" content="https://dm-series.com/">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="DMS | Desarrollo de Software a la Medida">
+    <meta name="twitter:description" content="Soluciones tecnológicas innovadoras para empresas que buscan marcar la diferencia. Conoce DMS.">
+    <meta name="twitter:image" content="https://dm-series.com/assets/logo_dms_azul.png">
+
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <!-- Fonts and Icons -->
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Fira+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css'>
+
+    <!-- Google reCAPTCHA -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6Ldlc6QnAAAAAAK5-O3R0VLIlh9HbNQlSGsm5UUF"></script>
+
+    <!-- Protección contra copiar contenido -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script>
-    function disabletext(e){
-        return false; 
-    }
-    
-    function reEnable(){
-        return true; 
-    }
-    
-    document.onselectstart = new Function("return false");
-    
-    if (window.sidebar) {
-        document.onmousedown = disabletext;
-        document.onclick = reEnable;
-    }
-    
-        function deshabilitar(){
+        function disabletext(e) {
+            return false;
+        }
+
+        function reEnable() {
+            return true;
+        }
+
+        document.onselectstart = new Function("return false");
+
+        if (window.sidebar) {
+            document.onmousedown = disabletext;
+            document.onclick = reEnable;
+        }
+
+        function deshabilitar() {
             Swal.fire({
                 icon: 'error',
                 title: 'Descarga deshabilitada',
                 text: 'Lo sentimos, la descarga de contenido no está permitida en este sitio web.',
-                confirmButtonColor: '#2c2c6c', 
+                confirmButtonColor: '#2c2c6c',
                 showConfirmButton: true
             });
             return false;
         }
-    
+
         document.oncontextmenu = deshabilitar;
     </script>
-    
-    <meta charset="utf-8">
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
-        
-    <title><DMS /></title>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Fira+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css'>
-    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css'>
-    
-    <!-- Responsive -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    
-    <script src="https://www.google.com/recaptcha/api.js?render=6Ldlc6QnAAAAAAK5-O3R0VLIlh9HbNQlSGsm5UUF"></script>
-    </head>
+</head>
 <body>
     <div id="root"></div>
 </body>
