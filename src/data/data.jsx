@@ -52,7 +52,7 @@ export const dataFeatures = [
         { name: "MySQL", class: "tag-mysql", icon: <MySQL /> },
         ],
         codeLink: "",
-        previewLink: ""
+        previewLink: "https://pl-electrico.panduitlatam.com"
     },
     {
         id: 3,

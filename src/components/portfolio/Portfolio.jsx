@@ -20,38 +20,63 @@ import IMG12 from '../../assets/portfolio12.png'
 import IMG13 from '../../assets/portfolio13.png'
 import IMG14 from '../../assets/portafolio14.gif'
 import IMG15 from '../../assets/portfolio18.png'
+import IMG16 from '../../assets/portfolio19.png'
+import IMG17 from '../../assets/portfolio20.png'
+import IMG18 from '../../assets/portfolio21.png'
+import IMG19 from '../../assets/portfolio22.png'
 
 const data = [
   {
     id: 1,
+    image: IMG19,
+    tittle: 'CREM - Sistema Web',
+    github: '',
+    demo: 'https://crem.panduitlatam.com'
+  },
+  {
+    id: 2,
+    image: IMG17,
+    tittle: 'Ralte - Sitio Web',
+    github: '',
+    demo: 'https://front-ralte.rkcreativo.com.mx'
+  },
+  {
+    id: 3,
+    image: IMG16,
+    tittle: 'Conecta y Crece - Sitio Web',
+    github: '',
+    demo: 'https://conectaycrece.com.mx'
+  },
+  {
+    id: 4,
+    image: IMG18,
+    tittle: 'Adqusiciones & Pasivos - Sitio Web',
+    github: '',
+    demo: 'https://adquisicionesypasivosgws.com.mx/'
+  },
+  {
+    id: 5,
     image: IMG15,
     tittle: 'TechComp - Sitio Web',
     github: '',
     demo: 'https://rkcreativo.com.mx/techcomp-promociones/#'
   },
   {
-    id: 1,
+    id: 6,
     image: IMG14,
     tittle: 'ECHE - Sitio Web',
     github: '',
     demo: 'https://eche.com.mx'
   },
   {
-    id: 2,
+    id: 7,
     image: IMG13,
     tittle: 'BeFocused - Sitio Web',
     github: '',
     demo: 'https://befocused.panduitlatam.com'
   },
   {
-    id: 3,
-    image: IMG12,
-    tittle: 'Caña de Oro - Sitio Web',
-    github: '',
-    demo: 'https://canadeoro.com.mx'
-  },
-  {
-    id: 4,
+    id: 8,
     image: IMG1,
     tittle: 'ASGL & ASOC - Sitio Web',
     github: '',
@@ -65,63 +90,72 @@ const data = [
     demo: 'https://hydraconsultores.com.mx'
   },
   {
-    id: 5,
+    id: 10,
+    image: IMG8,
+    tittle: 'Grupo Inders <E-commerce />',
+    github: '',
+    demo: 'https://inders.com.mx'
+  },
+  
+  {
+    id: 11,
     image: IMG2,
     tittle: 'INAP - Sitio Web',
     github: '',
     demo: 'https://inap.mx'
   },
   {
-    id: 6,
+    id: 12,
+    image: IMG12,
+    tittle: 'Caña de Oro - Sitio Web',
+    github: '',
+    demo: 'https://canadeoro.com.mx'
+  },
+  {
+    id: 13,
     image: IMG3,
     tittle: 'DESPACHO ATM - Sitio Web',
     github: '',
-    demo: 'https://despachoatm.com'
+    // demo: 'https://despachoatm.com'
   },
+  
   {
-    id: 8,
-    image: IMG8,
-    tittle: 'Grupo Inders <E-commerce />',
-    github: '',
-    demo: 'https://inders.com.mx'
-  },
-  {
-    id: 7,
+    id: 14,
     image: IMG4,
     tittle: 'Molina Consultores - Sitio Web',
     github: '',
     demo: ''
   },
   {
-    id: 10,
+    id: 15,
     image: IMG6,
     tittle: 'Planilla Dorada - Sitio Web',
     github: '',
     demo: ''
   },
   {
-    id: 11,
+    id: 16,
     image: IMG7,
     tittle: 'Alearth <E-Commerce />',
     github: '',
     // demo: 'https://www.dm-series.online'
   },
   {
-    id: 12,
+    id: 17,
     image: IMG5,
     tittle: 'Law Soluciones Legales - Sitio Web',
     github: '',
     // demo: 'https://www.lawsolucioneslegales.com'
   },
   {
-    id: 13,
+    id: 18,
     image: IMG9,
     tittle: 'Bliblioteca UTN <Sistema de Inventario />',
     github: '',
     // demo: 'https://www.dm-series.online'
   },
   {
-    id: 14,
+    id: 19,
     image: IMG10,
     tittle: 'Reach QR <Sistema In:Out />',
     github: '',
