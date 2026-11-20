@@ -1,0 +1,42 @@
+{
+  "comparedExistingFiles": 95,
+  "changed": [
+    "src/index.css",
+    "src/components/Typewriter.jsx",
+    "src/components/about/about.css",
+    "src/components/about/About.jsx",
+    "src/components/contact/contact.css",
+    "src/components/contact/Contact.jsx",
+    "src/components/experience/experience.css",
+    "src/components/footer/footer.css",
+    "src/components/footer/Footer.jsx",
+    "src/components/header/CTA.jsx",
+    "src/components/header/header.css",
+    "src/components/header/Header.jsx",
+    "src/components/nav/nav.css",
+    "src/components/portfolio/portfolio.css",
+    "src/components/portfolio/Portfolio.jsx",
+    "src/components/services/services.css",
+    "src/components/services/Services.jsx",
+    "src/components/testimonials/testimonials.css",
+    "src/components/testimonials/Testimonials.jsx",
+    "public/index.html"
+  ],
+  "newSourceFiles": [
+    "src/components/ui/ActionLink.jsx",
+    "src/components/ui/ActionLink.test.jsx",
+    "src/components/ui/FormField.jsx",
+    "src/styles/primitives.css",
+    "src/styles/tokens.css"
+  ],
+  "unexpectedProtectedChanges": [],
+  "removed": [],
+  "preserved": [
+    "Project data and confidential descriptions",
+    "All original images, PDFs and other assets",
+    "package.json and package-lock.json",
+    "App structure and navigation logic",
+    "Contact validation, send handler and CAPTCHA integration (regression-tested)"
+  ],
+  "method": "SHA-256 compared with the beginning of phase 4"
+}

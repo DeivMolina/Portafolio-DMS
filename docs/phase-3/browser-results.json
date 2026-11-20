@@ -1,0 +1,413 @@
+{
+  "engine": "Installed Chrome, headless / CDP",
+  "origin": "http://127.0.0.1:50554",
+  "viewports": [
+    {
+      "width": 320,
+      "height": 740,
+      "documentWidth": 331,
+      "nav": {
+        "left": 23.3125,
+        "right": 281.6875,
+        "width": 258.375
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 375,
+      "nav": {
+        "left": 54.125,
+        "right": 320.875,
+        "width": 266.75
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "documentWidth": 753,
+      "nav": {
+        "left": 214.5,
+        "right": 538.5,
+        "width": 324
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Proyectos",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Servicios",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Sobre mí",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Contacto",
+          "width": 46.375,
+          "height": 46.375
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1425,
+      "nav": {
+        "left": 543.78125,
+        "right": 881.21875,
+        "width": 337.4375
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Proyectos",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Servicios",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Sobre mí",
+          "width": 46.375,
+          "height": 46.375
+        },
+        {
+          "name": "Contacto",
+          "width": 46.375,
+          "height": 46.375
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    }
+  ],
+  "checks": [
+    "scroll:portfolio",
+    "scroll:otros-proyectos",
+    "scroll:services",
+    "scroll:about",
+    "scroll:contact",
+    "direct:#experience",
+    "history:back",
+    "keyboard:skip-link-visible-and-focus-main",
+    "reduced-motion:instant-anchor-scroll",
+    "footer:copyright-unobscured",
+    "accessibility-tree:links-have-names",
+    "synthesized-touch:contact-link",
+    "contact:native-required-validation",
+    "contact:captcha-required",
+    "contact:expired-captcha-blocked",
+    "contact:success-clears-form-and-captcha",
+    "contact:duplicate-submission-blocked",
+    "contact:real-sdk-serializes-correct-fields",
+    "contact:error-preserves-data-and-requires-new-captcha",
+    "contact:retry-after-new-captcha"
+  ],
+  "limitations": [
+    "Third-party requests blocked; reCAPTCHA and external fonts not validated.",
+    "No real messages or physical touch-device tests.",
+    "Layout outside phase 2 is recorded without correction."
+  ],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/156.0.8078.48",
+    "revision": "@d0c02bfad08ec92a6ffcf989e53cd995e6381a4c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "jsVersion": "15.6.75.19"
+  },
+  "contactLayouts": [
+    {
+      "width": 320,
+      "formWidth": 274.5,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 15.25,
+          "right": 289.75,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 15.25,
+          "right": 289.75,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 15.25,
+          "right": 289.75,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 15.25,
+          "right": 289.75,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 390,
+      "formWidth": 337.5,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 18.75,
+          "right": 356.25,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 18.75,
+          "right": 356.25,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 18.75,
+          "right": 356.25,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 18.75,
+          "right": 356.25,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 768,
+      "formWidth": 376.5,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 188.25,
+          "right": 564.75,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 188.25,
+          "right": 564.75,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 188.25,
+          "right": 564.75,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 188.25,
+          "right": 564.75,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 1440,
+      "formWidth": 356.25,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 655.5,
+          "right": 1011.75,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 655.5,
+          "right": 1011.75,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 655.5,
+          "right": 1011.75,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 655.5,
+          "right": 1011.75,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    }
+  ],
+  "skipLinkFocus": {
+    "text": "Saltar al contenido principal",
+    "href": "#contenido-principal",
+    "top": 16,
+    "bottom": 69.1875,
+    "outline": "solid",
+    "outlineWidth": "3px"
+  },
+  "footer": {
+    "navTop": 799.25,
+    "copyBottom": 772.265625,
+    "current": "Contacto"
+  },
+  "accessibility": {
+    "namedLinks": 37,
+    "mainLandmarks": 1
+  },
+  "contact": {
+    "interceptedRequests": 3,
+    "realMessagesSent": 0,
+    "captcha": "Clearly labeled test double; no Google verification",
+    "payloadFieldsVerified": [
+      "email",
+      "phone",
+      "g-recaptcha-response"
+    ],
+    "localTemplate": "correo.html",
+    "remoteTemplateAndReplyToVerified": false
+  },
+  "uncaughtPageErrors": [],
+  "passed": true
+}

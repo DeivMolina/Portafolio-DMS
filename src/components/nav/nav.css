@@ -1,33 +1,49 @@
-nav {
-    background: rgba(0, 0, 0, 0.3);
+.site-nav {
+    background: var(--color-nav-surface);
     width: max-content;
-    display: block;
-    padding: 0.7rem 1.7rem;
+    max-width: calc(100% - 1rem);
+    padding: 10px clamp(8px, 3vw, 24px);
     z-index: 2;
     position: fixed;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 2rem;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
     display: flex;
-    gap: 0.8rem;
-    border-radius: 3rem;
+    gap: clamp(4px, 1.5vw, 12px);
+    border-radius: var(--radius-pill);
     backdrop-filter: blur(15px);
 }
 
-nav a{
+.site-nav a {
     background: transparent;
-    padding: 0.9rem;
-    border-radius: 50%;
+    min-width: var(--nav-control-size);
+    min-height: var(--nav-control-size);
+    padding: 10px;
+    border-radius: var(--radius-pill);
     display: flex;
-    color:  var(--color-white);
-    font-size: 1.1rem;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: var(--color-white);
+    font-size: var(--nav-icon-size);
 }
 
-nav a:hover{
-    background: rgba(0, 0, 0, 0.3);
+.site-nav a:hover {
+    background: var(--color-overlay);
 }
 
-nav a.active{
+.site-nav a.active {
     background: var(--color-bg);
     color: var(--color-white);
+}
+
+.site-nav a[aria-current]::after {
+    content: '';
+    position: absolute;
+    inset-block-end: 0.25rem;
+    width: 0.25rem;
+    height: 0.25rem;
+    border-radius: var(--radius-pill);
+    background: currentColor;
 }

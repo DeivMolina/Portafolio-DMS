@@ -1,0 +1,37 @@
+{
+  "phase": 9,
+  "passed": true,
+  "unitTests": 43,
+  "suites": 7,
+  "browserChecks": 71,
+  "normalViewports": 11,
+  "seoCheckGroups": 5,
+  "uncaughtPageErrors": [],
+  "hydrationErrors": [],
+  "originalMainRetained": true,
+  "fonts": {
+    "poppins": true,
+    "geologica": true
+  },
+  "htmlBytes": 150436,
+  "htmlGzipBytes": 21267,
+  "sourceFilesProtectedUnchanged": 174,
+  "sourceFilesChanged": [
+    "package.json",
+    "public/index.html",
+    "src/components/Typewriter.jsx",
+    "src/components/contact/Contact.jsx",
+    "src/components/services/Services.jsx",
+    "src/data/data.jsx",
+    "src/hooks/useMediaQuery.js",
+    "src/index.js"
+  ],
+  "publicFilesAdded": [
+    "public/assets/dms-social.png",
+    "public/assets/dms-social.svg",
+    "public/robots.txt",
+    "public/sitemap.xml"
+  ],
+  "newDependencies": 0,
+  "published": false
+}

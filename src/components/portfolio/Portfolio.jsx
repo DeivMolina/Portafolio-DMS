@@ -1,6 +1,10 @@
 import React from 'react'
 import './portfolio.css'
 import { dataFeatures } from '../../data/data'
+import ActionLink from '../ui/ActionLink'
+import OptimizedImage from '../ui/OptimizedImage'
+import ProjectPreview from '../ui/ProjectPreview'
+import ProjectDemoLink from '../ui/ProjectDemoLink'
 import { FiGithub } from "react-icons/fi";
 import { IoIosLink } from "react-icons/io";
 
@@ -166,15 +170,17 @@ const data = [
 export function PortfolioFeatures() {
   return (
     <div>
-      <section id='portfolio'>
-        <h5 style={{color:'white'}}>Mis Proyectos</h5>
-        <h2>Destacados</h2>
+      <section id='portfolio' aria-labelledby="portfolio-title" tabIndex={-1}>
+        <div className="section__heading">
+          <h2 id="portfolio-title">Proyectos destacados</h2>
+          <p className="container">Solicita una demo por WhatsApp o visita los proyectos con enlace disponible.</p>
+        </div>
 
         <div className="container portfolio__features-container">
           {dataFeatures.map(feature => (
             <div key={feature.id} className="portfolio__feature-item">
               <div className="portfolio__feature-image">
-                <img src={feature.imgSrc} alt={feature.title} />
+                <OptimizedImage src={feature.imgSrc} alt={feature.title} sizes="(max-width: 56rem) calc(100vw - 4rem), (max-width: 76rem) calc((100vw - 8rem) / 2), 33rem" loading={feature.id === dataFeatures[0].id ? 'eager' : 'lazy'} />
               </div>
               <div className="portfolio__feature-content">
                 <h3 className="portfolio__feature-title">{feature.title}</h3>
@@ -182,8 +188,8 @@ export function PortfolioFeatures() {
                 {feature.tags.length > 0 && (
                   <div className="portfolio__feature-tags">
                     {feature.tags.map(tag => (
-                      <span key={tag.name} className={tag.class}>
-                        {tag.icon} {tag.name}
+                      <span key={tag.name} className={`tag ${tag.class}`}>
+                        <span className="tag__icon" aria-hidden="true">{tag.icon}</span> {tag.name}
                       </span>
                     ))}
                   </div>
@@ -201,11 +207,12 @@ export function PortfolioFeatures() {
                 
                 <div className="portfolio__feature-cta">
                   {feature.codeLink && (
-                    <a href={feature.codeLink} className="btn__feature"><FiGithub /> GitHub</a>
+                    <ActionLink href={feature.codeLink} variant="secondary"><FiGithub /> GitHub</ActionLink>
                   )}
                   {feature.previewLink && (
-                    <a href={feature.previewLink} className="btn__feature btn-primary"><IoIosLink /> Preview</a>
+                    <ActionLink href={feature.previewLink} aria-label={`Ver proyecto ${feature.title}`}><IoIosLink /> Ver proyecto</ActionLink>
                   )}
+                  <ProjectDemoLink title={feature.title} confidential={/confidencial/i.test(feature.subdescription || '')} />
                 </div>
               </div>
             </div>
@@ -219,29 +226,28 @@ export function PortfolioFeatures() {
 
 export function Portfolio() {
   return (
-    <section id='portfolio'>
-      <h2>Otros Proyectos</h2>
+    <section id='otros-proyectos' aria-labelledby="otros-proyectos-title" tabIndex={-1}>
+      <h2 id="otros-proyectos-title">Otros proyectos</h2>
 
       <div className="container portfolio__container">
         {
           data.map(({ id, image, tittle, github, demo }) => {
             return (
               <article key={id} className="portfolio__item">
-                <div className="portfolio__item-image">
-                  <img src={image} alt={tittle} />
-                </div>
+                <ProjectPreview src={image} alt={tittle} sizes="(max-width: 42rem) calc(100vw - 4rem), (max-width: 62rem) calc((100vw - 7rem) / 2), 22rem" />
                 <h3>{tittle}</h3>
                 <div className="portfolio__item-cta">
                   {github && (
-                    <a href={github} className='btn' target='_blank' rel='noopener noreferrer'>
+                    <ActionLink href={github} variant="secondary" target='_blank' rel='noopener noreferrer'>
                       <FiGithub /> GitHub
-                    </a>
+                    </ActionLink>
                   )}
                   {demo && (
-                    <a href={demo} className='btn btn-primary' target='_blank' rel='noopener noreferrer'>
-                      <IoIosLink /> Preview
-                    </a>
+                    <ActionLink href={demo} target='_blank' rel='noopener noreferrer' aria-label={`Ver proyecto ${tittle}`}>
+                      <IoIosLink /> Ver proyecto
+                    </ActionLink>
                   )}
+                  <ProjectDemoLink title={tittle} />
                 </div>
               </article>
             )

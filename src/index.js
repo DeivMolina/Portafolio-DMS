@@ -1,5 +1,8 @@
-import ReactDOM from 'react-dom'
+import { createRoot, hydrateRoot } from 'react-dom/client'
 import App from './App'
 import './index.css'
 
-ReactDOM.render(<App/>, document.querySelector("#root"))
+const root = document.querySelector('#root')
+// Production HTML is generated from this same App during the build.
+if (root.hasChildNodes()) hydrateRoot(root, <App />)
+else createRoot(root).render(<App />)

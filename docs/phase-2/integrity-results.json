@@ -1,0 +1,34 @@
+{
+  "comparedExistingFiles": 92,
+  "changed": [
+    "src/App.jsx",
+    "src/index.css",
+    "src/components/about/About.jsx",
+    "src/components/footer/footer.css",
+    "src/components/footer/Footer.jsx",
+    "src/components/header/Header.jsx",
+    "src/components/nav/nav.css",
+    "src/components/nav/Nav.jsx",
+    "src/components/portfolio/Portfolio.jsx",
+    "public/index.html"
+  ],
+  "unexpectedChanges": [],
+  "removed": [],
+  "newSourceFiles": [
+    "src/App.navigation.test.jsx",
+    "src/components/nav/Nav.test.jsx"
+  ],
+  "untouchedConfirmed": [
+    "src/components/contact/Contact.jsx",
+    "src/components/contact/contact.css",
+    "src/data/data.jsx",
+    "src/components/services/Services.jsx",
+    "src/components/services/services.css",
+    "src/components/testimonials/Testimonials.jsx",
+    "src/components/testimonials/testimonials.css",
+    "package.json",
+    "package-lock.json",
+    "All original assets in src/assets and public/assets"
+  ],
+  "method": "SHA-256 compared against the beginning of phase 2; preexisting user changes preserved."
+}

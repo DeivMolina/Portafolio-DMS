@@ -1,0 +1,106 @@
+{
+  "passed": true,
+  "cssFiles": 12,
+  "tokens": 74,
+  "references": 324,
+  "missingTokens": [],
+  "duplicateTokens": [],
+  "badValues": [],
+  "leakedSelectors": [],
+  "buttonDefinitions": [
+    "src/styles/primitives.css"
+  ],
+  "contrast": [
+    {
+      "foreground": "--color-text",
+      "background": "--color-bg",
+      "ratio": 17.8,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-text",
+      "background": "--color-surface",
+      "ratio": 15.99,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-text",
+      "background": "--color-surface-raised",
+      "ratio": 14.24,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-text-light",
+      "background": "--color-bg",
+      "ratio": 11.53,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-text-light",
+      "background": "--color-surface",
+      "ratio": 10.35,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-text-light",
+      "background": "--color-surface-raised",
+      "ratio": 9.22,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-link",
+      "background": "--color-bg",
+      "ratio": 10.9,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-link",
+      "background": "--color-surface",
+      "ratio": 9.79,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-link",
+      "background": "--color-surface-raised",
+      "ratio": 8.72,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-on-primary",
+      "background": "--color-primary",
+      "ratio": 5.1,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-on-primary",
+      "background": "--color-primary-hover",
+      "ratio": 6.63,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-on-primary",
+      "background": "--color-primary-active",
+      "ratio": 8.08,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "--color-border",
+      "background": "--color-bg",
+      "ratio": 5.61,
+      "minimum": 3
+    },
+    {
+      "foreground": "--color-border",
+      "background": "--color-surface",
+      "ratio": 5.04,
+      "minimum": 3
+    },
+    {
+      "foreground": "--color-border",
+      "background": "--color-surface-raised",
+      "ratio": 4.49,
+      "minimum": 3
+    }
+  ],
+  "caveat": "Ratios use solid token colors; not a full rendered-page WCAG certification."
+}

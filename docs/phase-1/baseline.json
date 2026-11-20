@@ -1,0 +1,929 @@
+{
+  "schema": 1,
+  "phase": 1,
+  "scope": "Referencia técnica e inventario. Sin cambios funcionales ni avance a Fase 2.",
+  "requirements": {
+    "identity": "David Molina",
+    "specialty": "Desarrollador Full Stack",
+    "brand": "DMS",
+    "market": "México",
+    "domain": "https://dm-series.com/",
+    "positioning": [
+      "desarrollo de software a medida",
+      "desarrollo de sistemas web",
+      "soluciones empresariales"
+    ],
+    "visualDirection": "Moderno, minimalista, elegante y profesional; menos es más.",
+    "preserve": [
+      "Todos los proyectos, servicios, contenidos, enlaces, CV, funcionalidades e integraciones actuales",
+      "Confidencialidad de los proyectos señalados"
+    ],
+    "futureDemo": {
+      "label": "Solicitar demo",
+      "phone": "525540613200",
+      "message": "Personalizado por proyecto usando únicamente información pública"
+    },
+    "phase9": "SEO técnico y posicionamiento orgánico para México; posterior a las ocho fases originales."
+  },
+  "git": {
+    "branch": "main",
+    "upstream": "origin/main",
+    "commit": "81f18ad",
+    "commitSubject": "Ajustes",
+    "preexistingModified": [
+      "src/components/about/About.jsx",
+      "src/data/data.jsx"
+    ],
+    "preexistingUntrackedDirectories": [
+      ".agents/",
+      ".claude/",
+      ".codex/"
+    ],
+    "globalConfigurationChanged": false,
+    "fetchPerformed": false
+  },
+  "runtime": {
+    "node": "18.18.0",
+    "npm": "9.8.1",
+    "dependencies": {
+      "react": "18.2.0",
+      "react-dom": "18.2.0",
+      "react-scripts": "5.0.1",
+      "emailjs-com": "3.2.0",
+      "@emailjs/browser": "4.3.3",
+      "swiper": "9.0.5",
+      "sweetalert2": "11.22.1",
+      "react-google-recaptcha": "3.1.0"
+    }
+  },
+  "architecture": {
+    "type": "React SPA / Create React App",
+    "entry": "src/index.js",
+    "composition": "src/App.jsx",
+    "routerInstalled": false,
+    "mountedComponents": [
+      "Header",
+      "Nav",
+      "PortfolioFeatures",
+      "Portfolio",
+      "Services",
+      "About",
+      "Testimonial",
+      "Contact",
+      "Footer"
+    ],
+    "unmountedComponents": [
+      "Experience",
+      "CTA",
+      "HeaderSocials"
+    ],
+    "assets": [
+      "src/assets",
+      "public/assets"
+    ],
+    "auxiliaryFiles": [
+      "correo.html",
+      "firmas/deivid_molina.html"
+    ],
+    "anchorDestinations": [
+      "#",
+      "#portfolio",
+      "#services",
+      "#about",
+      "#testimonials",
+      "#contact"
+    ],
+    "brokenAnchor": "#experience",
+    "duplicateSectionId": "portfolio"
+  },
+  "inventory": {
+    "projects": [
+      {
+        "group": "otros",
+        "name": "CREM - Sistema Web",
+        "image": "src/assets/portfolio22.png",
+        "imageExists": true,
+        "demo": "https://crem.panduitlatam.com",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Ralte - Sitio Web",
+        "image": "src/assets/portfolio20.png",
+        "imageExists": true,
+        "demo": "https://front-ralte.rkcreativo.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Conecta y Crece - Sitio Web",
+        "image": "src/assets/portfolio19.png",
+        "imageExists": true,
+        "demo": "https://conectaycrece.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Adqusiciones & Pasivos - Sitio Web",
+        "image": "src/assets/portfolio21.png",
+        "imageExists": true,
+        "demo": "https://adquisicionesypasivosgws.com.mx/",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "TechComp - Sitio Web",
+        "image": "src/assets/portfolio18.png",
+        "imageExists": true,
+        "demo": "https://rkcreativo.com.mx/techcomp-promociones/#",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "ECHE - Sitio Web",
+        "image": "src/assets/portafolio14.gif",
+        "imageExists": true,
+        "demo": "https://eche.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "BeFocused - Sitio Web",
+        "image": "src/assets/portfolio13.png",
+        "imageExists": true,
+        "demo": "https://befocused.panduitlatam.com",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "ASGL & ASOC - Sitio Web",
+        "image": "src/assets/portfolio1.jpg",
+        "imageExists": true,
+        "demo": "https://asglasociados.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Hydra Consultores - Sitio Web",
+        "image": "src/assets/portfolio11.png",
+        "imageExists": true,
+        "demo": "https://hydraconsultores.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Grupo Inders <E-commerce />",
+        "image": "src/assets/portfolio8.jpg",
+        "imageExists": true,
+        "demo": "https://inders.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "INAP - Sitio Web",
+        "image": "src/assets/portfolio2.jpg",
+        "imageExists": true,
+        "demo": "https://inap.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Caña de Oro - Sitio Web",
+        "image": "src/assets/portfolio12.png",
+        "imageExists": true,
+        "demo": "https://canadeoro.com.mx",
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "DESPACHO ATM - Sitio Web",
+        "image": "src/assets/portfolio3.jpg",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Molina Consultores - Sitio Web",
+        "image": "src/assets/portfolio4.jpg",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Planilla Dorada - Sitio Web",
+        "image": "src/assets/portfolio6.jpg",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Alearth <E-Commerce />",
+        "image": "src/assets/portfolio7.jpg",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Law Soluciones Legales - Sitio Web",
+        "image": "src/assets/portfolio5.png",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Bliblioteca UTN <Sistema de Inventario />",
+        "image": "src/assets/portfolio9.png",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "otros",
+        "name": "Reach QR <Sistema In:Out />",
+        "image": "src/assets/portfolio10.jpg",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": false
+      },
+      {
+        "group": "destacados",
+        "name": "App Techcomp",
+        "image": "public/assets/portfolio14.png",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": true
+      },
+      {
+        "group": "destacados",
+        "name": "Plataformas E-learning",
+        "image": "public/assets/portfolio16.png",
+        "imageExists": true,
+        "demo": "https://core.panduitlatam.com/",
+        "code": null,
+        "confidential": true
+      },
+      {
+        "group": "destacados",
+        "name": "App Multiplataforma CRM",
+        "image": "public/assets/portfolio15.png",
+        "imageExists": true,
+        "demo": null,
+        "code": null,
+        "confidential": true
+      },
+      {
+        "group": "destacados",
+        "name": "Proyecto Airplane 3D",
+        "image": "public/assets/portfolio17.jpg",
+        "imageExists": true,
+        "demo": "https://dm-series.com/threejs/",
+        "code": null,
+        "confidential": false
+      }
+    ],
+    "links": [
+      {
+        "file": "src\\components\\about\\About.jsx",
+        "url": "#contact",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\contact\\Contact.jsx",
+        "url": "mailto:davidglezm2015@gmail.com",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\contact\\Contact.jsx",
+        "url": "https://api.whatsapp.com//send?phone=5540613200",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#about",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#experience",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#services",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#portfolio",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#testimonials",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "#contact",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "https://www.facebook.com/profile.php?id=100005001045548",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "https://www.instagram.com/deivid_molina_gz/",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\footer\\Footer.jsx",
+        "url": "https://twitter.com/DeividMolina19",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\header\\CTA.jsx",
+        "url": "#contact",
+        "mounted": false
+      },
+      {
+        "file": "src\\components\\header\\Header.jsx",
+        "url": "https://github.com/DeivMolina",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\header\\Header.jsx",
+        "url": "https://www.linkedin.com/in/deivid-molina-917797326/",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\header\\HeaderSocials.jsx",
+        "url": "https://www.linkedin.com/in/david-m-35957712a/",
+        "mounted": false
+      },
+      {
+        "file": "src\\components\\header\\HeaderSocials.jsx",
+        "url": "https://github.com/DeivMolina",
+        "mounted": false
+      },
+      {
+        "file": "src\\components\\header\\HeaderSocials.jsx",
+        "url": "https://api.whatsapp.com//send?phone=5540613200",
+        "mounted": false
+      },
+      {
+        "file": "src\\components\\nav\\Nav.jsx",
+        "url": "#",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\nav\\Nav.jsx",
+        "url": "#portfolio",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\nav\\Nav.jsx",
+        "url": "#services",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\nav\\Nav.jsx",
+        "url": "#about",
+        "mounted": true
+      },
+      {
+        "file": "src\\components\\nav\\Nav.jsx",
+        "url": "#contact",
+        "mounted": true
+      }
+    ],
+    "cv": {
+      "path": "src/assets/cv.pdf",
+      "bytes": 116284,
+      "pdfSignature": true
+    },
+    "socialImages": [
+      {
+        "url": "https://dm-series.com/assets/logo_dms_azul.png",
+        "existsLocally": false
+      },
+      {
+        "url": "https://dm-series.com/assets/logo_dms_azul.png",
+        "existsLocally": false
+      }
+    ],
+    "serviceCategories": [
+      "UI/UX Desing",
+      "Web Development",
+      "Creacion de Contenido"
+    ],
+    "testimonialCount": 4,
+    "integrations": [
+      "EmailJS",
+      "Google reCAPTCHA",
+      "SweetAlert2",
+      "Swiper",
+      "React Icons"
+    ],
+    "additionalExternalRoute": "https://dm-series.com/threejs/"
+  },
+  "checks": {
+    "contactChecks": [
+      {
+        "scenario": "captcha-pendiente",
+        "passed": true,
+        "preventDefault": 1,
+        "sends": 0,
+        "resets": 0,
+        "tokenUpdates": [],
+        "alerts": [
+          "Por favor verifica el reCAPTCHA"
+        ]
+      },
+      {
+        "scenario": "envio-correcto",
+        "passed": true,
+        "preventDefault": 1,
+        "sends": 1,
+        "resets": 1,
+        "tokenUpdates": [
+          null
+        ],
+        "alerts": [
+          "Mensaje enviado"
+        ]
+      },
+      {
+        "scenario": "error-envio",
+        "passed": true,
+        "preventDefault": 1,
+        "sends": 1,
+        "resets": 0,
+        "tokenUpdates": [],
+        "alerts": [
+          "Error"
+        ]
+      }
+    ],
+    "buildManifest": {
+      "entrypoints": [
+        "static/css/main.5a3357b6.css",
+        "static/js/main.e27f21ec.js"
+      ],
+      "missingFiles": []
+    },
+    "buildAssets": {
+      "featured": [
+        {
+          "name": "portfolio14.png",
+          "exists": true
+        },
+        {
+          "name": "portfolio15.png",
+          "exists": true
+        },
+        {
+          "name": "portfolio16.png",
+          "exists": true
+        },
+        {
+          "name": "portfolio17.jpg",
+          "exists": true
+        }
+      ]
+    },
+    "existingTestFiles": [],
+    "build": {
+      "command": "npm.cmd run build",
+      "exitCode": 0,
+      "result": "Compiled with warnings",
+      "eslintWarnings": 11,
+      "browserslistWarning": "caniuse-lite is outdated",
+      "gzip": {
+        "javascript": "115.55 kB",
+        "css": "9.44 kB"
+      },
+      "generatedDirectory": "build",
+      "initialSandboxFailure": "EPERM al resolver el directorio temporal del usuario; compilación completada tras aprobación de ejecución fuera del aislamiento."
+    },
+    "sourceIntegrity": {
+      "filesCompared": 92,
+      "changed": 0,
+      "removed": 0
+    },
+    "limitations": [
+      "Sin navegador de inspección: no capturas ni comprobación visual responsive",
+      "Sin verificación HTTP remota de enlaces externos",
+      "Sin envíos reales de EmailJS ni resolución real de reCAPTCHA",
+      "No hay archivos de pruebas automatizadas en src; las tres comprobaciones del handler se ejecutaron en memoria con dobles de prueba",
+      "No se verificaron indexación ni posicionamiento de Google"
+    ]
+  },
+  "fileHashes": [
+    {
+      "path": "src/App.jsx",
+      "sha256": "A53A4665375731BCF8342BF65AC47A0D58DC1220AECEECDC4F7639A2BDBBCC2A"
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "49C9DFF5A7E3E0EEE119858E87EE5C6EFDE9945C81BA9B13DBA805FC04940497"
+    },
+    {
+      "path": "src/index.js",
+      "sha256": "E350EDC50DD354EB2AD5AB4E694EBB78B7BA51AAE53613FA1CBA5F36A5A42187"
+    },
+    {
+      "path": "src/assets/avatar1.jpg",
+      "sha256": "6F04352C426B8DFB06C9590E835DF3F64AED12C2CAC9D22BBE001B2500F259F3"
+    },
+    {
+      "path": "src/assets/avatar2.jpg",
+      "sha256": "C1AA8973AC7641B6CD5843F21ECCB7A59F4CB8667C4DD78F7438A2D6D9353D00"
+    },
+    {
+      "path": "src/assets/avatar3.jpg",
+      "sha256": "983D73C11B09300E81AEC535377D9FD893D14C3FBBF7B84A151FD511E88F659C"
+    },
+    {
+      "path": "src/assets/avatar4.jpg",
+      "sha256": "CC2DF9888F077BDE1F6DB88140DE1A2B00644C26C0DA289588986B2394A59EFF"
+    },
+    {
+      "path": "src/assets/bg-texture.png",
+      "sha256": "54C2FA90463BB17FE94069CF89A22ED13A36040F1CB0220A5F0371834FB08A51"
+    },
+    {
+      "path": "src/assets/cv 2023.pdf",
+      "sha256": "FA970A976C82A991D80A8F6750FC98DF328B3401A5F68D5EA20BA2C7A0E0C965"
+    },
+    {
+      "path": "src/assets/cv.pdf",
+      "sha256": "021B6FA517908ADB8619FBAB8CC712A07CE4B73D8EB8E2CE6BBF87423A723C7B"
+    },
+    {
+      "path": "src/assets/favicon.ico",
+      "sha256": "B63831CDAB0F45A4F5ADD1959EA459BBB340120F10B485D50A4206AED16BEBE6"
+    },
+    {
+      "path": "src/assets/me-about.jpg",
+      "sha256": "DF7238DACC9F73585FF0D47359DA3B14485F43971BC6C5F850F31DA070FF1267"
+    },
+    {
+      "path": "src/assets/me.webp",
+      "sha256": "D185D3916677B1BCA6B6E0856DDF9764C5AC8C49D90B33AAFA67478EFAD81672"
+    },
+    {
+      "path": "src/assets/portafolio14.gif",
+      "sha256": "1D14DEB5A648E2A8DB61C2AE968DE7B6283CA1D3267FDCBC16CB428BCA70236C"
+    },
+    {
+      "path": "src/assets/portfolio1.jpg",
+      "sha256": "6969DDC8ADFB12C624F11D95A3016C24985E04115F398509F89BAFBA9910F129"
+    },
+    {
+      "path": "src/assets/portfolio10.jpg",
+      "sha256": "A9CE70704390B16482AA8D702F5A4323CC830174D78F9DF7DAB7978B57D194F0"
+    },
+    {
+      "path": "src/assets/portfolio11.png",
+      "sha256": "C30DD0941A15F8829A090F7697F701997305DDC597494B2EEEFFC8B9A30394E9"
+    },
+    {
+      "path": "src/assets/portfolio12.png",
+      "sha256": "506CCADD69F4D4E61DAEAE572CED140994A95EA8B0F7D57B3A2DECE49A352019"
+    },
+    {
+      "path": "src/assets/portfolio13.png",
+      "sha256": "85C315E846E2BE2806C4C27E8724B5C84EFF95E2534739E4EA08DE65E92C9B54"
+    },
+    {
+      "path": "src/assets/portfolio18.png",
+      "sha256": "D112785203DD75AC81D8AFF2858DEA8983BE8BAB8FB8F201ADC4A76760E1B2D3"
+    },
+    {
+      "path": "src/assets/portfolio19.png",
+      "sha256": "792E5C94714EAA89A3210BBF8B40DC80FB726470A46DFF640F72370E7EEC8E03"
+    },
+    {
+      "path": "src/assets/portfolio2.jpg",
+      "sha256": "0C22DDA5FCB2BFA8C78679858AC7668C01B2B8BB94CC19E256D0E4D4DF310BB9"
+    },
+    {
+      "path": "src/assets/portfolio20.png",
+      "sha256": "F093EA957ACF660894DC7D438B0E6FDA8D6BC935518EEA0B4BD58293FDCC2DCD"
+    },
+    {
+      "path": "src/assets/portfolio21.png",
+      "sha256": "5AC621B707101CBDFAC88B4A16D45E89094E725A7CFFB289BF88E91A82C28A17"
+    },
+    {
+      "path": "src/assets/portfolio22.png",
+      "sha256": "C679F123A883690848AA019C3F40F89160C4713733425D8D592B44BBEB6E8A20"
+    },
+    {
+      "path": "src/assets/portfolio3.jpg",
+      "sha256": "ADDA120318CE0C5FCE429E5D5FAFAA14616717270E851AF399EAB9F9DF51FB9A"
+    },
+    {
+      "path": "src/assets/portfolio4.jpg",
+      "sha256": "8BC569FCE0359DD5D033D3ACA1AAC7AD619B15679E104F8B62E5670CC5AA360F"
+    },
+    {
+      "path": "src/assets/portfolio5.png",
+      "sha256": "94889323C24FF9CE277AE71C5264102E743D90C59C1C5B3A0249D3221C5597EC"
+    },
+    {
+      "path": "src/assets/portfolio6.jpg",
+      "sha256": "30BCC477D596970DAF1B19658B66107DCCF1C1965784702A16961F18C140F8CA"
+    },
+    {
+      "path": "src/assets/portfolio7.jpg",
+      "sha256": "B834C5A061521EC1428CE8F28114CB994A706DAB935AE4121F2108478C2018CA"
+    },
+    {
+      "path": "src/assets/portfolio8.jpg",
+      "sha256": "BB3055BC7A4E6D35504C8B17BBD2A953B1936D3D3F79C46DA19D07512C542E3A"
+    },
+    {
+      "path": "src/assets/portfolio9.png",
+      "sha256": "5222B5705BEAF01BDFB4E64276A307E4578141C28CC7443F7AA38565A28D5A91"
+    },
+    {
+      "path": "src/components/Typewriter.jsx",
+      "sha256": "6A57F0B2D7EC910B9BF66FAFA8EAC8EC13318BD92370F9DC27659E0B6EA5E677"
+    },
+    {
+      "path": "src/components/about/about.css",
+      "sha256": "19742054AA5B8580D88BFAD4D39E845B2450F8B30B0577D89535F35135CDBBA6"
+    },
+    {
+      "path": "src/components/about/About.jsx",
+      "sha256": "52F80A656DB7F19C104A0EC36202E5F5756E6850B817496BA6164CA70018C3E5"
+    },
+    {
+      "path": "src/components/contact/contact.css",
+      "sha256": "A966BA301952F5263E0FD0EBE5078AA66A79427D3A5B8880BCBFE1054CB161CA"
+    },
+    {
+      "path": "src/components/contact/Contact.jsx",
+      "sha256": "92B7DF9171C9A5D402D52694827A8FE5A0F0C945F4116D22081504546ABF21FC"
+    },
+    {
+      "path": "src/components/experience/experience.css",
+      "sha256": "EDB5DF22D60AEC591B24EBBF3F03EA7D7FBA4123D1DBFA0CFE2A5ED7CD8C23F2"
+    },
+    {
+      "path": "src/components/experience/Experience.jsx",
+      "sha256": "90CBB3ED7B7D263549CF54DFC34FC29F2A4DFCA4B49677DE7983ADABC015D723"
+    },
+    {
+      "path": "src/components/footer/footer.css",
+      "sha256": "644FB52BB8854D8256A0EBC7713442D3E7B29FAF15DC4429E750332B929D080F"
+    },
+    {
+      "path": "src/components/footer/Footer.jsx",
+      "sha256": "178BBB922B236B76E91D081FABB497AA519F6A92FFC6965B1685F6B8F9B9F6A1"
+    },
+    {
+      "path": "src/components/header/CTA.jsx",
+      "sha256": "375A0875E485E32B20263746C2674FB6C0986202603774918681EFF3DD765CE3"
+    },
+    {
+      "path": "src/components/header/header.css",
+      "sha256": "330CA41574CF656B1C410813B915939866B9AD13DE2D4D0DC76D5BCDA83126CC"
+    },
+    {
+      "path": "src/components/header/Header.jsx",
+      "sha256": "5D583B836E02E0321B8D497BFD86E03547F7CB210AC199E1473844A176598DB7"
+    },
+    {
+      "path": "src/components/header/HeaderSocials.jsx",
+      "sha256": "806B63E5C0BBE33F06DA7B9F780C72A22CC5B59C553B575C1E100D38E40AB171"
+    },
+    {
+      "path": "src/components/nav/nav.css",
+      "sha256": "2DEC43E6F9CC9512AA2828A3F85D8CE58C2FE25BC5BA3C4AFD5CFCD8FAB7F319"
+    },
+    {
+      "path": "src/components/nav/Nav.jsx",
+      "sha256": "63246802EB43317CBD201A2EA652DC4D2E3B37A37F76D712ED97002DC5C7C206"
+    },
+    {
+      "path": "src/components/portfolio/portfolio.css",
+      "sha256": "DA6FB16058BEB808C2926EDE3F21A2717987FCBB1A93B9CEB4AD0A8587A6DA8A"
+    },
+    {
+      "path": "src/components/portfolio/Portfolio.jsx",
+      "sha256": "200C52935DC13E24EE1FC5A848174139AEBA2DF33EE03DA8254227B503294A96"
+    },
+    {
+      "path": "src/components/services/services.css",
+      "sha256": "4F44CF8EC08D1BDF632A9D68CFE61B051292D3F36D4FACF7B3CDE07DB1FCA926"
+    },
+    {
+      "path": "src/components/services/Services.jsx",
+      "sha256": "393E7C3FE0ADD234054F2CCB1C53B8BB75B0A3BD65F787200E8967C3092FC282"
+    },
+    {
+      "path": "src/components/testimonials/testimonials.css",
+      "sha256": "325646E1FB4F59B2D5A9C45F797330190F46724BB8A4CABB788AC8BAA420839F"
+    },
+    {
+      "path": "src/components/testimonials/Testimonials.jsx",
+      "sha256": "13D93CF5408D73B8193DA27E950B6D728F245ACA08E47DF7F30F364D178EFAA3"
+    },
+    {
+      "path": "src/data/data.jsx",
+      "sha256": "10581E5590254CD9C0DE8DADAEE1E9C261DF8E38F5795CE8C48835AEEC33026E"
+    },
+    {
+      "path": "public/index.html",
+      "sha256": "31DFEAE9AE22D560BCA8755B6A1F0BF21ACE27607352F57BF4F0D9AFEF34F69A"
+    },
+    {
+      "path": "public/assets/avatar1.jpg",
+      "sha256": "6F04352C426B8DFB06C9590E835DF3F64AED12C2CAC9D22BBE001B2500F259F3"
+    },
+    {
+      "path": "public/assets/avatar2.jpg",
+      "sha256": "C1AA8973AC7641B6CD5843F21ECCB7A59F4CB8667C4DD78F7438A2D6D9353D00"
+    },
+    {
+      "path": "public/assets/avatar3.jpg",
+      "sha256": "983D73C11B09300E81AEC535377D9FD893D14C3FBBF7B84A151FD511E88F659C"
+    },
+    {
+      "path": "public/assets/avatar4.jpg",
+      "sha256": "CC2DF9888F077BDE1F6DB88140DE1A2B00644C26C0DA289588986B2394A59EFF"
+    },
+    {
+      "path": "public/assets/bg-texture.png",
+      "sha256": "54C2FA90463BB17FE94069CF89A22ED13A36040F1CB0220A5F0371834FB08A51"
+    },
+    {
+      "path": "public/assets/cv 2023.pdf",
+      "sha256": "FA970A976C82A991D80A8F6750FC98DF328B3401A5F68D5EA20BA2C7A0E0C965"
+    },
+    {
+      "path": "public/assets/cv.pdf",
+      "sha256": "021B6FA517908ADB8619FBAB8CC712A07CE4B73D8EB8E2CE6BBF87423A723C7B"
+    },
+    {
+      "path": "public/assets/favicon.ico",
+      "sha256": "B63831CDAB0F45A4F5ADD1959EA459BBB340120F10B485D50A4206AED16BEBE6"
+    },
+    {
+      "path": "public/assets/logo_dms_azul.png.png",
+      "sha256": "1275E5B3028076E1356FE1095E3E5A8A03BE8AD8E798F0856685931BE9459322"
+    },
+    {
+      "path": "public/assets/me-about.jpg",
+      "sha256": "DF7238DACC9F73585FF0D47359DA3B14485F43971BC6C5F850F31DA070FF1267"
+    },
+    {
+      "path": "public/assets/me.webp",
+      "sha256": "D185D3916677B1BCA6B6E0856DDF9764C5AC8C49D90B33AAFA67478EFAD81672"
+    },
+    {
+      "path": "public/assets/portafolio14.gif",
+      "sha256": "1D14DEB5A648E2A8DB61C2AE968DE7B6283CA1D3267FDCBC16CB428BCA70236C"
+    },
+    {
+      "path": "public/assets/portfolio1.jpg",
+      "sha256": "6969DDC8ADFB12C624F11D95A3016C24985E04115F398509F89BAFBA9910F129"
+    },
+    {
+      "path": "public/assets/portfolio10.jpg",
+      "sha256": "A9CE70704390B16482AA8D702F5A4323CC830174D78F9DF7DAB7978B57D194F0"
+    },
+    {
+      "path": "public/assets/portfolio11.png",
+      "sha256": "C30DD0941A15F8829A090F7697F701997305DDC597494B2EEEFFC8B9A30394E9"
+    },
+    {
+      "path": "public/assets/portfolio12.png",
+      "sha256": "506CCADD69F4D4E61DAEAE572CED140994A95EA8B0F7D57B3A2DECE49A352019"
+    },
+    {
+      "path": "public/assets/portfolio13.png",
+      "sha256": "85C315E846E2BE2806C4C27E8724B5C84EFF95E2534739E4EA08DE65E92C9B54"
+    },
+    {
+      "path": "public/assets/portfolio14.png",
+      "sha256": "0C344C5E5A734FD6596CC344470D6EFCCD920891C5686A8974CDC45CE30E8815"
+    },
+    {
+      "path": "public/assets/portfolio15.png",
+      "sha256": "5BF2885814C51443EB1D9D6B1497CDDD90D89BE268C068A8853B89A430891B27"
+    },
+    {
+      "path": "public/assets/portfolio16.png",
+      "sha256": "CD787C2DE57CF7127AC352B718B419C3A1EEBE36FDE75A2F21342C291D2B4D21"
+    },
+    {
+      "path": "public/assets/portfolio17.jpg",
+      "sha256": "3968255377ABE25C31F4615B02D9E24FCB116EEC6700A109AC242AC330D54428"
+    },
+    {
+      "path": "public/assets/portfolio18.png",
+      "sha256": "D112785203DD75AC81D8AFF2858DEA8983BE8BAB8FB8F201ADC4A76760E1B2D3"
+    },
+    {
+      "path": "public/assets/portfolio19.png",
+      "sha256": "792E5C94714EAA89A3210BBF8B40DC80FB726470A46DFF640F72370E7EEC8E03"
+    },
+    {
+      "path": "public/assets/portfolio2.jpg",
+      "sha256": "0C22DDA5FCB2BFA8C78679858AC7668C01B2B8BB94CC19E256D0E4D4DF310BB9"
+    },
+    {
+      "path": "public/assets/portfolio20.png",
+      "sha256": "F093EA957ACF660894DC7D438B0E6FDA8D6BC935518EEA0B4BD58293FDCC2DCD"
+    },
+    {
+      "path": "public/assets/portfolio21.png",
+      "sha256": "5AC621B707101CBDFAC88B4A16D45E89094E725A7CFFB289BF88E91A82C28A17"
+    },
+    {
+      "path": "public/assets/portfolio22.png",
+      "sha256": "C679F123A883690848AA019C3F40F89160C4713733425D8D592B44BBEB6E8A20"
+    },
+    {
+      "path": "public/assets/portfolio3.jpg",
+      "sha256": "ADDA120318CE0C5FCE429E5D5FAFAA14616717270E851AF399EAB9F9DF51FB9A"
+    },
+    {
+      "path": "public/assets/portfolio4.jpg",
+      "sha256": "8BC569FCE0359DD5D033D3ACA1AAC7AD619B15679E104F8B62E5670CC5AA360F"
+    },
+    {
+      "path": "public/assets/portfolio5.png",
+      "sha256": "94889323C24FF9CE277AE71C5264102E743D90C59C1C5B3A0249D3221C5597EC"
+    },
+    {
+      "path": "public/assets/portfolio6.jpg",
+      "sha256": "30BCC477D596970DAF1B19658B66107DCCF1C1965784702A16961F18C140F8CA"
+    },
+    {
+      "path": "public/assets/portfolio7.jpg",
+      "sha256": "B834C5A061521EC1428CE8F28114CB994A706DAB935AE4121F2108478C2018CA"
+    },
+    {
+      "path": "public/assets/portfolio8.jpg",
+      "sha256": "BB3055BC7A4E6D35504C8B17BBD2A953B1936D3D3F79C46DA19D07512C542E3A"
+    },
+    {
+      "path": "public/assets/portfolio9.png",
+      "sha256": "5222B5705BEAF01BDFB4E64276A307E4578141C28CC7443F7AA38565A28D5A91"
+    },
+    {
+      "path": "package.json",
+      "sha256": "A76B23CC432FFF6F6AD590D015D33210781E21095032C51156467A915E4CA564"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "10286927903536F3585E623ADDFC4663EC401C733F52DAF6F43EAEC4AEE4D19F"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "FC13A1AF062A7660374F5816D5317CEAC9A205958298B51003D85027DA4E82EE"
+    }
+  ]
+}
+

@@ -1,4 +1,6 @@
-import React from 'react'
+import React, { useRef, useState } from 'react'
+import useMediaQuery from '../../hooks/useMediaQuery'
+import OptimizedImage from '../ui/OptimizedImage'
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpg'
 import AVTR2 from '../../assets/avatar2.jpg'
@@ -6,15 +8,13 @@ import AVTR3 from '../../assets/avatar3.jpg'
 import AVTR4 from '../../assets/avatar4.jpg'
 
 // import Swiper core and required modules
-import { Pagination } from 'swiper';
+import { A11y } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
+import 'swiper/css/a11y';
 
 const data = [
   {
@@ -40,36 +40,61 @@ const data = [
 ]
 
 const Testimonials = () => {
-  return (
-    <section id='testimonials'>
-      <h5 style={{color:'white'}}>Opinión de los clientes</h5>
-      <h2>Testimonios</h2>
+  const swiper = useRef(null);
+  const [activeIndex, setActiveIndex] = useState(0);
+  const reducedMotion = useMediaQuery('(prefers-reduced-motion: reduce)');
 
-      <Swiper className="container testimonials__container"
-         // install Swiper modules
-            modules={[ Pagination]}
+  return (
+    <section id='testimonials' aria-labelledby="testimonials-title">
+      <h2 id="testimonials-title">Testimonios</h2>
+
+      <div className="container testimonials__container">
+      <Swiper className="testimonials__carousel"
+            modules={[A11y]}
+            role="group"
+            aria-label="Opiniones de clientes"
             spaceBetween={40}
             slidesPerView={1}
-            pagination={{ clickable: true }}
+            speed={reducedMotion ? 0 : 300}
+            onSwiper={instance => { swiper.current = instance; }}
+            onBeforeDestroy={() => { swiper.current = null; }}
+            onSlideChange={instance => setActiveIndex(instance.activeIndex)}
+            a11y={{
+              id: 'testimonials-slides',
+              containerRoleDescriptionMessage: 'carrusel',
+              itemRoleDescriptionMessage: 'testimonio',
+              slideLabelMessage: 'Testimonio {{index}} de {{slidesLength}}',
+            }}
               >
 
        {
          data.map(({avatar, nome, review}, index) => {
            return (
-            <SwiperSlide key={index} className="testimonial">
+            <SwiperSlide key={index} id={`testimonio-${index + 1}`} className="testimonial" aria-hidden={index !== activeIndex}>
               <div className="client__avatar">
-                <img src={avatar} alt="" />
+                <OptimizedImage src={avatar} alt="" sizes="4rem" />
               </div>
-              <h5 className='client__name'>{nome}</h5>
-                <small className="client__review" style={{color:'white'}}>
+              <h3 className='client__name'>{nome}</h3>
+                <p className="client__review">
                   {review}
-                </small>
+                </p>
           </SwiperSlide>
            )
          })
        }
 
       </Swiper>
+      <div className="testimonials__pagination" role="group" aria-label="Elegir testimonio">
+        {data.map((item, index) => (
+          <button key={item.nome} type="button"
+            aria-label={`Mostrar testimonio ${index + 1} de ${data.length}`}
+            aria-controls={`testimonio-${index + 1}`}
+            aria-current={index === activeIndex ? 'true' : undefined}
+            onClick={() => swiper.current?.slideTo(index)}
+          />
+        ))}
+      </div>
+      </div>
     </section>
   )
 }

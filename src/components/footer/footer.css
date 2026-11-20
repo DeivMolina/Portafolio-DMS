@@ -1,68 +1,15 @@
-footer{
+.site-footer {
     background: var(--color-primary);
-    padding: 3rem 0;
+    padding-block: var(--space-12) calc(var(--nav-clearance) + env(safe-area-inset-bottom, 0px));
     text-align: center;
-    font-size: 0.9rem;
-    margin-top: 7rem;
+    font-size: var(--text-base);
+    margin-top: var(--section-gap);
 }
-
-footer a{
-    color: var(--color-bg);
-
-}
-
-.footer__logo{
-    font-size: 2rem;
-    font-weight: 500;
-    margin-bottom: 2rem;
-    display: inline-block;
-}
-
-.permalinks{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 0 auto 3rem;
-}
-
-.footer__socials{
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-bottom: 4rem;
-}
-
-.footer__socials a{
-    background: var(--color-bg);
-    color: var(--color-white);
-    padding: 0.8rem;
-    border-radius: 0.7rem;
-    display: flex;
-    border: 1px solid transparent;
-}
-
-.footer__socials a:hover{
-    background: transparent;
-    color: var(--color-bg);
-    border-color: var(--color-bg);
-}
-
-.footer__copyright{
-    margin-bottom: 4rem;
-    color: var(--color-bg);
-}
-
-
-
- 
- @media screen and (max-width: 600px) {
-   .permalinks{
-       flex-direction: column;
-       gap: 1.5rem;
-   }
-
-   .footer__socials{
-       margin-bottom: 2.6rem;
-   }
- }
+.site-footer, .site-footer a { color: var(--color-on-primary); }
+.footer__logo { font-size: var(--text-2xl); font-weight: var(--weight-medium); margin-bottom: var(--space-6); display: inline-block; }
+.permalinks { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-2) var(--space-6); inline-size: min(calc(100% - 2 * var(--page-gutter)), var(--container-max)); margin: 0 auto var(--space-8); }
+.permalinks a { display: inline-flex; align-items: center; min-block-size: 44px; }
+.footer__socials { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-4); margin-bottom: var(--space-8); padding-inline: var(--page-gutter); }
+.footer__socials a { background: var(--color-bg); color: var(--color-white); padding: var(--space-3); border-radius: var(--radius-control); display: flex; align-items: center; justify-content: center; min-inline-size: 44px; min-block-size: 44px; border: 1px solid var(--color-border-subtle); }
+.footer__socials a:hover { background: var(--color-surface); color: var(--color-on-primary); border-color: var(--color-on-primary); }
+.footer__copyright, .footer__copyrght { color: var(--color-on-primary); padding-inline: var(--page-gutter); }

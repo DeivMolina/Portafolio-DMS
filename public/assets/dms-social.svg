@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0a28"/>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@500&amp;display=swap');</style>
+  <g font-family="Geologica, sans-serif" font-weight="500">
+    <text x="80" y="112" fill="#b8beff" font-size="38" font-weight="700">DMS</text>
+    <text x="80" y="258" fill="#f5f5fc" font-size="78" font-weight="700">David Molina</text>
+    <text x="80" y="320" fill="#c6c6de" font-size="32">Desarrollador Full Stack en México</text>
+    <text x="80" y="418" fill="#f5f5fc" font-size="38">Software a medida y sistemas web</text>
+    <path d="M80 486H1120" stroke="#41416a"/>
+    <text x="80" y="550" fill="#b8beff" font-size="28">dm-series.com</text>
+  </g>
+</svg>

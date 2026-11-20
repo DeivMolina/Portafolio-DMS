@@ -1,169 +1,76 @@
-@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap');
-
-header{
-    padding-top: 7rem;
-    overflow: hidden;
+.portfolio-header {
+    padding-block: clamp(2rem, 7vw, 6rem) var(--section-gap);
 }
-
-.header__container{
-    min-height: calc(100vh - 7rem); /* Asegura que no cambie su tamaño */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+.portfolio-header > .container { display: grid; gap: var(--space-5); justify-items: start; }
+.header__title { max-inline-size: 25ch; line-height: var(--line-heading); }
+.typewriter { display: grid; gap: var(--space-1); justify-items: start; inline-size: 100%; min-inline-size: 0; }
+.typewriter__control {
+    display: inline-flex;
     align-items: center;
+    gap: var(--space-2);
+    min-block-size: var(--control-height);
+    max-inline-size: 100%;
+    padding-block: var(--space-2);
+    background: transparent;
+    color: var(--color-text-light);
+    font: inherit;
+    font-size: var(--text-xs);
+    line-height: 1.5;
+    cursor: pointer;
+    text-align: start;
+    transition: color var(--duration-fast) var(--ease-standard);
 }
-
-.title{
-    font-family: 'Geologica', sans-serif;
-    display: inline-block;
-    border-right: 2px solid #4b59fb;
-    padding-right: 5px;
-    white-space: nowrap;
-    overflow: hidden;
-    height: 3rem; 
-    line-height: 3rem; 
+.typewriter__control:hover { color: var(--color-link-hover); }
+.typewriter__control svg { flex-shrink: 0; inline-size: var(--icon-size); block-size: var(--icon-size); }
+.typewriter-title {
+    display: block;
+    max-inline-size: 100%;
+    min-block-size: calc(2em * var(--line-heading));
+    block-size: auto;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    padding-inline-end: var(--space-1);
 }
-
-.description{
-    font-size: 20px;
-    font-weight: 500;
-}
-
-h5, h6 {
-    position: relative;
-    top: 0; /* Asegura que se queden en su lugar */
-    margin-top: 1rem; /* Ajusta según sea necesario */
-}
-
-.cta{
-    margin-top: 2.5rem;
-    display: flex;
-    gap: 1.2rem;
-    justify-content: center;
-}
-
-.header__socials{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.8rem;
-    position: absolute;
-    left: 0;
-    bottom: 3rem;
-}
-
-.header__socials::after{
+.typewriter-title::after {
     content: '';
-    width: 1px;
-    height: 2rem;
-    background: var(--color-primary);
-}
-
-.me {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 1rem 0;
-  }
-  
-  .me img {
-    width: 6rem;
-    height: 6rem;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 1rem;
-  }
-
-  .badge {
     display: inline-block;
-    padding: 5px 10px;
-    border-radius: 50px;
-    border: 1px solid #51e4b8;
-    background-color: transparent;
-    color: #fff;
-    animation: scaleBadge 2s infinite ease-in-out;
-    font-size: 12px;
-  }
-
-  .badge-btn {
-    display: inline-flex;
-    align-items: center;
-    padding: 5px 10px;
-    border-radius: 25px;
-    background-color: transparent;
-    border: 2px solid rgba(255, 255, 255, 0.2);
-    color: #fff;
-    font-size: 16px;
-    text-decoration: none;
-    transition: background-color 0.3s ease, transform 0.3s ease;
-    width: auto; /* Asegura que el ancho se ajuste al contenido */
-  }
-  
-  .badge-btn:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    transform: scale(1.05);
-  }
-  
-  .badge-btn span {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.2rem;
-  }
-  
-  .badges {
-    display: flex;
-    flex-wrap: wrap; /* Permite que los badges se ajusten y no se extiendan en una sola línea */
-    gap: 1rem;
-    padding: 1rem 0;
-  }
-  
-  
-  @keyframes scaleBadge {
-    0%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1); /* Aumenta ligeramente el tamaño */
-    }
-  }
-
-.scroll__down{
-    position: absolute;
-    right: -2.3rem;
-    bottom: 5rem;
-    transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 0.9rem;
+    inline-size: 2px;
+    block-size: 1em;
+    margin-inline-start: var(--space-1);
+    background: var(--color-primary-variant);
+    vertical-align: -0.08em;
 }
-
-/*MEDIA QUERYS*/
-
-    @media screen and (max-width: 1024px) {
-        header {
-        height: 68vh;
-        }
-        .badge-btn {
-            padding: 0.4rem 0.8rem; /* Reduce el padding en pantallas medianas */
-            font-size: 0.9rem; /* Reduce el tamaño de la fuente */
-        }
-    }
-    
-    @media screen and (max-width: 600px) {
-        header {
-        height: 100vh;
-        }
-    
-        .header__socials, .scroll__down {
-        display: none;
-        }
-
-        .badge-btn {
-            padding: 0.3rem 0.6rem; /* Aún más pequeño en pantallas pequeñas */
-            font-size: 0.8rem; /* Reduce más el tamaño de la fuente */
-        }
-        
-        .badges {
-            flex-direction: column; /* Los badges se apilan verticalmente en pantallas pequeñas */
-            gap: 0.5rem; /* Reduce el espacio entre badges */
-        }
-    }
+.typewriter-title[data-running="false"]::after { visibility: hidden; }
+.header__description {
+    max-inline-size: 60ch;
+    font-size: var(--text-intro);
+    font-weight: var(--weight-regular);
+    line-height: 1.65;
+}
+.cta { display: flex; flex-wrap: wrap; gap: var(--space-3); margin-top: var(--space-6); }
+.header__socials { display: flex; flex-direction: column; align-items: center; gap: var(--space-3); }
+.header__socials::after { content: ''; inline-size: 1px; block-size: var(--space-8); background: var(--color-link); }
+.me { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-4); inline-size: 100%; }
+.me picture {
+    inline-size: clamp(4.5rem, 12vw, 6rem);
+    block-size: auto;
+    aspect-ratio: 1;
+    border-radius: var(--radius-pill);
+    overflow: hidden;
+}
+.me picture img { inline-size: 100%; block-size: auto; aspect-ratio: 1; object-fit: cover; }
+.availability-badge {
+    display: inline-block;
+    max-inline-size: 100%;
+    padding: var(--space-1) var(--space-2);
+    border-radius: var(--radius-pill);
+    border: 1px solid var(--color-availability);
+    background: transparent;
+    color: var(--color-text);
+    font-size: var(--text-xs);
+}
+.header__actions { display: flex; flex-wrap: wrap; gap: var(--space-3); inline-size: 100%; }
+.header__actions .btn > span { display: inline-flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-2); min-inline-size: 0; max-inline-size: 100%; }
+@media screen and (max-width: 30rem) {
+    .header__actions .btn { flex: 1 1 12rem; }
+}

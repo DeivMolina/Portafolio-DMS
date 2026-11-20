@@ -1,0 +1,4707 @@
+{
+  "engine": "Installed Chrome, headless / CDP",
+  "origin": "http://127.0.0.1:54036",
+  "viewports": [
+    {
+      "width": 320,
+      "height": 740,
+      "documentWidth": 305,
+      "nav": {
+        "left": 23.3125,
+        "right": 281.6875,
+        "width": 258.375
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "documentWidth": 345,
+      "nav": {
+        "left": 40.921875,
+        "right": 304.078125,
+        "width": 263.15625
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 375,
+      "nav": {
+        "left": 54.125,
+        "right": 320.875,
+        "width": 266.75
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 600,
+      "height": 900,
+      "documentWidth": 585,
+      "nav": {
+        "left": 146.5,
+        "right": 438.5,
+        "width": 292
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 601,
+      "height": 900,
+      "documentWidth": 586,
+      "nav": {
+        "left": 146.984375,
+        "right": 439.015625,
+        "width": 292.03125
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "documentWidth": 753,
+      "nav": {
+        "left": 220.4375,
+        "right": 532.5625,
+        "width": 312.125
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "documentWidth": 1009,
+      "nav": {
+        "left": 346.5,
+        "right": 662.5,
+        "width": 316
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 1025,
+      "height": 900,
+      "documentWidth": 1010,
+      "nav": {
+        "left": 347,
+        "right": 663,
+        "width": 316
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 1280,
+      "height": 900,
+      "documentWidth": 1265,
+      "nav": {
+        "left": 474.5,
+        "right": 790.5,
+        "width": 316
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1425,
+      "nav": {
+        "left": 554.5,
+        "right": 870.5,
+        "width": 316
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    },
+    {
+      "width": 1920,
+      "height": 1000,
+      "documentWidth": 1905,
+      "nav": {
+        "left": 794.5,
+        "right": 1110.5,
+        "width": 316
+      },
+      "targets": [
+        {
+          "name": "Inicio",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Proyectos",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Servicios",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Sobre mí",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "name": "Contacto",
+          "width": 44,
+          "height": 44
+        }
+      ],
+      "mainCount": 1,
+      "portfolioCount": 1,
+      "unresolvedAnchors": [],
+      "nativeHandlers": {
+        "contextMenu": true,
+        "selection": true
+      },
+      "viewport": "width=device-width,initial-scale=1"
+    }
+  ],
+  "checks": [
+    "scroll:portfolio",
+    "scroll:otros-proyectos",
+    "scroll:services",
+    "scroll:about",
+    "scroll:contact",
+    "direct:#experience",
+    "history:back",
+    "keyboard:skip-link-visible-and-focus-main",
+    "reduced-motion:instant-anchor-scroll",
+    "footer:copyright-unobscured",
+    "accessibility-tree:links-have-names",
+    "synthesized-touch:contact-link",
+    "contact:native-required-validation",
+    "contact:captcha-required",
+    "contact:expired-captcha-blocked",
+    "contact:success-clears-form-and-captcha",
+    "contact:duplicate-submission-blocked",
+    "contact:real-sdk-serializes-correct-fields",
+    "contact:error-preserves-data-and-requires-new-captcha",
+    "contact:retry-after-new-captcha",
+    "design:primary-hover-and-active",
+    "design:action-keyboard-focus",
+    "design:shared-card-surface-and-radius",
+    "design:shared-technology-tag-style",
+    "design:disabled-and-field-states",
+    "design:metric-cards-fit-small-viewports",
+    "layout:landscape-and-short-windows",
+    "layout:200-and-400-percent-reflow-equivalents",
+    "layout:text-only-200-percent",
+    "layout:font-fallback-reflow",
+    "layout:cv-reachable-above-navigation",
+    "layout:all-typewriter-phrases-fit",
+    "layout:long-unbroken-project-title"
+  ],
+  "limitations": [
+    "EmailJS is intercepted and CAPTCHA simulated; no real messages or physical-device tests.",
+    "Only existing Google Fonts domains are allowed; actual font loading is recorded.",
+    "Zoom reflow is tested with equivalent CSS viewport sizes; text-only scaling is tested separately."
+  ],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/156.0.8078.76",
+    "revision": "@93ce6b54af3fee27e384d1f30346e80db47a14da",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "jsVersion": "15.6.75.25"
+  },
+  "fonts": {
+    "poppins": true,
+    "geologica": true
+  },
+  "layoutViewports": [
+    {
+      "width": 320,
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "height": 740,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 305,
+        "top": 0,
+        "bottom": 718.515625,
+        "width": 305,
+        "height": 718.515625
+      },
+      "actions": {
+        "left": 16,
+        "right": 289,
+        "top": 458.515625,
+        "bottom": 670.515625,
+        "width": 273,
+        "height": 212
+      },
+      "title": {
+        "left": 16,
+        "right": 289,
+        "top": 173.796875,
+        "bottom": 253.796875,
+        "width": 273,
+        "height": 80,
+        "scrollWidth": 273,
+        "clientWidth": 273,
+        "scrollHeight": 80,
+        "clientHeight": 80
+      },
+      "nav": {
+        "left": 23.3125,
+        "right": 281.6875,
+        "top": 660,
+        "bottom": 724,
+        "width": 258.375,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 360,
+      "clientWidth": 345,
+      "documentWidth": 345,
+      "height": 800,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 345,
+        "top": 0,
+        "bottom": 644.875,
+        "width": 345,
+        "height": 644.875
+      },
+      "actions": {
+        "left": 16,
+        "right": 329,
+        "top": 384.875,
+        "bottom": 596.875,
+        "width": 313,
+        "height": 212
+      },
+      "title": {
+        "left": 16,
+        "right": 329,
+        "top": 124,
+        "bottom": 205.96875,
+        "width": 313,
+        "height": 81.96875,
+        "scrollWidth": 313,
+        "clientWidth": 313,
+        "scrollHeight": 82,
+        "clientHeight": 82
+      },
+      "nav": {
+        "left": 40.921875,
+        "right": 304.078125,
+        "top": 720,
+        "bottom": 784,
+        "width": 263.15625,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 390,
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "height": 844,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 375,
+        "top": 0,
+        "bottom": 619.5625,
+        "width": 375,
+        "height": 619.5625
+      },
+      "actions": {
+        "left": 16,
+        "right": 359,
+        "top": 359.5625,
+        "bottom": 571.5625,
+        "width": 343,
+        "height": 212
+      },
+      "title": {
+        "left": 16,
+        "right": 359,
+        "top": 124,
+        "bottom": 207.5,
+        "width": 343,
+        "height": 83.5,
+        "scrollWidth": 343,
+        "clientWidth": 343,
+        "scrollHeight": 84,
+        "clientHeight": 84
+      },
+      "nav": {
+        "left": 54.125,
+        "right": 320.875,
+        "top": 764,
+        "bottom": 828,
+        "width": 266.75,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 600,
+      "clientWidth": 585,
+      "documentWidth": 585,
+      "height": 900,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 585,
+        "top": 0,
+        "bottom": 505.296875,
+        "width": 585,
+        "height": 505.296875
+      },
+      "actions": {
+        "left": 24,
+        "right": 561,
+        "top": 357.296875,
+        "bottom": 457.296875,
+        "width": 537,
+        "height": 100
+      },
+      "title": {
+        "left": 24,
+        "right": 84.15625,
+        "top": 134,
+        "bottom": 228,
+        "width": 60.15625,
+        "height": 94,
+        "scrollWidth": 60,
+        "clientWidth": 60,
+        "scrollHeight": 94,
+        "clientHeight": 94
+      },
+      "nav": {
+        "left": 146.5,
+        "right": 438.5,
+        "top": 820,
+        "bottom": 884,
+        "width": 292,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 601,
+      "clientWidth": 586,
+      "documentWidth": 586,
+      "height": 900,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 586,
+        "top": 0,
+        "bottom": 505.515625,
+        "width": 586,
+        "height": 505.515625
+      },
+      "actions": {
+        "left": 24.046875,
+        "right": 561.953125,
+        "top": 357.515625,
+        "bottom": 457.515625,
+        "width": 537.90625,
+        "height": 100
+      },
+      "title": {
+        "left": 24.046875,
+        "right": 84.234375,
+        "top": 134.171875,
+        "bottom": 228.21875,
+        "width": 60.1875,
+        "height": 94.046875,
+        "scrollWidth": 60,
+        "clientWidth": 60,
+        "scrollHeight": 94,
+        "clientHeight": 94
+      },
+      "nav": {
+        "left": 146.984375,
+        "right": 439.015625,
+        "top": 820,
+        "bottom": 884,
+        "width": 292.03125,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 768,
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "height": 1024,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 753,
+        "top": 0,
+        "bottom": 499.46875,
+        "width": 753,
+        "height": 499.46875
+      },
+      "actions": {
+        "left": 30.71875,
+        "right": 722.265625,
+        "top": 401.71875,
+        "bottom": 445.71875,
+        "width": 691.546875,
+        "height": 44
+      },
+      "title": {
+        "left": 30.71875,
+        "right": 95.359375,
+        "top": 165.90625,
+        "bottom": 268.296875,
+        "width": 64.640625,
+        "height": 102.390625,
+        "scrollWidth": 65,
+        "clientWidth": 65,
+        "scrollHeight": 102,
+        "clientHeight": 102
+      },
+      "nav": {
+        "left": 220.4375,
+        "right": 532.5625,
+        "top": 944,
+        "bottom": 1008,
+        "width": 312.125,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 2,
+      "serviceColumns": 2,
+      "featureColumns": 1,
+      "aboutColumns": 3,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 1024,
+      "clientWidth": 1009,
+      "documentWidth": 1009,
+      "height": 900,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 1009,
+        "top": 0,
+        "bottom": 524.53125,
+        "width": 1009,
+        "height": 524.53125
+      },
+      "actions": {
+        "left": 32,
+        "right": 977,
+        "top": 408.859375,
+        "bottom": 452.859375,
+        "width": 945,
+        "height": 44
+      },
+      "title": {
+        "left": 32,
+        "right": 103.484375,
+        "top": 187.671875,
+        "bottom": 302.859375,
+        "width": 71.484375,
+        "height": 115.1875,
+        "scrollWidth": 71,
+        "clientWidth": 71,
+        "scrollHeight": 115,
+        "clientHeight": 115
+      },
+      "nav": {
+        "left": 346.5,
+        "right": 662.5,
+        "top": 820,
+        "bottom": 884,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 3,
+      "serviceColumns": 2,
+      "featureColumns": 2,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 1025,
+      "clientWidth": 1010,
+      "documentWidth": 1010,
+      "height": 900,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 1010,
+        "top": 0,
+        "bottom": 524.75,
+        "width": 1010,
+        "height": 524.75
+      },
+      "actions": {
+        "left": 32,
+        "right": 978,
+        "top": 409,
+        "bottom": 453,
+        "width": 946,
+        "height": 44
+      },
+      "title": {
+        "left": 32,
+        "right": 103.5,
+        "top": 187.75,
+        "bottom": 303,
+        "width": 71.5,
+        "height": 115.25,
+        "scrollWidth": 72,
+        "clientWidth": 72,
+        "scrollHeight": 115,
+        "clientHeight": 115
+      },
+      "nav": {
+        "left": 347,
+        "right": 663,
+        "top": 820,
+        "bottom": 884,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 3,
+      "serviceColumns": 2,
+      "featureColumns": 2,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 1280,
+      "clientWidth": 1265,
+      "documentWidth": 1265,
+      "height": 900,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 1265,
+        "top": 0,
+        "bottom": 565.1875,
+        "width": 1265,
+        "height": 565.1875
+      },
+      "actions": {
+        "left": 56.5,
+        "right": 1208.5,
+        "top": 431.59375,
+        "bottom": 475.59375,
+        "width": 1152,
+        "height": 44
+      },
+      "title": {
+        "left": 56.5,
+        "right": 130.546875,
+        "top": 205.59375,
+        "bottom": 325.59375,
+        "width": 74.046875,
+        "height": 120,
+        "scrollWidth": 74,
+        "clientWidth": 74,
+        "scrollHeight": 120,
+        "clientHeight": 120
+      },
+      "nav": {
+        "left": 474.5,
+        "right": 790.5,
+        "top": 820,
+        "bottom": 884,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 3,
+      "serviceColumns": 3,
+      "featureColumns": 2,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 1440,
+      "clientWidth": 1425,
+      "documentWidth": 1425,
+      "height": 900,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 1425,
+        "top": 0,
+        "bottom": 578,
+        "width": 1425,
+        "height": 578
+      },
+      "actions": {
+        "left": 136.5,
+        "right": 1288.5,
+        "top": 438,
+        "bottom": 482,
+        "width": 1152,
+        "height": 44
+      },
+      "title": {
+        "left": 136.5,
+        "right": 210.546875,
+        "top": 212,
+        "bottom": 332,
+        "width": 74.046875,
+        "height": 120,
+        "scrollWidth": 74,
+        "clientWidth": 74,
+        "scrollHeight": 120,
+        "clientHeight": 120
+      },
+      "nav": {
+        "left": 554.5,
+        "right": 870.5,
+        "top": 820,
+        "bottom": 884,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 3,
+      "serviceColumns": 3,
+      "featureColumns": 2,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "width": 1920,
+      "clientWidth": 1905,
+      "documentWidth": 1905,
+      "height": 1000,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 1905,
+        "top": 0,
+        "bottom": 578,
+        "width": 1905,
+        "height": 578
+      },
+      "actions": {
+        "left": 376.5,
+        "right": 1528.5,
+        "top": 438,
+        "bottom": 482,
+        "width": 1152,
+        "height": 44
+      },
+      "title": {
+        "left": 376.5,
+        "right": 450.546875,
+        "top": 212,
+        "bottom": 332,
+        "width": 74.046875,
+        "height": 120,
+        "scrollWidth": 74,
+        "clientWidth": 74,
+        "scrollHeight": 120,
+        "clientHeight": 120
+      },
+      "nav": {
+        "left": 794.5,
+        "right": 1110.5,
+        "top": 920,
+        "bottom": 984,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 3,
+      "serviceColumns": 3,
+      "featureColumns": 2,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    }
+  ],
+  "designViewports": [
+    {
+      "width": 320,
+      "documentWidth": 305,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 360,
+      "documentWidth": 345,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "documentWidth": 375,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 600,
+      "documentWidth": 585,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 601,
+      "documentWidth": 586,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "documentWidth": 753,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "documentWidth": 1009,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 1025,
+      "documentWidth": 1010,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "documentWidth": 1265,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1425,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "documentWidth": 1905,
+      "bodyFont": "Poppins, sans-serif",
+      "headingFont": "Geologica, sans-serif",
+      "controls": [
+        {
+          "text": "Hablemos",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "GitHub",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "LinkedIn",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Ver mi CV",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(184, 190, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "primary": false
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Preview",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Contactame!",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        },
+        {
+          "text": "Enviar mensaje",
+          "height": 44,
+          "radius": "8px",
+          "fontSize": "15px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(75, 89, 251)",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "contactLayouts": [
+    {
+      "width": 320,
+      "formWidth": 273,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 289,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 289,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 289,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 289,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 360,
+      "formWidth": 313,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 329,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 329,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 329,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 329,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 390,
+      "formWidth": 343,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 359,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 359,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 359,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 16,
+          "right": 359,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 600,
+      "formWidth": 537,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 24,
+          "right": 561,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 24,
+          "right": 561,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 24,
+          "right": 561,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 24,
+          "right": 561,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 601,
+      "formWidth": 537.90625,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 24.046875,
+          "right": 561.953125,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 24.046875,
+          "right": 561.953125,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 24.046875,
+          "right": 561.953125,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 24.046875,
+          "right": 561.953125,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 768,
+      "formWidth": 691.546875,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 30.71875,
+          "right": 722.265625,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 30.71875,
+          "right": 722.265625,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 30.71875,
+          "right": 722.265625,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 30.71875,
+          "right": 722.265625,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 1024,
+      "formWidth": 595.875,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 381.125,
+          "right": 977,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 381.125,
+          "right": 977,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 381.125,
+          "right": 977,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 381.125,
+          "right": 977,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 1025,
+      "formWidth": 596.5,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 381.5,
+          "right": 978,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 381.5,
+          "right": 978,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 381.5,
+          "right": 978,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 381.5,
+          "right": 978,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 1280,
+      "formWidth": 597.34375,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 515.15625,
+          "right": 1112.5,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 515.15625,
+          "right": 1112.5,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 515.15625,
+          "right": 1112.5,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 515.15625,
+          "right": 1112.5,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 1440,
+      "formWidth": 597.34375,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 595.15625,
+          "right": 1192.5,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 595.15625,
+          "right": 1192.5,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 595.15625,
+          "right": 1192.5,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 595.15625,
+          "right": 1192.5,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    },
+    {
+      "width": 1920,
+      "formWidth": 597.34375,
+      "submitTextColor": "rgb(255, 255, 255)",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre completo",
+          "fontSize": "16px",
+          "left": 835.15625,
+          "right": 1432.5,
+          "height": 63.1875
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "fontSize": "16px",
+          "left": 835.15625,
+          "right": 1432.5,
+          "height": 63.1875
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono",
+          "fontSize": "16px",
+          "left": 835.15625,
+          "right": 1432.5,
+          "height": 63.1875
+        },
+        {
+          "name": "message",
+          "label": "Mensaje",
+          "fontSize": "16px",
+          "left": 835.15625,
+          "right": 1432.5,
+          "height": 226.3125
+        }
+      ],
+      "whatsapp": "https://wa.me/525540613200"
+    }
+  ],
+  "skipLinkFocus": {
+    "text": "Saltar al contenido principal",
+    "href": "#contenido-principal",
+    "top": 16,
+    "bottom": 69.1875,
+    "outline": "solid",
+    "outlineWidth": "3px"
+  },
+  "footer": {
+    "navTop": 920,
+    "copyBottom": 887.859375,
+    "current": "Contacto"
+  },
+  "accessibility": {
+    "namedLinks": 38,
+    "mainLandmarks": 1
+  },
+  "contact": {
+    "interceptedRequests": 3,
+    "realMessagesSent": 0,
+    "captcha": "Clearly labeled test double; no Google verification",
+    "payloadFieldsVerified": [
+      "email",
+      "phone",
+      "g-recaptcha-response"
+    ],
+    "localTemplate": "correo.html",
+    "remoteTemplateAndReplyToVerified": false
+  },
+  "design": {
+    "primaryStates": [
+      "default",
+      "hover",
+      "active"
+    ],
+    "focus": {
+      "action": true,
+      "outline": "3px",
+      "style": "solid"
+    },
+    "disabled": {
+      "opacity": "0.65",
+      "cursor": "progress"
+    },
+    "sharedCards": 31,
+    "sharedTags": 21,
+    "actualRemoteFontsValidated": false
+  },
+  "layoutStress": [
+    {
+      "name": "landscape-568",
+      "width": 568,
+      "clientWidth": 553,
+      "documentWidth": 553,
+      "height": 320,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 553,
+        "top": 0,
+        "bottom": 454.390625,
+        "width": 553,
+        "height": 454.390625
+      },
+      "actions": {
+        "left": 22.71875,
+        "right": 530.265625,
+        "top": 306.390625,
+        "bottom": 406.390625,
+        "width": 507.546875,
+        "height": 100
+      },
+      "title": {
+        "left": 22.71875,
+        "right": 420.78125,
+        "top": 131.75,
+        "bottom": 177.9375,
+        "width": 398.0625,
+        "height": 46.1875,
+        "scrollWidth": 398,
+        "clientWidth": 398,
+        "scrollHeight": 46,
+        "clientHeight": 46
+      },
+      "nav": {
+        "left": 132.4375,
+        "right": 420.5625,
+        "top": 240,
+        "bottom": 304,
+        "width": 288.125,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "landscape-667",
+      "width": 667,
+      "clientWidth": 652,
+      "documentWidth": 652,
+      "height": 375,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 652,
+        "top": 0,
+        "bottom": 467,
+        "width": 652,
+        "height": 467
+      },
+      "actions": {
+        "left": 26.6875,
+        "right": 625.3125,
+        "top": 375,
+        "bottom": 419,
+        "width": 598.625,
+        "height": 44
+      },
+      "title": {
+        "left": 26.6875,
+        "right": 88.625,
+        "top": 146.71875,
+        "bottom": 244.0625,
+        "width": 61.9375,
+        "height": 97.34375,
+        "scrollWidth": 62,
+        "clientWidth": 62,
+        "scrollHeight": 97,
+        "clientHeight": 97
+      },
+      "nav": {
+        "left": 176,
+        "right": 476,
+        "top": 295,
+        "bottom": 359,
+        "width": 300,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 3,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "landscape-844",
+      "width": 844,
+      "clientWidth": 829,
+      "documentWidth": 829,
+      "height": 390,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 829,
+        "top": 0,
+        "bottom": 487.90625,
+        "width": 829,
+        "height": 487.90625
+      },
+      "actions": {
+        "left": 32,
+        "right": 797,
+        "top": 384.828125,
+        "bottom": 428.828125,
+        "width": 765,
+        "height": 44
+      },
+      "title": {
+        "left": 32,
+        "right": 121.765625,
+        "top": 175.078125,
+        "bottom": 281.265625,
+        "width": 89.765625,
+        "height": 106.1875,
+        "scrollWidth": 90,
+        "clientWidth": 90,
+        "scrollHeight": 106,
+        "clientHeight": 106
+      },
+      "nav": {
+        "left": 256.5,
+        "right": 572.5,
+        "top": 310,
+        "bottom": 374,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 2,
+      "serviceColumns": 2,
+      "featureColumns": 1,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "short-desktop",
+      "width": 1024,
+      "clientWidth": 1009,
+      "documentWidth": 1009,
+      "height": 600,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 1009,
+        "top": 0,
+        "bottom": 524.53125,
+        "width": 1009,
+        "height": 524.53125
+      },
+      "actions": {
+        "left": 32,
+        "right": 977,
+        "top": 408.859375,
+        "bottom": 452.859375,
+        "width": 945,
+        "height": 44
+      },
+      "title": {
+        "left": 32,
+        "right": 103.484375,
+        "top": 187.671875,
+        "bottom": 302.859375,
+        "width": 71.484375,
+        "height": 115.1875,
+        "scrollWidth": 71,
+        "clientWidth": 71,
+        "scrollHeight": 115,
+        "clientHeight": 115
+      },
+      "nav": {
+        "left": 346.5,
+        "right": 662.5,
+        "top": 520,
+        "bottom": 584,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 3,
+      "serviceColumns": 2,
+      "featureColumns": 2,
+      "aboutColumns": 3,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "zoom-200-reflow",
+      "width": 640,
+      "clientWidth": 625,
+      "documentWidth": 625,
+      "height": 450,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 625,
+        "top": 0,
+        "bottom": 459.828125,
+        "width": 625,
+        "height": 459.828125
+      },
+      "actions": {
+        "left": 25.59375,
+        "right": 599.390625,
+        "top": 367.828125,
+        "bottom": 411.828125,
+        "width": 573.796875,
+        "height": 44
+      },
+      "title": {
+        "left": 25.59375,
+        "right": 107.703125,
+        "top": 141.59375,
+        "bottom": 237.59375,
+        "width": 82.109375,
+        "height": 96,
+        "scrollWidth": 82,
+        "clientWidth": 82,
+        "scrollHeight": 96,
+        "clientHeight": 96
+      },
+      "nav": {
+        "left": 164.125,
+        "right": 460.875,
+        "top": 370,
+        "bottom": 434,
+        "width": 296.75,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 3,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "zoom-400-reflow",
+      "width": 320,
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "height": 225,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 305,
+        "top": 0,
+        "bottom": 718.515625,
+        "width": 305,
+        "height": 718.515625
+      },
+      "actions": {
+        "left": 16,
+        "right": 289,
+        "top": 458.515625,
+        "bottom": 670.515625,
+        "width": 273,
+        "height": 212
+      },
+      "title": {
+        "left": 16,
+        "right": 289,
+        "top": 173.796875,
+        "bottom": 253.796875,
+        "width": 273,
+        "height": 80,
+        "scrollWidth": 273,
+        "clientWidth": 273,
+        "scrollHeight": 80,
+        "clientHeight": 80
+      },
+      "nav": {
+        "left": 23.3125,
+        "right": 281.6875,
+        "top": 145,
+        "bottom": 209,
+        "width": 258.375,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "text-200-mobile",
+      "width": 320,
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "height": 844,
+      "rootFont": "32px",
+      "header": {
+        "left": 0,
+        "right": 305,
+        "top": 0,
+        "bottom": 2027.546875,
+        "width": 305,
+        "height": 2027.546875
+      },
+      "actions": {
+        "left": 32,
+        "right": 273,
+        "top": 1421.546875,
+        "bottom": 1931.546875,
+        "width": 241,
+        "height": 510
+      },
+      "title": {
+        "left": 32,
+        "right": 273,
+        "top": 440.78125,
+        "bottom": 760.78125,
+        "width": 241,
+        "height": 320,
+        "scrollWidth": 241,
+        "clientWidth": 241,
+        "scrollHeight": 320,
+        "clientHeight": 320
+      },
+      "nav": {
+        "left": 23.3125,
+        "right": 281.6875,
+        "top": 764,
+        "bottom": 828,
+        "width": 258.375,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "text-200-tablet",
+      "width": 768,
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "height": 1024,
+      "rootFont": "32px",
+      "header": {
+        "left": 0,
+        "right": 753,
+        "top": 0,
+        "bottom": 1014.265625,
+        "width": 753,
+        "height": 1014.265625
+      },
+      "actions": {
+        "left": 32,
+        "right": 721,
+        "top": 718.265625,
+        "bottom": 918.265625,
+        "width": 689,
+        "height": 200
+      },
+      "title": {
+        "left": 32,
+        "right": 174.96875,
+        "top": 248,
+        "bottom": 414.390625,
+        "width": 142.96875,
+        "height": 166.390625,
+        "scrollWidth": 143,
+        "clientWidth": 143,
+        "scrollHeight": 166,
+        "clientHeight": 166
+      },
+      "nav": {
+        "left": 220.4375,
+        "right": 532.5625,
+        "top": 944,
+        "bottom": 1008,
+        "width": 312.125,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 2,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "text-200-desktop",
+      "width": 1440,
+      "clientWidth": 1425,
+      "documentWidth": 1425,
+      "height": 900,
+      "rootFont": "32px",
+      "header": {
+        "left": 0,
+        "right": 1425,
+        "top": 0,
+        "bottom": 966.890625,
+        "width": 1425,
+        "height": 966.890625
+      },
+      "actions": {
+        "left": 57.59375,
+        "right": 1367.390625,
+        "top": 778.09375,
+        "bottom": 866.09375,
+        "width": 1309.796875,
+        "height": 88
+      },
+      "title": {
+        "left": 57.59375,
+        "right": 225.796875,
+        "top": 313.59375,
+        "bottom": 513.59375,
+        "width": 168.203125,
+        "height": 200,
+        "scrollWidth": 168,
+        "clientWidth": 168,
+        "scrollHeight": 200,
+        "clientHeight": 200
+      },
+      "nav": {
+        "left": 554.5,
+        "right": 870.5,
+        "top": 820,
+        "bottom": 884,
+        "width": 316,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 2,
+      "serviceColumns": 2,
+      "featureColumns": 2,
+      "aboutColumns": 2,
+      "contactColumns": 2,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "font-fallback-mobile",
+      "width": 320,
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "height": 844,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 305,
+        "top": 0,
+        "bottom": 641.265625,
+        "width": 305,
+        "height": 641.265625
+      },
+      "actions": {
+        "left": 16,
+        "right": 289,
+        "top": 381.265625,
+        "bottom": 593.265625,
+        "width": 273,
+        "height": 212
+      },
+      "title": {
+        "left": 16,
+        "right": 289,
+        "top": 124,
+        "bottom": 204,
+        "width": 273,
+        "height": 80,
+        "scrollWidth": 273,
+        "clientWidth": 273,
+        "scrollHeight": 80,
+        "clientHeight": 80
+      },
+      "nav": {
+        "left": 23.3125,
+        "right": 281.6875,
+        "top": 764,
+        "bottom": 828,
+        "width": 258.375,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 1,
+      "serviceColumns": 1,
+      "featureColumns": 1,
+      "aboutColumns": 1,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    },
+    {
+      "name": "font-fallback-tablet",
+      "width": 768,
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "height": 1024,
+      "rootFont": "16px",
+      "header": {
+        "left": 0,
+        "right": 753,
+        "top": 0,
+        "bottom": 468.328125,
+        "width": 753,
+        "height": 468.328125
+      },
+      "actions": {
+        "left": 30.71875,
+        "right": 722.265625,
+        "top": 370.578125,
+        "bottom": 414.578125,
+        "width": 691.546875,
+        "height": 44
+      },
+      "title": {
+        "left": 30.71875,
+        "right": 113.5625,
+        "top": 165.90625,
+        "bottom": 268.296875,
+        "width": 82.84375,
+        "height": 102.390625,
+        "scrollWidth": 83,
+        "clientWidth": 83,
+        "scrollHeight": 102,
+        "clientHeight": 102
+      },
+      "nav": {
+        "left": 220.4375,
+        "right": 532.5625,
+        "top": 944,
+        "bottom": 1008,
+        "width": 312.125,
+        "height": 64
+      },
+      "overflow": [],
+      "overflowDetails": [],
+      "archiveColumns": 2,
+      "serviceColumns": 2,
+      "featureColumns": 1,
+      "aboutColumns": 3,
+      "contactColumns": 1,
+      "actionRows": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "biographyAlign": "start",
+      "heroCTA": "Hablemos",
+      "featured": 4,
+      "projects": 19,
+      "notices": 4
+    }
+  ],
+  "titleStress": [
+    {
+      "width": 600,
+      "states": [
+        {
+          "text": "Hey, soy David Molina.",
+          "width": 415,
+          "scrollWidth": 415,
+          "height": 94,
+          "scrollHeight": 94
+        },
+        {
+          "text": "Desarrollador Full Stack.",
+          "width": 454,
+          "scrollWidth": 454,
+          "height": 94,
+          "scrollHeight": 94
+        },
+        {
+          "text": "Bienvenido a mi universo Creativo.",
+          "width": 537,
+          "scrollWidth": 537,
+          "height": 94,
+          "scrollHeight": 94
+        }
+      ]
+    },
+    {
+      "width": 601,
+      "states": [
+        {
+          "text": "Hey, soy David Molina.",
+          "width": 415,
+          "scrollWidth": 415,
+          "height": 94,
+          "scrollHeight": 94
+        },
+        {
+          "text": "Desarrollador Full Stack.",
+          "width": 454,
+          "scrollWidth": 454,
+          "height": 94,
+          "scrollHeight": 94
+        },
+        {
+          "text": "Bienvenido a mi universo Creativo.",
+          "width": 538,
+          "scrollWidth": 538,
+          "height": 94,
+          "scrollHeight": 94
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "states": [
+        {
+          "text": "Hey, soy David Molina.",
+          "width": 451,
+          "scrollWidth": 451,
+          "height": 102,
+          "scrollHeight": 102
+        },
+        {
+          "text": "Desarrollador Full Stack.",
+          "width": 494,
+          "scrollWidth": 494,
+          "height": 102,
+          "scrollHeight": 102
+        },
+        {
+          "text": "Bienvenido a mi universo Creativo.",
+          "width": 692,
+          "scrollWidth": 692,
+          "height": 102,
+          "scrollHeight": 102
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "states": [
+        {
+          "text": "Hey, soy David Molina.",
+          "width": 506,
+          "scrollWidth": 506,
+          "height": 115,
+          "scrollHeight": 115
+        },
+        {
+          "text": "Desarrollador Full Stack.",
+          "width": 554,
+          "scrollWidth": 554,
+          "height": 115,
+          "scrollHeight": 115
+        },
+        {
+          "text": "Bienvenido a mi universo Creativo.",
+          "width": 778,
+          "scrollWidth": 778,
+          "height": 115,
+          "scrollHeight": 115
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "states": [
+        {
+          "text": "Hey, soy David Molina.",
+          "width": 527,
+          "scrollWidth": 527,
+          "height": 120,
+          "scrollHeight": 120
+        },
+        {
+          "text": "Desarrollador Full Stack.",
+          "width": 577,
+          "scrollWidth": 577,
+          "height": 120,
+          "scrollHeight": 120
+        },
+        {
+          "text": "Bienvenido a mi universo Creativo.",
+          "width": 810,
+          "scrollWidth": 810,
+          "height": 120,
+          "scrollHeight": 120
+        }
+      ]
+    }
+  ],
+  "uncaughtPageErrors": [],
+  "passed": true
+}

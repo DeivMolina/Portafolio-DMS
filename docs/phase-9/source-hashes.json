@@ -1,0 +1,746 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "FC13A1AF062A7660374F5816D5317CEAC9A205958298B51003D85027DA4E82EE"
+  },
+  {
+    "path": "package-lock.json",
+    "sha256": "10286927903536F3585E623ADDFC4663EC401C733F52DAF6F43EAEC4AEE4D19F"
+  },
+  {
+    "path": "package.json",
+    "sha256": "DFAAC289F3A5C7D805FE2032AF2CF8C60508706690186EA940552D67C1029B78"
+  },
+  {
+    "path": "public/assets/avatar1.jpg",
+    "sha256": "6F04352C426B8DFB06C9590E835DF3F64AED12C2CAC9D22BBE001B2500F259F3"
+  },
+  {
+    "path": "public/assets/avatar2.jpg",
+    "sha256": "C1AA8973AC7641B6CD5843F21ECCB7A59F4CB8667C4DD78F7438A2D6D9353D00"
+  },
+  {
+    "path": "public/assets/avatar3.jpg",
+    "sha256": "983D73C11B09300E81AEC535377D9FD893D14C3FBBF7B84A151FD511E88F659C"
+  },
+  {
+    "path": "public/assets/avatar4.jpg",
+    "sha256": "CC2DF9888F077BDE1F6DB88140DE1A2B00644C26C0DA289588986B2394A59EFF"
+  },
+  {
+    "path": "public/assets/bg-texture.png",
+    "sha256": "54C2FA90463BB17FE94069CF89A22ED13A36040F1CB0220A5F0371834FB08A51"
+  },
+  {
+    "path": "public/assets/cv 2023.pdf",
+    "sha256": "FA970A976C82A991D80A8F6750FC98DF328B3401A5F68D5EA20BA2C7A0E0C965"
+  },
+  {
+    "path": "public/assets/cv.pdf",
+    "sha256": "021B6FA517908ADB8619FBAB8CC712A07CE4B73D8EB8E2CE6BBF87423A723C7B"
+  },
+  {
+    "path": "public/assets/dms-social.png",
+    "sha256": "300A049F448B212209DA4610F21E86261C1423B2F1D1F3253737EFEFBEE2B760"
+  },
+  {
+    "path": "public/assets/dms-social.svg",
+    "sha256": "85BE9CE96D7B246D10173FC9E486BEF5C93746893AEF3605640538627680B79C"
+  },
+  {
+    "path": "public/assets/favicon.ico",
+    "sha256": "B63831CDAB0F45A4F5ADD1959EA459BBB340120F10B485D50A4206AED16BEBE6"
+  },
+  {
+    "path": "public/assets/logo_dms_azul.png.png",
+    "sha256": "1275E5B3028076E1356FE1095E3E5A8A03BE8AD8E798F0856685931BE9459322"
+  },
+  {
+    "path": "public/assets/me-about.jpg",
+    "sha256": "DF7238DACC9F73585FF0D47359DA3B14485F43971BC6C5F850F31DA070FF1267"
+  },
+  {
+    "path": "public/assets/me.webp",
+    "sha256": "D185D3916677B1BCA6B6E0856DDF9764C5AC8C49D90B33AAFA67478EFAD81672"
+  },
+  {
+    "path": "public/assets/optimized/avatar1-150.webp",
+    "sha256": "4E2695B21037D39DBF3EFE93845184FE72CDF389A4FA653908DD9114FC76EA81"
+  },
+  {
+    "path": "public/assets/optimized/avatar1-96.webp",
+    "sha256": "DE0618F4D7C9419424E0F22A7D2548C463BD70C97C68CD752488D2D689675904"
+  },
+  {
+    "path": "public/assets/optimized/avatar2-150.webp",
+    "sha256": "A2F91D4B8EFD2709E4D4B538D406FA3F76E3B70625B322DAB96A4F79E1431A32"
+  },
+  {
+    "path": "public/assets/optimized/avatar2-96.webp",
+    "sha256": "312A49749F2E6799AE95CB58CC6E118265C9B1D05672C6C3413F118EC5472AA4"
+  },
+  {
+    "path": "public/assets/optimized/avatar3-150.webp",
+    "sha256": "0A4EAECC36B39D655E6F2001715FDB34792B25EF41DD058AB56CBE3BB533545F"
+  },
+  {
+    "path": "public/assets/optimized/avatar3-96.webp",
+    "sha256": "BBDDBFF820BA85E383CC3E53EEA420B90373FCFD74286842DFBDF5E40B094A8E"
+  },
+  {
+    "path": "public/assets/optimized/avatar4-150.webp",
+    "sha256": "D44BB4A2F6785EF95478F2F7F168B6C094ACB65A5606D6E025618723A04DC827"
+  },
+  {
+    "path": "public/assets/optimized/avatar4-96.webp",
+    "sha256": "525A61F86A71BA47C0C9BED049DBFC5F1528B8F7C1D09CF1160D0D35992A8505"
+  },
+  {
+    "path": "public/assets/optimized/me-192.webp",
+    "sha256": "C7DE832A52AF4956345B29C843732E58295EEC741E7B01E0859F00C6715E604C"
+  },
+  {
+    "path": "public/assets/optimized/me-384.webp",
+    "sha256": "09620056B3E98C5463C062ADD1CB997207360DB2661C64B9B5DA3EF62D768CE8"
+  },
+  {
+    "path": "public/assets/optimized/me-96.webp",
+    "sha256": "7F5C14821C4590DB28ED8DE260382864ABC708710364E523D20B2CAE500EFA03"
+  },
+  {
+    "path": "public/assets/optimized/me-about-480.webp",
+    "sha256": "FC4DAED27C98365028439A04D55607F583B41826ACB4703CC130D65E9471C74F"
+  },
+  {
+    "path": "public/assets/optimized/me-about-960.webp",
+    "sha256": "A087C4AFF2D5040F9A8C8522247498D6825F878E3BB568F0EB9A5F8AAEAC8EE7"
+  },
+  {
+    "path": "public/assets/optimized/portafolio14-320.webp",
+    "sha256": "758EC73CF734181F474A067224AEAE93C46090E4B17A93EFD174460480D695AC"
+  },
+  {
+    "path": "public/assets/optimized/portafolio14-640.webp",
+    "sha256": "06EB39090AEB171FD007F781256D87836F23CC36B01F01B2ACBA735E065E3663"
+  },
+  {
+    "path": "public/assets/optimized/portafolio14-875.webp",
+    "sha256": "E7E0F2D090547678F3E31FE9D0A3314C163873A0ED5134BC71A3CCA4B8A80A41"
+  },
+  {
+    "path": "public/assets/optimized/portafolio14-poster.jpg",
+    "sha256": "ACC29AFFA11B0A55972971E67F5C3A20077987B0DDE14B0ED93679EC617CE256"
+  },
+  {
+    "path": "public/assets/optimized/portfolio1-320.webp",
+    "sha256": "58ABD1AAE8CD1BB9D736B986E3F80B3A4EA742E98CECDD3015F8398A78AB25E6"
+  },
+  {
+    "path": "public/assets/optimized/portfolio1-480.webp",
+    "sha256": "6A88A4D3648A3E6C4BD9CFAEFC68E7518095D5C083109CA89AA5691157ACABC8"
+  },
+  {
+    "path": "public/assets/optimized/portfolio10-320.webp",
+    "sha256": "2846C3DE4342C262C399A7A30B375AA2703F0F298FD0887002146087A21B5FD8"
+  },
+  {
+    "path": "public/assets/optimized/portfolio10-480.webp",
+    "sha256": "7F6B12C1440D7D089FDB1A2AEC43073F75CFD70A4BF4C30D0E76EDC362129AFD"
+  },
+  {
+    "path": "public/assets/optimized/portfolio11-1280.webp",
+    "sha256": "63249D0DD05664129B27416841B4A6819B5DD67B6E7E5B86D005F33844BAABA3"
+  },
+  {
+    "path": "public/assets/optimized/portfolio11-320.webp",
+    "sha256": "1D1958C923C1C84F6F22CBB2FBDE6978FB662A38574B560107933E5A1C84E092"
+  },
+  {
+    "path": "public/assets/optimized/portfolio11-640.webp",
+    "sha256": "D012028BDDF3CDD21118491B2F333232445FE824A096C80216BBC3799A6296FA"
+  },
+  {
+    "path": "public/assets/optimized/portfolio12-1240.webp",
+    "sha256": "810CB19BC9C65832240702420E63F5DC9A096F326113536E618F831E9CA77548"
+  },
+  {
+    "path": "public/assets/optimized/portfolio12-320.webp",
+    "sha256": "F13FB9334F7347790D9C351E9DFFA50E71E99A553CE1F875579E995D412248CB"
+  },
+  {
+    "path": "public/assets/optimized/portfolio12-640.webp",
+    "sha256": "129061A5AE8AA3A11D83D3122065DF4E90DCA4EAE2D4AE241D11C1855A84AA92"
+  },
+  {
+    "path": "public/assets/optimized/portfolio13-1280.webp",
+    "sha256": "BCCFA5020C1B7EF61A729029A7026C79E392C35E2F7852CFB75A89DAC016038F"
+  },
+  {
+    "path": "public/assets/optimized/portfolio13-320.webp",
+    "sha256": "7381A985200E34F2CE1D6C4961F6BD37FA9A8A624FF5E2FDDE27DD7E61DAC344"
+  },
+  {
+    "path": "public/assets/optimized/portfolio13-640.webp",
+    "sha256": "44EB89140D04082AEC26CF3723915D190B66114418966BABAA6113DB3C4D4F2F"
+  },
+  {
+    "path": "public/assets/optimized/portfolio14-1280.webp",
+    "sha256": "FABCEC98AA4F73FA061B767EE2BE9E69062AF155381DB783D0650C0F1CEC4CDC"
+  },
+  {
+    "path": "public/assets/optimized/portfolio14-320.webp",
+    "sha256": "9A4BED8B8A10C8D5DE1BEE830EE343E559FB937B12DB2F69F89284F61E4D7CF7"
+  },
+  {
+    "path": "public/assets/optimized/portfolio14-640.webp",
+    "sha256": "78A38EE13C2171BCE1FD8F0F55D6F33571FE06347FFB5F00032D4506B50606EF"
+  },
+  {
+    "path": "public/assets/optimized/portfolio15-1280.webp",
+    "sha256": "C3669D931AC3FB2BB1D75EB162D896071EFA2D4857123477B14FC9DBD25D72D4"
+  },
+  {
+    "path": "public/assets/optimized/portfolio15-320.webp",
+    "sha256": "8DD32B4E565A64C5176BC74B7D6F9EA4BA95C0EA35B74492565097B856463F07"
+  },
+  {
+    "path": "public/assets/optimized/portfolio15-640.webp",
+    "sha256": "ECC29CB1549B09D112749A4951659300ED03D69FB493396C109A67B65770B244"
+  },
+  {
+    "path": "public/assets/optimized/portfolio16-1280.webp",
+    "sha256": "FA99012E09B9CD17A473A4D7571BA162AEB9D4D6FB6CA24A7F93340955D4E31D"
+  },
+  {
+    "path": "public/assets/optimized/portfolio16-320.webp",
+    "sha256": "FBD783F8987DF7C15840527D89437C11B4CF0A08E14E6429DAE23DFFC54F8A9C"
+  },
+  {
+    "path": "public/assets/optimized/portfolio16-640.webp",
+    "sha256": "A77D034C110EEB1E21A88700CE0CE365154273B850EC2C8E0FFC2721F8E9E635"
+  },
+  {
+    "path": "public/assets/optimized/portfolio17-1280.webp",
+    "sha256": "249C15A366B278C5D5AF39061E8A7C123A374D794B3BBC5BAE9AC3C5883A97DB"
+  },
+  {
+    "path": "public/assets/optimized/portfolio17-320.webp",
+    "sha256": "7FFE4FB8CC433F1D03C7EEBF4ED292EACA6C01CD5DEABBFC84B5D6940DCA5571"
+  },
+  {
+    "path": "public/assets/optimized/portfolio17-640.webp",
+    "sha256": "19C70780FA086D793BE01AE2BA6EAD729A4154A8DEBCC3C361EE90D53698FF3C"
+  },
+  {
+    "path": "public/assets/optimized/portfolio18-1280.webp",
+    "sha256": "5BA852B0E070909112927D089E16A653B7A2D4937AEAE39DA0C26F6C71B54EF4"
+  },
+  {
+    "path": "public/assets/optimized/portfolio18-320.webp",
+    "sha256": "4B9528D259F17F7E068D73367D77E3D19F7F1887A9C3668D5A3361830021855F"
+  },
+  {
+    "path": "public/assets/optimized/portfolio18-640.webp",
+    "sha256": "23ADEA84DF413A0A49B0BBDF5A2AB0E122522EAAA4261A802E4AF44983F35C64"
+  },
+  {
+    "path": "public/assets/optimized/portfolio19-1280.webp",
+    "sha256": "065366C3A9019D65E60FD7D39B81D66C28CF6FFBB2AFF1E43D2479B1AAC767D0"
+  },
+  {
+    "path": "public/assets/optimized/portfolio19-320.webp",
+    "sha256": "2453387BEF65B2EF778A98189755EB92FE67A2B4D35CB19544C3959A0ACC1E8A"
+  },
+  {
+    "path": "public/assets/optimized/portfolio19-640.webp",
+    "sha256": "03AFC8312B40A126E5E82B757CFE0ABF3EB4CD7CBF3D88639FA6562E9F1DA45A"
+  },
+  {
+    "path": "public/assets/optimized/portfolio2-320.webp",
+    "sha256": "5F206B404E47B978411B11077B4BE7A2799B59BE35C8D663FC0D48E887DAA527"
+  },
+  {
+    "path": "public/assets/optimized/portfolio2-480.webp",
+    "sha256": "80FFA559FD0B1F54FD8713C81FB8A3D98F824DA1DEA092CE6A64FB97C75EAF27"
+  },
+  {
+    "path": "public/assets/optimized/portfolio20-1280.webp",
+    "sha256": "1E19E39D5BEFC400756F7B7F3270A182E4BFC6E5BF02F05FF1F81DFC33B25947"
+  },
+  {
+    "path": "public/assets/optimized/portfolio20-320.webp",
+    "sha256": "32D35F994C45104E8037073D7A9C5C1F26FF0ABE66FF993620776B9FC0BF088C"
+  },
+  {
+    "path": "public/assets/optimized/portfolio20-640.webp",
+    "sha256": "BD79AF220BE7C7EBA9AFD1DC3B1C1C3B8434E605F7093FD6550A0D3F55AB4F0C"
+  },
+  {
+    "path": "public/assets/optimized/portfolio21-1280.webp",
+    "sha256": "174224F4F37490E4FEE36E7D3305A68248873F5FD20380438AD69F1025EBA187"
+  },
+  {
+    "path": "public/assets/optimized/portfolio21-320.webp",
+    "sha256": "AAA7BEEA12CD1C60B05CC143E1406330AC47CBF947A644E9CC567F03ECC92488"
+  },
+  {
+    "path": "public/assets/optimized/portfolio21-640.webp",
+    "sha256": "AACC3798EE3EE83AC963EDDEF8503421459F8CBA9443682C89C9F6F80741A0D6"
+  },
+  {
+    "path": "public/assets/optimized/portfolio22-1280.webp",
+    "sha256": "FEE3F4B33CBA5305FC6405C1B083174F68093668A8DA547D74B78D40BCEFBB5E"
+  },
+  {
+    "path": "public/assets/optimized/portfolio22-320.webp",
+    "sha256": "6F83822D36711C2EC385F729656B479F617A82BFE152D470EDDBBC37CA2D5B3C"
+  },
+  {
+    "path": "public/assets/optimized/portfolio22-640.webp",
+    "sha256": "3C1C5C5AD877C0D51489B26BF725B6ED8DF2595CBEFFF0FEFA307D2DFFE223BA"
+  },
+  {
+    "path": "public/assets/optimized/portfolio3-320.webp",
+    "sha256": "95801AC1DBC258C7DC1F440E5D2A59D2E257A59025BCE6EE89171EE84F0C424F"
+  },
+  {
+    "path": "public/assets/optimized/portfolio3-480.webp",
+    "sha256": "5E0558EF168262175175F1EFD9527A1276606BC79FF323F706729E4B9D65F7C0"
+  },
+  {
+    "path": "public/assets/optimized/portfolio4-320.webp",
+    "sha256": "E40CA33B577BED8562CBEF8319F44B89549AE0C718A82E51C04481221FD604ED"
+  },
+  {
+    "path": "public/assets/optimized/portfolio4-480.webp",
+    "sha256": "056A202DCD1B80376C87FF532DCB4A20E9918F7806793AE9FF1DAD81C5B1A7F4"
+  },
+  {
+    "path": "public/assets/optimized/portfolio5-320.webp",
+    "sha256": "4D1C62211366755380935F8DA0ACAB45C96424772049FA0F6ECC2AD757D7F445"
+  },
+  {
+    "path": "public/assets/optimized/portfolio5-480.webp",
+    "sha256": "38D62E3BCBB9530AE98E53BFD114478794D1C306B64EA25AD5C3E4FAEBB6CEF6"
+  },
+  {
+    "path": "public/assets/optimized/portfolio6-320.webp",
+    "sha256": "D334CFC616615F7864436ED378E72165D2FC334FA003B388950F2F8CB5B189AF"
+  },
+  {
+    "path": "public/assets/optimized/portfolio6-480.webp",
+    "sha256": "553EE5C9DE3428CDF87B0B3FB86EC5807AC98CF369667E021A4D698C836491D2"
+  },
+  {
+    "path": "public/assets/optimized/portfolio7-320.webp",
+    "sha256": "4E0FBBE25F6B20ED123005C2F94058090650A6994CB310A2CB3F80440173C0D7"
+  },
+  {
+    "path": "public/assets/optimized/portfolio7-480.webp",
+    "sha256": "36FB7E3E37908DE29B448647F16CECAEBF46E4B2B3E15262BE9EEF732A401AE3"
+  },
+  {
+    "path": "public/assets/optimized/portfolio8-320.webp",
+    "sha256": "C52C48A78929369EB2630BF358F6F1302E3769780871209B49C8C23BEFAE927E"
+  },
+  {
+    "path": "public/assets/optimized/portfolio8-480.webp",
+    "sha256": "758A6C3609391237BB647B6994320A4F4B299163BC6AF5BE3D1DC05944EAD83B"
+  },
+  {
+    "path": "public/assets/optimized/portfolio9-320.webp",
+    "sha256": "1FEBCC3E4C71772A0907D96FAA01689E52EBA4954BE32490FE92EB8BCCCC0DE0"
+  },
+  {
+    "path": "public/assets/optimized/portfolio9-480.webp",
+    "sha256": "9A7D3862E31322D49D86D1AF70D4CC67565DAF32D9C69C66BBAD30C404F7C1EA"
+  },
+  {
+    "path": "public/assets/portafolio14.gif",
+    "sha256": "1D14DEB5A648E2A8DB61C2AE968DE7B6283CA1D3267FDCBC16CB428BCA70236C"
+  },
+  {
+    "path": "public/assets/portfolio1.jpg",
+    "sha256": "6969DDC8ADFB12C624F11D95A3016C24985E04115F398509F89BAFBA9910F129"
+  },
+  {
+    "path": "public/assets/portfolio10.jpg",
+    "sha256": "A9CE70704390B16482AA8D702F5A4323CC830174D78F9DF7DAB7978B57D194F0"
+  },
+  {
+    "path": "public/assets/portfolio11.png",
+    "sha256": "C30DD0941A15F8829A090F7697F701997305DDC597494B2EEEFFC8B9A30394E9"
+  },
+  {
+    "path": "public/assets/portfolio12.png",
+    "sha256": "506CCADD69F4D4E61DAEAE572CED140994A95EA8B0F7D57B3A2DECE49A352019"
+  },
+  {
+    "path": "public/assets/portfolio13.png",
+    "sha256": "85C315E846E2BE2806C4C27E8724B5C84EFF95E2534739E4EA08DE65E92C9B54"
+  },
+  {
+    "path": "public/assets/portfolio14.png",
+    "sha256": "0C344C5E5A734FD6596CC344470D6EFCCD920891C5686A8974CDC45CE30E8815"
+  },
+  {
+    "path": "public/assets/portfolio15.png",
+    "sha256": "5BF2885814C51443EB1D9D6B1497CDDD90D89BE268C068A8853B89A430891B27"
+  },
+  {
+    "path": "public/assets/portfolio16.png",
+    "sha256": "CD787C2DE57CF7127AC352B718B419C3A1EEBE36FDE75A2F21342C291D2B4D21"
+  },
+  {
+    "path": "public/assets/portfolio17.jpg",
+    "sha256": "3968255377ABE25C31F4615B02D9E24FCB116EEC6700A109AC242AC330D54428"
+  },
+  {
+    "path": "public/assets/portfolio18.png",
+    "sha256": "D112785203DD75AC81D8AFF2858DEA8983BE8BAB8FB8F201ADC4A76760E1B2D3"
+  },
+  {
+    "path": "public/assets/portfolio19.png",
+    "sha256": "792E5C94714EAA89A3210BBF8B40DC80FB726470A46DFF640F72370E7EEC8E03"
+  },
+  {
+    "path": "public/assets/portfolio2.jpg",
+    "sha256": "0C22DDA5FCB2BFA8C78679858AC7668C01B2B8BB94CC19E256D0E4D4DF310BB9"
+  },
+  {
+    "path": "public/assets/portfolio20.png",
+    "sha256": "F093EA957ACF660894DC7D438B0E6FDA8D6BC935518EEA0B4BD58293FDCC2DCD"
+  },
+  {
+    "path": "public/assets/portfolio21.png",
+    "sha256": "5AC621B707101CBDFAC88B4A16D45E89094E725A7CFFB289BF88E91A82C28A17"
+  },
+  {
+    "path": "public/assets/portfolio22.png",
+    "sha256": "C679F123A883690848AA019C3F40F89160C4713733425D8D592B44BBEB6E8A20"
+  },
+  {
+    "path": "public/assets/portfolio3.jpg",
+    "sha256": "ADDA120318CE0C5FCE429E5D5FAFAA14616717270E851AF399EAB9F9DF51FB9A"
+  },
+  {
+    "path": "public/assets/portfolio4.jpg",
+    "sha256": "8BC569FCE0359DD5D033D3ACA1AAC7AD619B15679E104F8B62E5670CC5AA360F"
+  },
+  {
+    "path": "public/assets/portfolio5.png",
+    "sha256": "94889323C24FF9CE277AE71C5264102E743D90C59C1C5B3A0249D3221C5597EC"
+  },
+  {
+    "path": "public/assets/portfolio6.jpg",
+    "sha256": "30BCC477D596970DAF1B19658B66107DCCF1C1965784702A16961F18C140F8CA"
+  },
+  {
+    "path": "public/assets/portfolio7.jpg",
+    "sha256": "B834C5A061521EC1428CE8F28114CB994A706DAB935AE4121F2108478C2018CA"
+  },
+  {
+    "path": "public/assets/portfolio8.jpg",
+    "sha256": "BB3055BC7A4E6D35504C8B17BBD2A953B1936D3D3F79C46DA19D07512C542E3A"
+  },
+  {
+    "path": "public/assets/portfolio9.png",
+    "sha256": "5222B5705BEAF01BDFB4E64276A307E4578141C28CC7443F7AA38565A28D5A91"
+  },
+  {
+    "path": "public/index.html",
+    "sha256": "B239927451C71E94CB1CD3ECE50D25A598DF92E05C9994C01C70619F13359DEA"
+  },
+  {
+    "path": "public/robots.txt",
+    "sha256": "81AE34DDF433FFB2B61848DE53264FACAAB9C9D3641B0CA785E86257D7530F8B"
+  },
+  {
+    "path": "public/sitemap.xml",
+    "sha256": "DD86CE7C3F4F8125FC9625C4369B8EBED5113CE16C2ADDC8A3888C69F67E27E3"
+  },
+  {
+    "path": "src/App.jsx",
+    "sha256": "F61409B7931109A290E52E464B3E12F545B00CE1B803D35147A3DF74C317B283"
+  },
+  {
+    "path": "src/App.navigation.test.jsx",
+    "sha256": "2176102597D3A3173262A01C183C32D555B31FC8775EAFDED20A5CCD0E5EC810"
+  },
+  {
+    "path": "src/assets/avatar1.jpg",
+    "sha256": "6F04352C426B8DFB06C9590E835DF3F64AED12C2CAC9D22BBE001B2500F259F3"
+  },
+  {
+    "path": "src/assets/avatar2.jpg",
+    "sha256": "C1AA8973AC7641B6CD5843F21ECCB7A59F4CB8667C4DD78F7438A2D6D9353D00"
+  },
+  {
+    "path": "src/assets/avatar3.jpg",
+    "sha256": "983D73C11B09300E81AEC535377D9FD893D14C3FBBF7B84A151FD511E88F659C"
+  },
+  {
+    "path": "src/assets/avatar4.jpg",
+    "sha256": "CC2DF9888F077BDE1F6DB88140DE1A2B00644C26C0DA289588986B2394A59EFF"
+  },
+  {
+    "path": "src/assets/bg-texture.png",
+    "sha256": "54C2FA90463BB17FE94069CF89A22ED13A36040F1CB0220A5F0371834FB08A51"
+  },
+  {
+    "path": "src/assets/cv 2023.pdf",
+    "sha256": "FA970A976C82A991D80A8F6750FC98DF328B3401A5F68D5EA20BA2C7A0E0C965"
+  },
+  {
+    "path": "src/assets/cv.pdf",
+    "sha256": "021B6FA517908ADB8619FBAB8CC712A07CE4B73D8EB8E2CE6BBF87423A723C7B"
+  },
+  {
+    "path": "src/assets/favicon.ico",
+    "sha256": "B63831CDAB0F45A4F5ADD1959EA459BBB340120F10B485D50A4206AED16BEBE6"
+  },
+  {
+    "path": "src/assets/me-about.jpg",
+    "sha256": "DF7238DACC9F73585FF0D47359DA3B14485F43971BC6C5F850F31DA070FF1267"
+  },
+  {
+    "path": "src/assets/me.webp",
+    "sha256": "D185D3916677B1BCA6B6E0856DDF9764C5AC8C49D90B33AAFA67478EFAD81672"
+  },
+  {
+    "path": "src/assets/portafolio14.gif",
+    "sha256": "1D14DEB5A648E2A8DB61C2AE968DE7B6283CA1D3267FDCBC16CB428BCA70236C"
+  },
+  {
+    "path": "src/assets/portfolio1.jpg",
+    "sha256": "6969DDC8ADFB12C624F11D95A3016C24985E04115F398509F89BAFBA9910F129"
+  },
+  {
+    "path": "src/assets/portfolio10.jpg",
+    "sha256": "A9CE70704390B16482AA8D702F5A4323CC830174D78F9DF7DAB7978B57D194F0"
+  },
+  {
+    "path": "src/assets/portfolio11.png",
+    "sha256": "C30DD0941A15F8829A090F7697F701997305DDC597494B2EEEFFC8B9A30394E9"
+  },
+  {
+    "path": "src/assets/portfolio12.png",
+    "sha256": "506CCADD69F4D4E61DAEAE572CED140994A95EA8B0F7D57B3A2DECE49A352019"
+  },
+  {
+    "path": "src/assets/portfolio13.png",
+    "sha256": "85C315E846E2BE2806C4C27E8724B5C84EFF95E2534739E4EA08DE65E92C9B54"
+  },
+  {
+    "path": "src/assets/portfolio18.png",
+    "sha256": "D112785203DD75AC81D8AFF2858DEA8983BE8BAB8FB8F201ADC4A76760E1B2D3"
+  },
+  {
+    "path": "src/assets/portfolio19.png",
+    "sha256": "792E5C94714EAA89A3210BBF8B40DC80FB726470A46DFF640F72370E7EEC8E03"
+  },
+  {
+    "path": "src/assets/portfolio2.jpg",
+    "sha256": "0C22DDA5FCB2BFA8C78679858AC7668C01B2B8BB94CC19E256D0E4D4DF310BB9"
+  },
+  {
+    "path": "src/assets/portfolio20.png",
+    "sha256": "F093EA957ACF660894DC7D438B0E6FDA8D6BC935518EEA0B4BD58293FDCC2DCD"
+  },
+  {
+    "path": "src/assets/portfolio21.png",
+    "sha256": "5AC621B707101CBDFAC88B4A16D45E89094E725A7CFFB289BF88E91A82C28A17"
+  },
+  {
+    "path": "src/assets/portfolio22.png",
+    "sha256": "C679F123A883690848AA019C3F40F89160C4713733425D8D592B44BBEB6E8A20"
+  },
+  {
+    "path": "src/assets/portfolio3.jpg",
+    "sha256": "ADDA120318CE0C5FCE429E5D5FAFAA14616717270E851AF399EAB9F9DF51FB9A"
+  },
+  {
+    "path": "src/assets/portfolio4.jpg",
+    "sha256": "8BC569FCE0359DD5D033D3ACA1AAC7AD619B15679E104F8B62E5670CC5AA360F"
+  },
+  {
+    "path": "src/assets/portfolio5.png",
+    "sha256": "94889323C24FF9CE277AE71C5264102E743D90C59C1C5B3A0249D3221C5597EC"
+  },
+  {
+    "path": "src/assets/portfolio6.jpg",
+    "sha256": "30BCC477D596970DAF1B19658B66107DCCF1C1965784702A16961F18C140F8CA"
+  },
+  {
+    "path": "src/assets/portfolio7.jpg",
+    "sha256": "B834C5A061521EC1428CE8F28114CB994A706DAB935AE4121F2108478C2018CA"
+  },
+  {
+    "path": "src/assets/portfolio8.jpg",
+    "sha256": "BB3055BC7A4E6D35504C8B17BBD2A953B1936D3D3F79C46DA19D07512C542E3A"
+  },
+  {
+    "path": "src/assets/portfolio9.png",
+    "sha256": "5222B5705BEAF01BDFB4E64276A307E4578141C28CC7443F7AA38565A28D5A91"
+  },
+  {
+    "path": "src/components/Typewriter.jsx",
+    "sha256": "E00EB9320041B2874D2FDBC0CC01B817F0F4F122E6A01EB6B999AC8DF5871391"
+  },
+  {
+    "path": "src/components/Typewriter.test.jsx",
+    "sha256": "2B99C1E85F00D75B8A77AFDF085E53976DBD054702E8D90D108F69C8F3202BEC"
+  },
+  {
+    "path": "src/components/about/About.jsx",
+    "sha256": "687E7FF46C2EB497B5A00FAF056D48B171C78B45035C93D176BD8C22A79C6399"
+  },
+  {
+    "path": "src/components/about/about.css",
+    "sha256": "A58F5E934837D9C0F6AAFBC7C2C5F3F1A41ACB8CF49DBC8C768017B1F006D354"
+  },
+  {
+    "path": "src/components/contact/Contact.jsx",
+    "sha256": "26511BDCAAFB6079946066563A612978BBA064F6228BBEE7F3943590C1089F1D"
+  },
+  {
+    "path": "src/components/contact/Contact.test.jsx",
+    "sha256": "C91A3010E33AB228E047467E25C6C020ECB8238ACEA4611C44A2CD5ED6A5ECA1"
+  },
+  {
+    "path": "src/components/contact/contact.css",
+    "sha256": "A4EE322E0D3CEAEB17B23BE724A6233A326FA32FB0799E48F289B543F3B3BC75"
+  },
+  {
+    "path": "src/components/experience/Experience.jsx",
+    "sha256": "90CBB3ED7B7D263549CF54DFC34FC29F2A4DFCA4B49677DE7983ADABC015D723"
+  },
+  {
+    "path": "src/components/experience/experience.css",
+    "sha256": "C8F81DD9786D6BCB1E4C17BBB0914A0F254B8C2631A8D5ED0C0FA5418FF61511"
+  },
+  {
+    "path": "src/components/footer/Footer.jsx",
+    "sha256": "A08108C964D235C722B95E1A6F026920218514F8D3157543A24FBC1601088DC2"
+  },
+  {
+    "path": "src/components/footer/footer.css",
+    "sha256": "ABA41AA831FD2A77828ABC0C4F3948D5D661AC7947BC7AA3EE5CB1890833C7CB"
+  },
+  {
+    "path": "src/components/header/CTA.jsx",
+    "sha256": "8955554928966C7D01A21C3763DA48F4C5C087169A3D63A705B84C31544F6517"
+  },
+  {
+    "path": "src/components/header/Header.jsx",
+    "sha256": "E242230A038699182C096D8669E05E0D9DBB7342302C34B880DC1B12806377CA"
+  },
+  {
+    "path": "src/components/header/HeaderSocials.jsx",
+    "sha256": "806B63E5C0BBE33F06DA7B9F780C72A22CC5B59C553B575C1E100D38E40AB171"
+  },
+  {
+    "path": "src/components/header/header.css",
+    "sha256": "11C96F30D4F87BEE26837A6907D4A05599E07303FD9D060637585AEF03B11439"
+  },
+  {
+    "path": "src/components/nav/Nav.jsx",
+    "sha256": "0F5CB3B97D0BF5D6D58C1D874A77EF866313A54CB248FDA0EE065C1DEE765366"
+  },
+  {
+    "path": "src/components/nav/Nav.test.jsx",
+    "sha256": "CF79033486D3F8E3F004386337D56BDE48607D553C73E5506A093452F7334324"
+  },
+  {
+    "path": "src/components/nav/nav.css",
+    "sha256": "3EAAEA03624E589937147C7BF8071165C9A88E31AB28A96B7206C821F31322B0"
+  },
+  {
+    "path": "src/components/portfolio/Portfolio.jsx",
+    "sha256": "A014ADFE11B57983EB100F53CCDC778CC7D30B3B318DED488BD231FFFB902837"
+  },
+  {
+    "path": "src/components/portfolio/portfolio.css",
+    "sha256": "8CB93D8CAB943DBB2A2E881D4FB413FED5FAF7AA15BAC041CE17880BC814B400"
+  },
+  {
+    "path": "src/components/services/Services.jsx",
+    "sha256": "8D5CE7020483525D81A64D1F59A75A8C4B2141766484ACD3C2D4B378B6DF7511"
+  },
+  {
+    "path": "src/components/services/services.css",
+    "sha256": "228829E17158D911D6A046233607F2C3F289448E67D17039CBDE15EAEF3F923E"
+  },
+  {
+    "path": "src/components/testimonials/Testimonials.jsx",
+    "sha256": "38B02AE6FB66023CA02B69399B6DDDCF9EB1B3E72E666E2B2F63B20D7BBB7D42"
+  },
+  {
+    "path": "src/components/testimonials/testimonials.css",
+    "sha256": "0BA6E08E3836E1DADEE0CD92CE4337612BD3FCA09931359BDFC584BCCD91E8B6"
+  },
+  {
+    "path": "src/components/ui/ActionLink.jsx",
+    "sha256": "E663882B0A7B7C78BA687CEB0B8CFC99E202E5641F01DBBD380C326C8E583BD5"
+  },
+  {
+    "path": "src/components/ui/ActionLink.test.jsx",
+    "sha256": "F033CC4F3CE1FDAEFE5FADF043E977870924E4B60F55ABD3D726C602C9C2B48E"
+  },
+  {
+    "path": "src/components/ui/FormField.jsx",
+    "sha256": "0A585F86DDC7A60FE72450266FE85629FCFCA57EAD5BAD4B3A512DB8936AB97D"
+  },
+  {
+    "path": "src/components/ui/OptimizedImage.jsx",
+    "sha256": "4CB5C5EFC0B584A05356B97DA9CC1E0760F12B8BA3E2F3FAD0E30DD220C1AB47"
+  },
+  {
+    "path": "src/components/ui/ProjectDemoLink.jsx",
+    "sha256": "BCB09B2159A835E5E991D515408DF8512EFAEE84CE4782B5B62B6DB335921FA6"
+  },
+  {
+    "path": "src/components/ui/ProjectPreview.jsx",
+    "sha256": "BF947D68CDB28286A017A9CF9EBE8EBBC9D1030355A4FB37BCC256F98F21DD78"
+  },
+  {
+    "path": "src/components/ui/ProjectPreview.test.jsx",
+    "sha256": "04219A54FEA5CD47F0E14D177B8AEE8638CE7D7D1DC64D7D61BB5FA1608E7E6A"
+  },
+  {
+    "path": "src/data/data.jsx",
+    "sha256": "54F7EDCBE3F2549CA7733CB64B7E68BEBA85148021D2FEF9AA4D497E7082F7AD"
+  },
+  {
+    "path": "src/data/image-manifest.json",
+    "sha256": "FC6084AAFF6D0DF3EE26D67A7215C188ED64F413B3EC673B3CD3CC296C6FF770"
+  },
+  {
+    "path": "src/hooks/useMediaQuery.js",
+    "sha256": "A9074D1D5AC9C71554B57988F6000D0CF4A04B1D8BEFE22E717688A38912B307"
+  },
+  {
+    "path": "src/index.css",
+    "sha256": "63E679BCAF28A1AAB0D5167C759723D356D3E566A1A6AE1349F6C8C0DF2B1843"
+  },
+  {
+    "path": "src/index.js",
+    "sha256": "D3B8B94A31BC688DFCD836255D3C78E6C32F9F7B2AFB8328E3C7EA72B2F17716"
+  },
+  {
+    "path": "src/styles/primitives.css",
+    "sha256": "A5A1C07C2605AF6438AE1B79FEA23AEA3E4D526121BD8D1B50FAA1653F70D73A"
+  },
+  {
+    "path": "src/styles/tokens.css",
+    "sha256": "F910D2CE5DE24DB27B13BC85D05B6F44A72C38D667C5071BF8158C6C84BAF704"
+  },
+  {
+    "path": "src/utils/contactLinks.js",
+    "sha256": "D81383352AFA288E4F8C6E7348321A8164C25A5E302D597E53C952B58399287C"
+  },
+  {
+    "path": "src/utils/contactLinks.test.js",
+    "sha256": "9D0856A8D136BEB9C611A481AEE4D42C6586AFFC07A17EBBEAE1976ADF60B89F"
+  }
+]

@@ -1,0 +1,1163 @@
+{
+  "phase": "after",
+  "engine": "Installed Chrome/CDP",
+  "conditions": "Fresh document/cache disabled, no third-party network, simulated CAPTCHA, reduced motion. Local HTTP server without gzip; fixed 8-second initial window. Not a production CDN, Lighthouse score, field INP, or full-session CLS.",
+  "trials": [
+    {
+      "name": "mobile-1",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "mbps": 1.6,
+      "latency": 150,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 3616,
+        "size": 41891,
+        "element": "IMG"
+      },
+      "cls": 0,
+      "longTasks": [
+        447
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 700
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 700
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/assets/optimized/me-96.webp",
+          "complete": true,
+          "naturalWidth": 72,
+          "loading": "eager"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/optimized/portfolio14-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "eager"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/optimized/portfolio16-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "lazy"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/optimized/portfolio15-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/assets/optimized/portafolio14-poster.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 8,
+      "localBodyBytes": 561900,
+      "imageBodyBytes": 102794,
+      "completedRequests": 8,
+      "requestedImages": 4,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.b05a7718.js",
+          "type": "Script",
+          "bytes": 410848,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.a606e142.css",
+          "type": "Stylesheet",
+          "bytes": 32839,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/me-96.webp",
+          "type": "Image",
+          "bytes": 4585,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio14-640.webp",
+          "type": "Image",
+          "bytes": 29621,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio16-640.webp",
+          "type": "Image",
+          "bytes": 40657,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio15-640.webp",
+          "type": "Image",
+          "bytes": 27931,
+          "done": true
+        },
+        {
+          "url": "/assets/favicon.ico",
+          "type": "Other",
+          "bytes": 15419,
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "mobile-2",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "mbps": 1.6,
+      "latency": 150,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 3376,
+        "size": 41891,
+        "element": "IMG"
+      },
+      "cls": 0,
+      "longTasks": [
+        161
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 712
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 712
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/assets/optimized/me-96.webp",
+          "complete": true,
+          "naturalWidth": 72,
+          "loading": "eager"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/optimized/portfolio14-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "eager"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/optimized/portfolio16-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "lazy"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/optimized/portfolio15-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/assets/optimized/portafolio14-poster.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 7,
+      "localBodyBytes": 546481,
+      "imageBodyBytes": 102794,
+      "completedRequests": 7,
+      "requestedImages": 4,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.b05a7718.js",
+          "type": "Script",
+          "bytes": 410848,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.a606e142.css",
+          "type": "Stylesheet",
+          "bytes": 32839,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/me-96.webp",
+          "type": "Image",
+          "bytes": 4585,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio14-640.webp",
+          "type": "Image",
+          "bytes": 29621,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio16-640.webp",
+          "type": "Image",
+          "bytes": 40657,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio15-640.webp",
+          "type": "Image",
+          "bytes": 27931,
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "mobile-3",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "mbps": 1.6,
+      "latency": 150,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 3548,
+        "size": 41891,
+        "element": "IMG"
+      },
+      "cls": 0,
+      "longTasks": [
+        365
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 728
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 728
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/assets/optimized/me-96.webp",
+          "complete": true,
+          "naturalWidth": 72,
+          "loading": "eager"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/optimized/portfolio14-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "eager"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/optimized/portfolio16-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "lazy"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/optimized/portfolio15-640.webp",
+          "complete": true,
+          "naturalWidth": 326,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/assets/optimized/portafolio14-poster.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 7,
+      "localBodyBytes": 546481,
+      "imageBodyBytes": 102794,
+      "completedRequests": 7,
+      "requestedImages": 4,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.b05a7718.js",
+          "type": "Script",
+          "bytes": 410848,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.a606e142.css",
+          "type": "Stylesheet",
+          "bytes": 32839,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/me-96.webp",
+          "type": "Image",
+          "bytes": 4585,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio14-640.webp",
+          "type": "Image",
+          "bytes": 29621,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio16-640.webp",
+          "type": "Image",
+          "bytes": 40657,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio15-640.webp",
+          "type": "Image",
+          "bytes": 27931,
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "cpu": 1,
+      "mbps": 10,
+      "latency": 40,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 760,
+        "size": 144760,
+        "element": "IMG"
+      },
+      "cls": 0,
+      "longTasks": [
+        69
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 224
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 224
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/assets/optimized/me-96.webp",
+          "complete": true,
+          "naturalWidth": 96,
+          "loading": "eager"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/optimized/portfolio14-640.webp",
+          "complete": true,
+          "naturalWidth": 528,
+          "loading": "eager"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/optimized/portfolio16-640.webp",
+          "complete": true,
+          "naturalWidth": 528,
+          "loading": "lazy"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/optimized/portfolio15-640.webp",
+          "complete": true,
+          "naturalWidth": 528,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/optimized/portfolio17-640.webp",
+          "complete": true,
+          "naturalWidth": 528,
+          "loading": "lazy"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/assets/optimized/portafolio14-poster.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "lazy"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 8,
+      "localBodyBytes": 579124,
+      "imageBodyBytes": 135437,
+      "completedRequests": 8,
+      "requestedImages": 5,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.b05a7718.js",
+          "type": "Script",
+          "bytes": 410848,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.a606e142.css",
+          "type": "Stylesheet",
+          "bytes": 32839,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/me-96.webp",
+          "type": "Image",
+          "bytes": 4585,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio14-640.webp",
+          "type": "Image",
+          "bytes": 29621,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio16-640.webp",
+          "type": "Image",
+          "bytes": 40657,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio15-640.webp",
+          "type": "Image",
+          "bytes": 27931,
+          "done": true
+        },
+        {
+          "url": "/assets/optimized/portfolio17-640.webp",
+          "type": "Image",
+          "bytes": 32643,
+          "done": true
+        }
+      ]
+    }
+  ],
+  "mobileMedian": {
+    "localBodyBytes": 546481,
+    "imageBodyBytes": 102794,
+    "requestedImages": 4,
+    "fcpMs": 712,
+    "lcpMs": 3548,
+    "initialCls": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "compared": 182,
+  "changed": [
+    "package.json",
+    "public/index.html",
+    "src/components/Typewriter.jsx",
+    "src/components/contact/Contact.jsx",
+    "src/components/services/Services.jsx",
+    "src/data/data.jsx",
+    "src/hooks/useMediaQuery.js",
+    "src/index.js"
+  ],
+  "added": [
+    "public/assets/dms-social.png",
+    "public/assets/dms-social.svg",
+    "public/robots.txt",
+    "public/sitemap.xml"
+  ],
+  "unchanged": 174,
+  "unexpected": [],
+  "removed": [],
+  "contactHandlersUnchanged": true,
+  "projectDatasetUnchangedAfterSvgIdReversal": true,
+  "protected": "All project data, 23 projects, confidentiality notices, original links, CV, existing and optimized assets, App/Nav/carousel/CTA components, CSS tokens and package-lock preserved. No dependencies added."
+}

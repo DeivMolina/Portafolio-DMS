@@ -1,0 +1,1752 @@
+{
+  "phase": "before",
+  "engine": "Installed Chrome/CDP",
+  "conditions": "Fresh document/cache disabled, no third-party network, simulated CAPTCHA, reduced motion. Local HTTP server without gzip; fixed 8-second initial window. Not a production CDN, Lighthouse score, field INP, or full-session CLS.",
+  "trials": [
+    {
+      "name": "mobile-1",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "mbps": 1.6,
+      "latency": 150,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 3060,
+        "size": 30694,
+        "element": "P"
+      },
+      "cls": 0,
+      "longTasks": [
+        456,
+        71
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 676
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 676
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me.07401520b812efb76aba.webp",
+          "complete": false,
+          "naturalWidth": 1024,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/portfolio14.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/portfolio16.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/portfolio15.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 1400,
+          "loading": "auto"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 32,
+      "localBodyBytes": 1433846,
+      "imageBodyBytes": 1001488,
+      "completedRequests": 3,
+      "requestedImages": 29,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.6a21c875.js",
+          "type": "Script",
+          "bytes": 400215,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.548b5804.css",
+          "type": "Stylesheet",
+          "bytes": 32143,
+          "done": true
+        },
+        {
+          "url": "/static/media/me.07401520b812efb76aba.webp",
+          "type": "Image",
+          "bytes": 167414,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio14.png",
+          "type": "Image",
+          "bytes": 167415,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio16.png",
+          "type": "Image",
+          "bytes": 167415,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio15.png",
+          "type": "Image",
+          "bytes": 167415,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio17.jpg",
+          "type": "Image",
+          "bytes": 165914,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "type": "Image",
+          "bytes": 165915,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "mobile-2",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "mbps": 1.6,
+      "latency": 150,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 7972,
+        "size": 30694,
+        "element": "P"
+      },
+      "cls": 0,
+      "longTasks": [
+        477
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 5612
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 5612
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me.07401520b812efb76aba.webp",
+          "complete": false,
+          "naturalWidth": 1024,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/portfolio14.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/portfolio16.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/portfolio15.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 1400,
+          "loading": "auto"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 32,
+      "localBodyBytes": 614846,
+      "imageBodyBytes": 182488,
+      "completedRequests": 3,
+      "requestedImages": 29,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.6a21c875.js",
+          "type": "Script",
+          "bytes": 400215,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.548b5804.css",
+          "type": "Stylesheet",
+          "bytes": 32143,
+          "done": true
+        },
+        {
+          "url": "/static/media/me.07401520b812efb76aba.webp",
+          "type": "Image",
+          "bytes": 30914,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio14.png",
+          "type": "Image",
+          "bytes": 30915,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio16.png",
+          "type": "Image",
+          "bytes": 30915,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio15.png",
+          "type": "Image",
+          "bytes": 30915,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio17.jpg",
+          "type": "Image",
+          "bytes": 29414,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "type": "Image",
+          "bytes": 29415,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "mobile-3",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "mbps": 1.6,
+      "latency": 150,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 8076,
+        "size": 30694,
+        "element": "P"
+      },
+      "cls": 0,
+      "longTasks": [
+        475
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 5724
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 5724
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me.07401520b812efb76aba.webp",
+          "complete": false,
+          "naturalWidth": 1024,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/portfolio14.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/portfolio16.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/portfolio15.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": false,
+          "naturalWidth": 1400,
+          "loading": "auto"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 32,
+      "localBodyBytes": 1426346,
+      "imageBodyBytes": 993988,
+      "completedRequests": 3,
+      "requestedImages": 29,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.6a21c875.js",
+          "type": "Script",
+          "bytes": 400215,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.548b5804.css",
+          "type": "Stylesheet",
+          "bytes": 32143,
+          "done": true
+        },
+        {
+          "url": "/static/media/me.07401520b812efb76aba.webp",
+          "type": "Image",
+          "bytes": 165914,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio14.png",
+          "type": "Image",
+          "bytes": 165915,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio16.png",
+          "type": "Image",
+          "bytes": 165915,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio15.png",
+          "type": "Image",
+          "bytes": 165915,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio17.jpg",
+          "type": "Image",
+          "bytes": 164414,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "type": "Image",
+          "bytes": 165915,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "cpu": 1,
+      "mbps": 10,
+      "latency": 40,
+      "windowMs": 8000,
+      "lcp": {
+        "ms": 600,
+        "size": 36575,
+        "element": "P"
+      },
+      "cls": 0,
+      "longTasks": [
+        73
+      ],
+      "shifts": [],
+      "paint": [
+        {
+          "name": "first-paint",
+          "ms": 232
+        },
+        {
+          "name": "first-contentful-paint",
+          "ms": 232
+        }
+      ],
+      "images": [
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me.07401520b812efb76aba.webp",
+          "complete": true,
+          "naturalWidth": 1024,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Techcomp",
+          "src": "/assets/portfolio14.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Plataformas E-learning",
+          "src": "/assets/portfolio16.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "App Multiplataforma CRM",
+          "src": "/assets/portfolio15.png",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "Proyecto Airplane 3D",
+          "src": "/assets/portfolio17.jpg",
+          "complete": false,
+          "naturalWidth": 1600,
+          "loading": "auto"
+        },
+        {
+          "alt": "CREM - Sistema Web",
+          "src": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "complete": true,
+          "naturalWidth": 1400,
+          "loading": "auto"
+        },
+        {
+          "alt": "Ralte - Sitio Web",
+          "src": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "complete": false,
+          "naturalWidth": 1427,
+          "loading": "auto"
+        },
+        {
+          "alt": "Conecta y Crece - Sitio Web",
+          "src": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "complete": true,
+          "naturalWidth": 1427,
+          "loading": "auto"
+        },
+        {
+          "alt": "Adqusiciones & Pasivos - Sitio Web",
+          "src": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "complete": true,
+          "naturalWidth": 1416,
+          "loading": "auto"
+        },
+        {
+          "alt": "TechComp - Sitio Web",
+          "src": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "complete": false,
+          "naturalWidth": 1507,
+          "loading": "auto"
+        },
+        {
+          "alt": "ECHE - Sitio Web",
+          "src": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "BeFocused - Sitio Web",
+          "src": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "ASGL & ASOC - Sitio Web",
+          "src": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Hydra Consultores - Sitio Web",
+          "src": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Grupo Inders <E-commerce />",
+          "src": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "INAP - Sitio Web",
+          "src": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Caña de Oro - Sitio Web",
+          "src": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "DESPACHO ATM - Sitio Web",
+          "src": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Molina Consultores - Sitio Web",
+          "src": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Planilla Dorada - Sitio Web",
+          "src": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Alearth <E-Commerce />",
+          "src": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Law Soluciones Legales - Sitio Web",
+          "src": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Bliblioteca UTN <Sistema de Inventario />",
+          "src": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "Reach QR <Sistema In:Out />",
+          "src": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "David Molina",
+          "src": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        },
+        {
+          "alt": "",
+          "src": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "complete": false,
+          "naturalWidth": 0,
+          "loading": "auto"
+        }
+      ],
+      "overflow": false,
+      "localRequests": 32,
+      "localBodyBytes": 9650614,
+      "imageBodyBytes": 9218257,
+      "completedRequests": 7,
+      "requestedImages": 29,
+      "requests": [
+        {
+          "url": "/",
+          "type": "Document",
+          "bytes": 0,
+          "done": true
+        },
+        {
+          "url": "/static/js/main.6a21c875.js",
+          "type": "Script",
+          "bytes": 400214,
+          "done": true
+        },
+        {
+          "url": "/static/css/main.548b5804.css",
+          "type": "Stylesheet",
+          "bytes": 32143,
+          "done": true
+        },
+        {
+          "url": "/static/media/me.07401520b812efb76aba.webp",
+          "type": "Image",
+          "bytes": 202800,
+          "done": true
+        },
+        {
+          "url": "/assets/portfolio14.png",
+          "type": "Image",
+          "bytes": 1550415,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio16.png",
+          "type": "Image",
+          "bytes": 1544415,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio15.png",
+          "type": "Image",
+          "bytes": 1544415,
+          "done": false
+        },
+        {
+          "url": "/assets/portfolio17.jpg",
+          "type": "Image",
+          "bytes": 1542914,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio22.9b9e2137eb4e1ef8f0f5.png",
+          "type": "Image",
+          "bytes": 432915,
+          "done": true
+        },
+        {
+          "url": "/static/media/portfolio20.9b7ec2a3700c7049c505.png",
+          "type": "Image",
+          "bytes": 1331415,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio19.d72362f5a70ee303efc3.png",
+          "type": "Image",
+          "bytes": 594972,
+          "done": true
+        },
+        {
+          "url": "/static/media/portfolio21.0946ffb1fbdc1659c30b.png",
+          "type": "Image",
+          "bytes": 366581,
+          "done": true
+        },
+        {
+          "url": "/static/media/portfolio18.f7937c8142000c9fe255.png",
+          "type": "Image",
+          "bytes": 107415,
+          "done": false
+        },
+        {
+          "url": "/static/media/portafolio14.b5de404ec550e6321fc9.gif",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio13.444be7c2e0f1f3a9757f.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio1.4081b5a4b3c860fd30c3.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio11.2fba10c3186b32c4a2a4.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio8.9c3e72580f112445a411.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio2.7d7d79b6cc41ead26fc6.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio12.0db1091d7628dcf63f0c.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio3.e742cf844ff835b1b61b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio4.6d5fed659107482f3691.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio6.0da29b0465f43b5ecad8.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio7.ef9c00287adacf1701d5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio5.9c8c875fc779385ebe9a.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio9.f4a2ab3b315a75839959.png",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/portfolio10.fd38ece3309dd86f2de5.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/me-about.e4c357db0f97ebd1e253.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar1.cead1823c5fd11fed11b.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar2.b1c4b5f60992ef7eaf6d.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar3.e45929afac20529aa964.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        },
+        {
+          "url": "/static/media/avatar4.61a91c8265392ecea0b1.jpg",
+          "type": "Image",
+          "bytes": 0,
+          "done": false
+        }
+      ]
+    }
+  ],
+  "mobileMedian": {
+    "localBodyBytes": 1426346,
+    "imageBodyBytes": 993988,
+    "requestedImages": 29,
+    "fcpMs": 5612,
+    "lcpMs": 7972,
+    "initialCls": 0
+  }
+}

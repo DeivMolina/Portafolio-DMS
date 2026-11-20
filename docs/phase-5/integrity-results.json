@@ -1,0 +1,298 @@
+{
+  "passed": true,
+  "method": "SHA-256 compared with persisted phase-1 baseline; allowed cumulative changes from phases 2–5. Phase-5 scope is documented separately and regression-tested.",
+  "limitation": "The in-memory phase-5-start snapshot was lost during session restart; no exact phase-5-only hash comparison is claimed.",
+  "comparedExistingFiles": 92,
+  "changedSincePhase1": [
+    "src/App.jsx",
+    "src/index.css",
+    "src/components/Typewriter.jsx",
+    "src/components/about/about.css",
+    "src/components/about/About.jsx",
+    "src/components/contact/contact.css",
+    "src/components/contact/Contact.jsx",
+    "src/components/experience/experience.css",
+    "src/components/footer/footer.css",
+    "src/components/footer/Footer.jsx",
+    "src/components/header/CTA.jsx",
+    "src/components/header/header.css",
+    "src/components/header/Header.jsx",
+    "src/components/nav/nav.css",
+    "src/components/nav/Nav.jsx",
+    "src/components/portfolio/portfolio.css",
+    "src/components/portfolio/Portfolio.jsx",
+    "src/components/services/services.css",
+    "src/components/services/Services.jsx",
+    "src/components/testimonials/testimonials.css",
+    "src/components/testimonials/Testimonials.jsx",
+    "public/index.html"
+  ],
+  "unexpectedCumulativeChanges": [],
+  "removed": [],
+  "protectedFiles": [
+    {
+      "path": "src/assets/avatar1.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/avatar2.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/avatar3.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/avatar4.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/bg-texture.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/cv 2023.pdf",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/cv.pdf",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/favicon.ico",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/me-about.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/me.webp",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portafolio14.gif",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio1.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio10.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio11.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio12.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio13.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio18.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio19.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio2.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio20.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio21.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio22.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio3.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio4.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio5.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio6.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio7.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio8.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "src/assets/portfolio9.png",
+      "unchanged": true
+    },
+    {
+      "path": "src/data/data.jsx",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/avatar1.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/avatar2.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/avatar3.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/avatar4.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/bg-texture.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/cv 2023.pdf",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/cv.pdf",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/favicon.ico",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/logo_dms_azul.png.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/me-about.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/me.webp",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portafolio14.gif",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio1.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio10.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio11.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio12.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio13.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio14.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio15.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio16.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio17.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio18.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio19.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio2.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio20.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio21.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio22.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio3.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio4.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio5.png",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio6.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio7.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio8.jpg",
+      "unchanged": true
+    },
+    {
+      "path": "public/assets/portfolio9.png",
+      "unchanged": true
+    },
+    {
+      "path": "package.json",
+      "unchanged": true
+    },
+    {
+      "path": "package-lock.json",
+      "unchanged": true
+    }
+  ]
+}

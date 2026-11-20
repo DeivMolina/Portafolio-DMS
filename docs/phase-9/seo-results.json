@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": [
+    "Unique Spanish-Mexico identity, canonical and indexable directives",
+    "Consistent Open Graph and Twitter metadata with a real 1200x630 PNG",
+    "Structured entities use verified identity and Mexico services, without invented local or rating claims",
+    "All React content and original links are present before JavaScript runs",
+    "Robots allows crawling and sitemap contains only the actual canonical homepage"
+  ],
+  "htmlBytes": 150436,
+  "markupMethod": "React renderToString at build time, same App hydrated in the browser",
+  "scope": "Local production build. Not a Google indexing, rich-result eligibility or live-host certification."
+}

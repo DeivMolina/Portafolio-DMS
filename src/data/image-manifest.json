@@ -1,0 +1,610 @@
+{
+  "portfolio1": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio1-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 23142
+      },
+      {
+        "src": "/assets/optimized/portfolio1-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 45394
+      }
+    ]
+  },
+  "portfolio10": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio10-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3364
+      },
+      {
+        "src": "/assets/optimized/portfolio10-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 6122
+      }
+    ]
+  },
+  "portfolio11": {
+    "width": 2048,
+    "height": 1365,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio11-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 12012
+      },
+      {
+        "src": "/assets/optimized/portfolio11-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 34278
+      },
+      {
+        "src": "/assets/optimized/portfolio11-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 101480
+      }
+    ]
+  },
+  "portfolio12": {
+    "width": 1240,
+    "height": 889,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio12-320.webp",
+        "width": 320,
+        "height": 229,
+        "bytes": 37870
+      },
+      {
+        "src": "/assets/optimized/portfolio12-640.webp",
+        "width": 640,
+        "height": 459,
+        "bytes": 150470
+      },
+      {
+        "src": "/assets/optimized/portfolio12-1240.webp",
+        "width": 1240,
+        "height": 889,
+        "bytes": 555766
+      }
+    ]
+  },
+  "portfolio13": {
+    "width": 1455,
+    "height": 955,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio13-320.webp",
+        "width": 320,
+        "height": 210,
+        "bytes": 11544
+      },
+      {
+        "src": "/assets/optimized/portfolio13-640.webp",
+        "width": 640,
+        "height": 420,
+        "bytes": 30432
+      },
+      {
+        "src": "/assets/optimized/portfolio13-1280.webp",
+        "width": 1280,
+        "height": 840,
+        "bytes": 83006
+      }
+    ]
+  },
+  "portfolio18": {
+    "width": 1507,
+    "height": 932,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio18-320.webp",
+        "width": 320,
+        "height": 198,
+        "bytes": 12406
+      },
+      {
+        "src": "/assets/optimized/portfolio18-640.webp",
+        "width": 640,
+        "height": 396,
+        "bytes": 29440
+      },
+      {
+        "src": "/assets/optimized/portfolio18-1280.webp",
+        "width": 1280,
+        "height": 792,
+        "bytes": 61846
+      }
+    ]
+  },
+  "portfolio19": {
+    "width": 1427,
+    "height": 875,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio19-320.webp",
+        "width": 320,
+        "height": 196,
+        "bytes": 10884
+      },
+      {
+        "src": "/assets/optimized/portfolio19-640.webp",
+        "width": 640,
+        "height": 392,
+        "bytes": 29144
+      },
+      {
+        "src": "/assets/optimized/portfolio19-1280.webp",
+        "width": 1280,
+        "height": 785,
+        "bytes": 75546
+      }
+    ]
+  },
+  "portfolio2": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio2-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11812
+      },
+      {
+        "src": "/assets/optimized/portfolio2-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 20416
+      }
+    ]
+  },
+  "portfolio20": {
+    "width": 1427,
+    "height": 945,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio20-320.webp",
+        "width": 320,
+        "height": 212,
+        "bytes": 26692
+      },
+      {
+        "src": "/assets/optimized/portfolio20-640.webp",
+        "width": 640,
+        "height": 424,
+        "bytes": 78464
+      },
+      {
+        "src": "/assets/optimized/portfolio20-1280.webp",
+        "width": 1280,
+        "height": 848,
+        "bytes": 188936
+      }
+    ]
+  },
+  "portfolio21": {
+    "width": 1416,
+    "height": 906,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio21-320.webp",
+        "width": 320,
+        "height": 205,
+        "bytes": 8532
+      },
+      {
+        "src": "/assets/optimized/portfolio21-640.webp",
+        "width": 640,
+        "height": 409,
+        "bytes": 25432
+      },
+      {
+        "src": "/assets/optimized/portfolio21-1280.webp",
+        "width": 1280,
+        "height": 819,
+        "bytes": 74256
+      }
+    ]
+  },
+  "portfolio22": {
+    "width": 1400,
+    "height": 813,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio22-320.webp",
+        "width": 320,
+        "height": 186,
+        "bytes": 9486
+      },
+      {
+        "src": "/assets/optimized/portfolio22-640.webp",
+        "width": 640,
+        "height": 372,
+        "bytes": 25160
+      },
+      {
+        "src": "/assets/optimized/portfolio22-1280.webp",
+        "width": 1280,
+        "height": 743,
+        "bytes": 62658
+      }
+    ]
+  },
+  "portfolio3": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio3-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 22898
+      },
+      {
+        "src": "/assets/optimized/portfolio3-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 43654
+      }
+    ]
+  },
+  "portfolio4": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio4-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 18934
+      },
+      {
+        "src": "/assets/optimized/portfolio4-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 34766
+      }
+    ]
+  },
+  "portfolio5": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio5-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 37844
+      },
+      {
+        "src": "/assets/optimized/portfolio5-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 76516
+      }
+    ]
+  },
+  "portfolio6": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio6-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8902
+      },
+      {
+        "src": "/assets/optimized/portfolio6-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 15088
+      }
+    ]
+  },
+  "portfolio7": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio7-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4512
+      },
+      {
+        "src": "/assets/optimized/portfolio7-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 7034
+      }
+    ]
+  },
+  "portfolio8": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio8-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11806
+      },
+      {
+        "src": "/assets/optimized/portfolio8-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 22832
+      }
+    ]
+  },
+  "portfolio9": {
+    "width": 480,
+    "height": 360,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio9-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 30370
+      },
+      {
+        "src": "/assets/optimized/portfolio9-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 62232
+      }
+    ]
+  },
+  "portafolio14": {
+    "width": 875,
+    "height": 580,
+    "variants": [
+      {
+        "src": "/assets/optimized/portafolio14-320.webp",
+        "width": 320,
+        "height": 212,
+        "bytes": 15058
+      },
+      {
+        "src": "/assets/optimized/portafolio14-640.webp",
+        "width": 640,
+        "height": 424,
+        "bytes": 66854
+      },
+      {
+        "src": "/assets/optimized/portafolio14-875.webp",
+        "width": 875,
+        "height": 580,
+        "bytes": 163138
+      }
+    ],
+    "animated": true,
+    "posterFallback": "/assets/optimized/portafolio14-poster.jpg"
+  },
+  "me": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "/assets/optimized/me-96.webp",
+        "width": 96,
+        "height": 96,
+        "bytes": 4572
+      },
+      {
+        "src": "/assets/optimized/me-192.webp",
+        "width": 192,
+        "height": 192,
+        "bytes": 15016
+      },
+      {
+        "src": "/assets/optimized/me-384.webp",
+        "width": 384,
+        "height": 384,
+        "bytes": 36570
+      }
+    ]
+  },
+  "me-about": {
+    "width": 1000,
+    "height": 1000,
+    "variants": [
+      {
+        "src": "/assets/optimized/me-about-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 72624
+      },
+      {
+        "src": "/assets/optimized/me-about-960.webp",
+        "width": 960,
+        "height": 960,
+        "bytes": 261828
+      }
+    ]
+  },
+  "avatar1": {
+    "width": 150,
+    "height": 150,
+    "variants": [
+      {
+        "src": "/assets/optimized/avatar1-96.webp",
+        "width": 96,
+        "height": 96,
+        "bytes": 1490
+      },
+      {
+        "src": "/assets/optimized/avatar1-150.webp",
+        "width": 150,
+        "height": 150,
+        "bytes": 2420
+      }
+    ]
+  },
+  "avatar2": {
+    "width": 150,
+    "height": 150,
+    "variants": [
+      {
+        "src": "/assets/optimized/avatar2-96.webp",
+        "width": 96,
+        "height": 96,
+        "bytes": 1666
+      },
+      {
+        "src": "/assets/optimized/avatar2-150.webp",
+        "width": 150,
+        "height": 150,
+        "bytes": 2492
+      }
+    ]
+  },
+  "avatar3": {
+    "width": 150,
+    "height": 150,
+    "variants": [
+      {
+        "src": "/assets/optimized/avatar3-96.webp",
+        "width": 96,
+        "height": 96,
+        "bytes": 3522
+      },
+      {
+        "src": "/assets/optimized/avatar3-150.webp",
+        "width": 150,
+        "height": 150,
+        "bytes": 7216
+      }
+    ]
+  },
+  "avatar4": {
+    "width": 150,
+    "height": 150,
+    "variants": [
+      {
+        "src": "/assets/optimized/avatar4-96.webp",
+        "width": 96,
+        "height": 96,
+        "bytes": 2794
+      },
+      {
+        "src": "/assets/optimized/avatar4-150.webp",
+        "width": 150,
+        "height": 150,
+        "bytes": 4694
+      }
+    ]
+  },
+  "portfolio14": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio14-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8504
+      },
+      {
+        "src": "/assets/optimized/portfolio14-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 29608
+      },
+      {
+        "src": "/assets/optimized/portfolio14-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 206418
+      }
+    ]
+  },
+  "portfolio15": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio15-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7990
+      },
+      {
+        "src": "/assets/optimized/portfolio15-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27918
+      },
+      {
+        "src": "/assets/optimized/portfolio15-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 165850
+      }
+    ]
+  },
+  "portfolio16": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio16-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 12660
+      },
+      {
+        "src": "/assets/optimized/portfolio16-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40644
+      },
+      {
+        "src": "/assets/optimized/portfolio16-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 182688
+      }
+    ]
+  },
+  "portfolio17": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "/assets/optimized/portfolio17-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6422
+      },
+      {
+        "src": "/assets/optimized/portfolio17-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 32630
+      },
+      {
+        "src": "/assets/optimized/portfolio17-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 243318
+      }
+    ]
+  }
+}

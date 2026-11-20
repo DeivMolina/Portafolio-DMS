@@ -1,0 +1,730 @@
+{
+  "images": 29,
+  "originalBytes": 22529723,
+  "largestVariantBytes": 2814180,
+  "method": "Pillow 10.4, WebP quality 90/method 6; resize without cropping/upscaling; animated source keeps original GIF and extracts frame 0 as poster.",
+  "files": [
+    {
+      "original": "src/assets/portfolio1.jpg",
+      "sha256": "6969DDC8ADFB12C624F11D95A3016C24985E04115F398509F89BAFBA9910F129",
+      "bytes": 132626,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio1-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 23142
+        },
+        {
+          "src": "/assets/optimized/portfolio1-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 45394
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio10.jpg",
+      "sha256": "A9CE70704390B16482AA8D702F5A4323CC830174D78F9DF7DAB7978B57D194F0",
+      "bytes": 27959,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio10-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 3364
+        },
+        {
+          "src": "/assets/optimized/portfolio10-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 6122
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio11.png",
+      "sha256": "C30DD0941A15F8829A090F7697F701997305DDC597494B2EEEFFC8B9A30394E9",
+      "bytes": 2979629,
+      "width": 2048,
+      "height": 1365,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio11-320.webp",
+          "width": 320,
+          "height": 213,
+          "bytes": 12012
+        },
+        {
+          "src": "/assets/optimized/portfolio11-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 34278
+        },
+        {
+          "src": "/assets/optimized/portfolio11-1280.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 101480
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio12.png",
+      "sha256": "506CCADD69F4D4E61DAEAE572CED140994A95EA8B0F7D57B3A2DECE49A352019",
+      "bytes": 2802646,
+      "width": 1240,
+      "height": 889,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio12-320.webp",
+          "width": 320,
+          "height": 229,
+          "bytes": 37870
+        },
+        {
+          "src": "/assets/optimized/portfolio12-640.webp",
+          "width": 640,
+          "height": 459,
+          "bytes": 150470
+        },
+        {
+          "src": "/assets/optimized/portfolio12-1240.webp",
+          "width": 1240,
+          "height": 889,
+          "bytes": 555766
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio13.png",
+      "sha256": "85C315E846E2BE2806C4C27E8724B5C84EFF95E2534739E4EA08DE65E92C9B54",
+      "bytes": 924848,
+      "width": 1455,
+      "height": 955,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio13-320.webp",
+          "width": 320,
+          "height": 210,
+          "bytes": 11544
+        },
+        {
+          "src": "/assets/optimized/portfolio13-640.webp",
+          "width": 640,
+          "height": 420,
+          "bytes": 30432
+        },
+        {
+          "src": "/assets/optimized/portfolio13-1280.webp",
+          "width": 1280,
+          "height": 840,
+          "bytes": 83006
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio18.png",
+      "sha256": "D112785203DD75AC81D8AFF2858DEA8983BE8BAB8FB8F201ADC4A76760E1B2D3",
+      "bytes": 579036,
+      "width": 1507,
+      "height": 932,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio18-320.webp",
+          "width": 320,
+          "height": 198,
+          "bytes": 12406
+        },
+        {
+          "src": "/assets/optimized/portfolio18-640.webp",
+          "width": 640,
+          "height": 396,
+          "bytes": 29440
+        },
+        {
+          "src": "/assets/optimized/portfolio18-1280.webp",
+          "width": 1280,
+          "height": 792,
+          "bytes": 61846
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio19.png",
+      "sha256": "792E5C94714EAA89A3210BBF8B40DC80FB726470A46DFF640F72370E7EEC8E03",
+      "bytes": 594906,
+      "width": 1427,
+      "height": 875,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio19-320.webp",
+          "width": 320,
+          "height": 196,
+          "bytes": 10884
+        },
+        {
+          "src": "/assets/optimized/portfolio19-640.webp",
+          "width": 640,
+          "height": 392,
+          "bytes": 29144
+        },
+        {
+          "src": "/assets/optimized/portfolio19-1280.webp",
+          "width": 1280,
+          "height": 785,
+          "bytes": 75546
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio2.jpg",
+      "sha256": "0C22DDA5FCB2BFA8C78679858AC7668C01B2B8BB94CC19E256D0E4D4DF310BB9",
+      "bytes": 92240,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio2-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 11812
+        },
+        {
+          "src": "/assets/optimized/portfolio2-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 20416
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio20.png",
+      "sha256": "F093EA957ACF660894DC7D438B0E6FDA8D6BC935518EEA0B4BD58293FDCC2DCD",
+      "bytes": 1430253,
+      "width": 1427,
+      "height": 945,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio20-320.webp",
+          "width": 320,
+          "height": 212,
+          "bytes": 26692
+        },
+        {
+          "src": "/assets/optimized/portfolio20-640.webp",
+          "width": 640,
+          "height": 424,
+          "bytes": 78464
+        },
+        {
+          "src": "/assets/optimized/portfolio20-1280.webp",
+          "width": 1280,
+          "height": 848,
+          "bytes": 188936
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio21.png",
+      "sha256": "5AC621B707101CBDFAC88B4A16D45E89094E725A7CFFB289BF88E91A82C28A17",
+      "bytes": 366541,
+      "width": 1416,
+      "height": 906,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio21-320.webp",
+          "width": 320,
+          "height": 205,
+          "bytes": 8532
+        },
+        {
+          "src": "/assets/optimized/portfolio21-640.webp",
+          "width": 640,
+          "height": 409,
+          "bytes": 25432
+        },
+        {
+          "src": "/assets/optimized/portfolio21-1280.webp",
+          "width": 1280,
+          "height": 819,
+          "bytes": 74256
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio22.png",
+      "sha256": "C679F123A883690848AA019C3F40F89160C4713733425D8D592B44BBEB6E8A20",
+      "bytes": 432874,
+      "width": 1400,
+      "height": 813,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio22-320.webp",
+          "width": 320,
+          "height": 186,
+          "bytes": 9486
+        },
+        {
+          "src": "/assets/optimized/portfolio22-640.webp",
+          "width": 640,
+          "height": 372,
+          "bytes": 25160
+        },
+        {
+          "src": "/assets/optimized/portfolio22-1280.webp",
+          "width": 1280,
+          "height": 743,
+          "bytes": 62658
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio3.jpg",
+      "sha256": "ADDA120318CE0C5FCE429E5D5FAFAA14616717270E851AF399EAB9F9DF51FB9A",
+      "bytes": 187580,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio3-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 22898
+        },
+        {
+          "src": "/assets/optimized/portfolio3-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 43654
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio4.jpg",
+      "sha256": "8BC569FCE0359DD5D033D3ACA1AAC7AD619B15679E104F8B62E5670CC5AA360F",
+      "bytes": 139683,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio4-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 18934
+        },
+        {
+          "src": "/assets/optimized/portfolio4-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 34766
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio5.png",
+      "sha256": "94889323C24FF9CE277AE71C5264102E743D90C59C1C5B3A0249D3221C5597EC",
+      "bytes": 359053,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio5-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 37844
+        },
+        {
+          "src": "/assets/optimized/portfolio5-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 76516
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio6.jpg",
+      "sha256": "30BCC477D596970DAF1B19658B66107DCCF1C1965784702A16961F18C140F8CA",
+      "bytes": 87602,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio6-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 8902
+        },
+        {
+          "src": "/assets/optimized/portfolio6-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 15088
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio7.jpg",
+      "sha256": "B834C5A061521EC1428CE8F28114CB994A706DAB935AE4121F2108478C2018CA",
+      "bytes": 27922,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio7-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 4512
+        },
+        {
+          "src": "/assets/optimized/portfolio7-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 7034
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio8.jpg",
+      "sha256": "BB3055BC7A4E6D35504C8B17BBD2A953B1936D3D3F79C46DA19D07512C542E3A",
+      "bytes": 116874,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio8-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 11806
+        },
+        {
+          "src": "/assets/optimized/portfolio8-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 22832
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portfolio9.png",
+      "sha256": "5222B5705BEAF01BDFB4E64276A307E4578141C28CC7443F7AA38565A28D5A91",
+      "bytes": 365402,
+      "width": 480,
+      "height": 360,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio9-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 30370
+        },
+        {
+          "src": "/assets/optimized/portfolio9-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 62232
+        }
+      ]
+    },
+    {
+      "original": "src/assets/portafolio14.gif",
+      "sha256": "1D14DEB5A648E2A8DB61C2AE968DE7B6283CA1D3267FDCBC16CB428BCA70236C",
+      "bytes": 1430811,
+      "width": 875,
+      "height": 580,
+      "frames": 12,
+      "variants": [
+        {
+          "src": "/assets/optimized/portafolio14-320.webp",
+          "width": 320,
+          "height": 212,
+          "bytes": 15058
+        },
+        {
+          "src": "/assets/optimized/portafolio14-640.webp",
+          "width": 640,
+          "height": 424,
+          "bytes": 66854
+        },
+        {
+          "src": "/assets/optimized/portafolio14-875.webp",
+          "width": 875,
+          "height": 580,
+          "bytes": 163138
+        }
+      ]
+    },
+    {
+      "original": "src/assets/me.webp",
+      "sha256": "D185D3916677B1BCA6B6E0856DDF9764C5AC8C49D90B33AAFA67478EFAD81672",
+      "bytes": 202770,
+      "width": 1024,
+      "height": 1024,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/me-96.webp",
+          "width": 96,
+          "height": 96,
+          "bytes": 4572
+        },
+        {
+          "src": "/assets/optimized/me-192.webp",
+          "width": 192,
+          "height": 192,
+          "bytes": 15016
+        },
+        {
+          "src": "/assets/optimized/me-384.webp",
+          "width": 384,
+          "height": 384,
+          "bytes": 36570
+        }
+      ]
+    },
+    {
+      "original": "src/assets/me-about.jpg",
+      "sha256": "DF7238DACC9F73585FF0D47359DA3B14485F43971BC6C5F850F31DA070FF1267",
+      "bytes": 895718,
+      "width": 1000,
+      "height": 1000,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/me-about-480.webp",
+          "width": 480,
+          "height": 480,
+          "bytes": 72624
+        },
+        {
+          "src": "/assets/optimized/me-about-960.webp",
+          "width": 960,
+          "height": 960,
+          "bytes": 261828
+        }
+      ]
+    },
+    {
+      "original": "src/assets/avatar1.jpg",
+      "sha256": "6F04352C426B8DFB06C9590E835DF3F64AED12C2CAC9D22BBE001B2500F259F3",
+      "bytes": 11431,
+      "width": 150,
+      "height": 150,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/avatar1-96.webp",
+          "width": 96,
+          "height": 96,
+          "bytes": 1490
+        },
+        {
+          "src": "/assets/optimized/avatar1-150.webp",
+          "width": 150,
+          "height": 150,
+          "bytes": 2420
+        }
+      ]
+    },
+    {
+      "original": "src/assets/avatar2.jpg",
+      "sha256": "C1AA8973AC7641B6CD5843F21ECCB7A59F4CB8667C4DD78F7438A2D6D9353D00",
+      "bytes": 12714,
+      "width": 150,
+      "height": 150,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/avatar2-96.webp",
+          "width": 96,
+          "height": 96,
+          "bytes": 1666
+        },
+        {
+          "src": "/assets/optimized/avatar2-150.webp",
+          "width": 150,
+          "height": 150,
+          "bytes": 2492
+        }
+      ]
+    },
+    {
+      "original": "src/assets/avatar3.jpg",
+      "sha256": "983D73C11B09300E81AEC535377D9FD893D14C3FBBF7B84A151FD511E88F659C",
+      "bytes": 26738,
+      "width": 150,
+      "height": 150,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/avatar3-96.webp",
+          "width": 96,
+          "height": 96,
+          "bytes": 3522
+        },
+        {
+          "src": "/assets/optimized/avatar3-150.webp",
+          "width": 150,
+          "height": 150,
+          "bytes": 7216
+        }
+      ]
+    },
+    {
+      "original": "src/assets/avatar4.jpg",
+      "sha256": "CC2DF9888F077BDE1F6DB88140DE1A2B00644C26C0DA289588986B2394A59EFF",
+      "bytes": 17304,
+      "width": 150,
+      "height": 150,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/avatar4-96.webp",
+          "width": 96,
+          "height": 96,
+          "bytes": 2794
+        },
+        {
+          "src": "/assets/optimized/avatar4-150.webp",
+          "width": 150,
+          "height": 150,
+          "bytes": 4694
+        }
+      ]
+    },
+    {
+      "original": "public/assets/portfolio14.png",
+      "sha256": "0C344C5E5A734FD6596CC344470D6EFCCD920891C5686A8974CDC45CE30E8815",
+      "bytes": 2444401,
+      "width": 1600,
+      "height": 1200,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio14-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 8504
+        },
+        {
+          "src": "/assets/optimized/portfolio14-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 29608
+        },
+        {
+          "src": "/assets/optimized/portfolio14-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 206418
+        }
+      ]
+    },
+    {
+      "original": "public/assets/portfolio15.png",
+      "sha256": "5BF2885814C51443EB1D9D6B1497CDDD90D89BE268C068A8853B89A430891B27",
+      "bytes": 1803141,
+      "width": 1600,
+      "height": 1200,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio15-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 7990
+        },
+        {
+          "src": "/assets/optimized/portfolio15-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 27918
+        },
+        {
+          "src": "/assets/optimized/portfolio15-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 165850
+        }
+      ]
+    },
+    {
+      "original": "public/assets/portfolio16.png",
+      "sha256": "CD787C2DE57CF7127AC352B718B419C3A1EEBE36FDE75A2F21342C291D2B4D21",
+      "bytes": 1886131,
+      "width": 1600,
+      "height": 1200,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio16-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 12660
+        },
+        {
+          "src": "/assets/optimized/portfolio16-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 40644
+        },
+        {
+          "src": "/assets/optimized/portfolio16-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 182688
+        }
+      ]
+    },
+    {
+      "original": "public/assets/portfolio17.jpg",
+      "sha256": "3968255377ABE25C31F4615B02D9E24FCB116EEC6700A109AC242AC330D54428",
+      "bytes": 2150890,
+      "width": 1600,
+      "height": 1200,
+      "frames": 1,
+      "variants": [
+        {
+          "src": "/assets/optimized/portfolio17-320.webp",
+          "width": 320,
+          "height": 240,
+          "bytes": 6422
+        },
+        {
+          "src": "/assets/optimized/portfolio17-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 32630
+        },
+        {
+          "src": "/assets/optimized/portfolio17-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 243318
+        }
+      ]
+    }
+  ]
+}

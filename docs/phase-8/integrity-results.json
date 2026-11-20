@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "method": "SHA-256 against 179 files persisted at the beginning of phase 8, matching the end of phase 7.",
+  "compared": 179,
+  "changed": [
+    "src/App.navigation.test.jsx",
+    "src/components/about/About.jsx",
+    "src/components/contact/Contact.jsx",
+    "src/components/contact/Contact.test.jsx",
+    "src/components/footer/Footer.jsx",
+    "src/components/header/Header.jsx",
+    "src/components/portfolio/Portfolio.jsx",
+    "src/components/portfolio/portfolio.css",
+    "src/components/services/Services.jsx",
+    "src/components/testimonials/Testimonials.jsx",
+    "src/data/data.jsx",
+    "src/index.css"
+  ],
+  "newSourceFiles": [
+    "src/components/ui/ProjectDemoLink.jsx",
+    "src/utils/contactLinks.js",
+    "src/utils/contactLinks.test.js"
+  ],
+  "unchanged": 167,
+  "unexpected": [],
+  "removed": [],
+  "contactLogicUnchanged": true,
+  "projectDatasetRestoresExactlyAfterCopyReversal": true,
+  "testimonialContentAndLogicUnchanged": true,
+  "protected": "All original and optimized assets, PDF/CV, packages, public/index.html (SEO reserved for phase 9), App/Nav/motion and delivery components preserved."
+}

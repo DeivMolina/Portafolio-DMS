@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "method": "SHA-256 against the persisted start-of-phase-6 snapshot; it matched all 100 phase-5 hashes before edits.",
+  "compared": 100,
+  "changed": [
+    "src/App.navigation.test.jsx",
+    "src/components/Typewriter.jsx",
+    "src/components/about/about.css",
+    "src/components/header/Header.jsx",
+    "src/components/header/header.css",
+    "src/components/portfolio/portfolio.css",
+    "src/components/testimonials/Testimonials.jsx",
+    "src/components/testimonials/testimonials.css",
+    "src/index.css",
+    "src/styles/primitives.css",
+    "src/styles/tokens.css"
+  ],
+  "newSourceFiles": [
+    "src/components/Typewriter.test.jsx",
+    "src/hooks/useMediaQuery.js"
+  ],
+  "unchanged": 89,
+  "unexpected": [],
+  "removed": [],
+  "protected": "Project data, images, PDF/CV, packages, URLs, App/Nav logic and the complete Contact component match the beginning of phase 6."
+}

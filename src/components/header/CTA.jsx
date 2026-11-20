@@ -1,11 +1,12 @@
 import React from 'react'
 import CV from '../../assets/cv.pdf'
+import ActionLink from '../ui/ActionLink'
 
 const CTA = () => {
   return (
     <div className='cta'>
-        <a href={CV} download className='btn'>Descarga CV</a>
-        <a href="#contact" className='btn btn-primary'>Hablemos...</a>
+        <ActionLink href={CV} download>Descarga CV</ActionLink>
+        <ActionLink href="#contact" variant="primary">Hablemos...</ActionLink>
     </div>
   )
 }

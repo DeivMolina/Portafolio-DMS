@@ -1,0 +1,83 @@
+:root {
+    /* DMS: dark navy surfaces, blue actions, light readable foregrounds. */
+    --color-bg: #0a0a28;
+    --color-surface: #171735;
+    --color-surface-raised: #202047;
+    --color-bg-variant: var(--color-surface);
+    --color-primary: #4b59fb;
+    --color-primary-hover: #3948df;
+    --color-primary-active: #303dc5;
+    --color-on-primary: #ffffff;
+    --color-white: #ffffff;
+    --color-text: #f5f5fc;
+    --color-text-light: #c6c6de;
+    --color-light: var(--color-text-light);
+    --color-link: #b8beff;
+    --color-link-hover: #ffffff;
+    --color-border: #7e88b8;
+    --color-border-subtle: #41416a;
+    --color-primary-variant: #a7b0f4;
+    --color-focus: #ffffff;
+    --color-availability: #51e4b8;
+    --color-chip: #202047;
+    --color-nav-surface: rgba(10, 10, 40, 0.94);
+    --color-overlay: rgba(0, 0, 0, 0.3);
+
+    --font-body: 'Poppins', sans-serif;
+    --font-display: 'Geologica', sans-serif;
+    --text-xs: 0.875rem;
+    --text-sm: 0.9375rem;
+    --text-base: 1rem;
+    --text-lg: 1.25rem;
+    --text-xl: 1.5rem;
+    --text-2xl: 2rem;
+    --text-3xl: 2.5rem;
+    --weight-regular: 400;
+    --weight-medium: 500;
+    --weight-semibold: 600;
+    --line-body: 1.7;
+    --line-heading: 1.25;
+
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.25rem;
+    --space-6: 1.5rem;
+    --space-8: 2rem;
+    --space-10: 2.5rem;
+    --space-12: 3rem;
+    --space-16: 4rem;
+    --space-20: 5rem;
+    --space-28: 7rem;
+    --space-32: 8rem;
+
+    --radius-control: 0.5rem;
+    --radius-media: 0.75rem;
+    --radius-card: 1rem;
+    --radius-pill: 999px;
+    --control-height: 2.75rem;
+    --icon-size: 1.125rem;
+    --focus-width: 3px;
+    --focus-offset: 4px;
+    --duration-fast: 150ms;
+    --duration-normal: 200ms;
+    --ease-standard: cubic-bezier(0.2, 0.8, 0.2, 1);
+    --transition: color var(--duration-normal) var(--ease-standard),
+                  background-color var(--duration-normal) var(--ease-standard),
+                  border-color var(--duration-normal) var(--ease-standard);
+
+    --page-gutter: clamp(1rem, 4vw, 2rem);
+    --container-max: 72rem;
+    --prose-measure: 65ch;
+    --section-gap: clamp(3rem, 7vw, 6rem);
+    --section-heading-gap: clamp(1.5rem, 3vw, 2.5rem);
+    --card-inset: clamp(1rem, 2.5vw, 1.5rem);
+    --text-display: clamp(2rem, 1.6rem + 2vw, 3rem);
+    --text-section: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+    --text-project: clamp(1.25rem, 1.05rem + 0.8vw, 1.75rem);
+    --text-intro: clamp(1rem, 0.94rem + 0.5vw, 1.25rem);
+    --nav-control-size: 44px;
+    --nav-icon-size: 18px;
+    --nav-clearance: 7rem;
+}
